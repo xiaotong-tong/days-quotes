@@ -1,5 +1,5 @@
-import marchOf2024 from "./lib/202403.mjs";
+import marchOf2024 from "./lib/2024.json" assert { type: "json" };
 
-export const list = [...marchOf2024];
+export const list = [].concat(marchOf2024);
 
-export const itemByDay = (day) => list.find((item) => item.date === day);
+export const itemByKey = (key) => list.find((item) => item.key === key);
