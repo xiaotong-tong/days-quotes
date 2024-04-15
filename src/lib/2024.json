@@ -76,5 +76,77 @@
 		"sentence": "今日は本当にありがとうございました。",
 		"parse": "今日は<ruby>本当<rp>(</rp><rt>ほんとう</rt><rp>)</rp></ruby>にありがとうございました。",
 		"chinese": "今天真的非常感谢你。"
+	},
+	{
+		"key": 14,
+		"sentence": "すごくショックでした",
+		"parse": "すごくショックでした",
+		"chinese": "令我很震惊!"
+	},
+	{
+		"key": 15,
+		"sentence": "あら、新しい携帯ですか。",
+		"parse": "あら、<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しい<ruby>携帯<rp>(</rp><rt>けいたい</rt><rp>)</rp></ruby>ですか。",
+		"chinese": "哎呀，是新的手机吗？"
+	},
+	{
+		"key": 16,
+		"sentence": "気にしないで、いつもの病気だから。",
+		"parse": "<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>にしないで、いつもの<ruby>病気<rp>(</rp><rt>びょうき</rt><rp>)</rp></ruby>だから。",
+		"chinese": "别在意，老毛病了。"
+	},
+	{
+		"key": 17,
+		"sentence": "かまいませんよ。",
+		"parse": "かまいませんよ。",
+		"chinese": "没有关系哦。"
+	},
+	{
+		"key": 18,
+		"sentence": "頑張ってやればできるんですよ。",
+		"parse": "<ruby>頑張<rp>(</rp><rt>がんば</rt><rp>)</rp></ruby>ってやればできるんですよ。",
+		"chinese": "加油的话肯定能成功的。"
+	},
+	{
+		"key": 19,
+		"sentence": "はい、絶対勝ちます！",
+		"parse": "はい、<ruby>絶対<rp>(</rp><rt>ぜったい</rt><rp>)</rp></ruby><ruby>勝<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ちます！",
+		"chinese": "好的，一定会赢的！"
+	},
+	{
+		"key": 20,
+		"sentence": "俺と。。付き合わないか。",
+		"parse": "俺と。。<ruby>付<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>き<ruby>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>わないか。",
+		"chinese": "能和我交往吗？"
+	},
+	{
+		"key": 21,
+		"sentence": "じゃあ、留守番よろしくね。",
+		"parse": "じゃあ、<ruby>留守<rp>(</rp><rt>るす</rt><rp>)</rp></ruby><ruby>番<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby>よろしくね。",
+		"chinese": "那么，拜托你在家看家了。"
+	},
+	{
+		"key": 22,
+		"sentence": "もう少し休んでから、帰りなさい。",
+		"parse": "もう<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>し<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>んでから、<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>りなさい。",
+		"chinese": "稍微再休息一会再回去吧。"
+	},
+	{
+		"key": 23,
+		"sentence": "いや、今日は諦めます。",
+		"parse": "いや、今日は<ruby>諦<rp>(</rp><rt>あきら</rt><rp>)</rp></ruby>めます。",
+		"chinese": "不，今天就放弃了。"
+	},
+	{
+		"key": 24,
+		"sentence": "あなたダイエットでもしてるんじゃない？",
+		"parse": "あなたダイエットでもしてるんじゃない？",
+		"chinese": "你是不是在减肥啊？"
+	},
+	{
+		"key": 25,
+		"sentence": "お前には関係ない。",
+		"parse": "お<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>には<ruby>関係<rp>(</rp><rt>かんけい</rt><rp>)</rp></ruby>ない。",
+		"chinese": "跟你没有关系。"
 	}
 ]
