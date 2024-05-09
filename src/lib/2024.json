@@ -148,5 +148,35 @@
 		"sentence": "お前には関係ない。",
 		"parse": "お<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>には<ruby>関係<rp>(</rp><rt>かんけい</rt><rp>)</rp></ruby>ない。",
 		"chinese": "跟你没有关系。"
+	},
+	{
+		"key": 26,
+		"sentence": "じゃあ、きっと幸せになれるわ。",
+		"parse": "じゃあ、きっと<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せになれるわ。",
+		"chinese": "那一定会过得幸福的。"
+	},
+	{
+		"key": 27,
+		"sentence": "勝手に決めないで！",
+		"parse": "<ruby>勝手<rp>(</rp><rt>かって</rt><rp>)</rp></ruby>に<ruby>決<rp>(</rp><rt>き</rt><rp>)</rp></ruby>めないで！",
+		"chinese": "不要随便替我决定！"
+	},
+	{
+		"key": 28,
+		"sentence": "だめよ、きちんと食べないと。",
+		"parse": "だめよ、きちんと<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べないと。",
+		"chinese": "不好好吃饭的话是不行的哦。"
+	},
+	{
+		"key": 29,
+		"sentence": "うわさをすれば。",
+		"parse": "うわさをすれば。",
+		"chinese": "说曹操，曹操就到。"
+	},
+	{
+		"key": 30,
+		"sentence": "饅頭返せ！こら！",
+		"parse": "<ruby>饅頭<rp>(</rp><rt>まんじゅう</rt><rp>)</rp></ruby><ruby>返<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>せ！こら！",
+		"chinese": "馒头还来！还我馒头!喂！"
 	}
 ]
