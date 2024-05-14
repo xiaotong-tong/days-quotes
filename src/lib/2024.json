@@ -178,5 +178,53 @@
 		"sentence": "饅頭返せ！こら！",
 		"parse": "<ruby>饅頭<rp>(</rp><rt>まんじゅう</rt><rp>)</rp></ruby><ruby>返<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>せ！こら！",
 		"chinese": "馒头还来！还我馒头!喂！"
+	},
+	{
+		"key": 31,
+		"sentence": "っていうかお代わり！",
+		"parse": "っていうかお<ruby>代<rp>(</rp><rt>か</rt><rp>)</rp></ruby>わり！",
+		"chinese": "话说，再来一碗！"
+	},
+	{
+		"key": 32,
+		"sentence": "ご飯をおごって！",
+		"parse": "ご<ruby>飯<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>をおごって！",
+		"chinese": "请我吃饭！"
+	},
+	{
+		"key": 33,
+		"sentence": "楽しいもんか！",
+		"parse": "<ruby>楽<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しいもんか！",
+		"chinese": "哪里有趣啊！"
+	},
+	{
+		"key": 34,
+		"sentence": "ちょっと地味かな、、、",
+		"parse": "ちょっと<ruby>地味<rp>(</rp><rt>じみ</rt><rp>)</rp></ruby>かな、、、",
+		"chinese": "是不是太素了点？"
+	},
+	{
+		"key": 35,
+		"sentence": "今度は何を企んでいる？",
+		"parse": "<ruby>今度<rp>(</rp><rt>こんど</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>を<ruby>企<rp>(</rp><rt>たくら</rt><rp>)</rp></ruby>んでいる？",
+		"chinese": "这次又在打什么主意？"
+	},
+	{
+		"key": 36,
+		"sentence": "付き合ってる人はいるの？",
+		"parse": "<ruby>付<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>き<ruby>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>ってる<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>はいるの？",
+		"chinese": "有交往的人吗？"
+	},
+	{
+		"key": 37,
+		"sentence": "目の下にくまができているぞ。",
+		"parse": "<ruby>目<rp>(</rp><rt>め</rt><rp>)</rp></ruby>の<ruby>下<rp>(</rp><rt>した</rt><rp>)</rp></ruby>にくまができているぞ。",
+		"chinese": "眼睛下面有黑眼圈了哦。"
+	},
+	{
+		"key": 38,
+		"sentence": "だって、僕も弱い人間だから。",
+		"parse": "だって、<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>も<ruby>弱<rp>(</rp><rt>よわ</rt><rp>)</rp></ruby>い<ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>だから。",
+		"chinese": "因为我也是弱小的人类。"
 	}
 ]
