@@ -226,5 +226,137 @@
 		"sentence": "だって、僕も弱い人間だから。",
 		"parse": "だって、<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>も<ruby>弱<rp>(</rp><rt>よわ</rt><rp>)</rp></ruby>い<ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>だから。",
 		"chinese": "因为我也是弱小的人类。"
+	},
+	{
+		"key": 39,
+		"sentence": "青春っていうのは一本道じゃないんだ。二つに分かれたり、脇道も近道も行き止まりもある。でも、どの道を行っても、それが君の青春なんだ。",
+		"parse": "<ruby>青春<rp>(</rp><rt>せいしゅん</rt><rp>)</rp></ruby>っていうのは<ruby>一本道<rp>(</rp><rt>いっぼんみち</rt><rp>)</rp></ruby>じゃないんだ。<ruby>二<rp>(</rp><rt>ふた</rt><rp>)</rp></ruby>つに<ruby>分<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>かれたり、<ruby>脇道<rp>(</rp><rt>わきみち</rt><rp>)</rp></ruby>も<ruby>近道<rp>(</rp><rt>ちかみち</rt><rp>)</rp></ruby>も<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>き<ruby>止<rp>(</rp><rt>ど</rt><rp>)</rp></ruby>まりもある。でも、どの<ruby>道<rp>(</rp><rt>みち</rt><rp>)</rp></ruby>を<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>っても、それが<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>の<ruby>青春<rp>(</rp><rt>せいしゅん</rt><rp>)</rp></ruby>なんだ。",
+		"chinese": "青春，并不是一条直路啊。会有分岔路，也会有小路和近路，还会有走不通的死路。但无论走哪一条，那都是你的青春。"
+	},
+	{
+		"key": 40,
+		"sentence": "江戸の夜道は暗くて、助け合わねば、とても歩いてはいけない。誰もが誰かを支え、誰かに支えられながら生きている。少なくとも、俺はきっと、一人では何もできない。",
+		"parse": "<ruby>江戸<rp>(</rp><rt>えど</rt><rp>)</rp></ruby>の<ruby>夜道<rp>(</rp><rt>よみち</rt><rp>)</rp></ruby>は<ruby>暗<rp>(</rp><rt>くら</rt><rp>)</rp></ruby>くて、<ruby>助<rp>(</rp><rt>たす</rt><rp>)</rp></ruby>け<ruby>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>わねば、とても<ruby>歩<rp>(</rp><rt>ある</rt><rp>)</rp></ruby>いてはいけない。<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>もが<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>かを<ruby>支<rp>(</rp><rt>ささ</rt><rp>)</rp></ruby>え<ruby>、誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>かに<ruby>支<rp>(</rp><rt>ささ</rt><rp>)</rp></ruby>えられながら<ruby>生<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きている。<ruby>少<rp>(</rp><rt>すく</rt><rp>)</rp></ruby>なくとも、<ruby>俺<rp>(</rp><rt>おれ</rt><rp>)</rp></ruby>はきっと、<ruby>一人<rp>(</rp><rt>ひとり</rt><rp>)</rp></ruby>では<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>もできない。",
+		"chinese": "江户的夜路很暗，如果不互相扶持，根本无法走下去。每个人都在帮助别人或在接受别人的帮助中生存。至少我是这样的，孤身一人的话我一定什么都做不了。"
+	},
+	{
+		"key": 41,
+		"sentence": "まあ、過去のない人間なんておらんわな。",
+		"parse": "まあ、<ruby>過去<rp>(</rp><rt>かこ</rt><rp>)</rp></ruby>のない<ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>なんておらんわな。",
+		"chinese": "嘛，谁还没有过去啊。"
+	},
+	{
+		"key": 42,
+		"sentence": "悲しみを胸に抱いたまま生きていくのは、決して悲しいことではない。そのひとがいないという寂しさを感じる瞬間は、そのひとのいない寂しさすら忘れてしまった瞬間よりも、本当は幸せなのかもしれない。",
+		"parse": "<ruby>悲<rp>(</rp><rt>かな</rt><rp>)</rp></ruby>しみを<ruby>胸<rp>(</rp><rt>むね</rt><rp>)</rp></ruby>に<ruby>抱<rp>(</rp><rt>いだ</rt><rp>)</rp></ruby>いたまま<ruby>生<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きていくのは、<ruby>決<rp>(</rp><rt>けっ</rt><rp>)</rp></ruby>して<ruby>悲<rp>(</rp><rt>かな</rt><rp>)</rp></ruby>しいことではない。そのひとがいないという<ruby>寂<rp>(</rp><rt>さび</rt><rp>)</rp></ruby>しさを<ruby>感<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>じる<ruby>瞬間<rp>(</rp><rt>しゅんかん</rt><rp>)</rp></ruby>は、そのひとのいない<ruby>寂<rp>(</rp><rt>さび</rt><rp>)</rp></ruby>しさすら<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れてしまった<ruby>瞬間<rp>(</rp><rt>しゅんかん</rt><rp>)</rp></ruby>よりも、<ruby>本当<rp>(</rp><rt>ほんとう</rt><rp>)</rp></ruby>は<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せなのかもしれない。",
+		"chinese": "心怀悲伤地活着，绝不是一件悲伤的事。比起忘记那个人已经不在的孤独感，可能一直记得会更加幸福吧。"
+	},
+	{
+		"key": 43,
+		"sentence": "ねえ、怖いのとか苦しいのとか、二人で分け合えばきっと大丈夫だから。",
+		"parse": "ねえ、<ruby>怖<rp>(</rp><rt>こわ</rt><rp>)</rp></ruby>いのとか<ruby>苦<rp>(</rp><rt>くる</rt><rp>)</rp></ruby>しいのとか、<ruby>二<rp>(</rp><rt>ふた</rt><rp>)</rp></ruby>りで<ruby>分<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>け<ruby>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>えばきっと<ruby>大丈夫<rp>(</rp><rt>だいじょうぶ</rt><rp>)</rp></ruby>だから。",
+		"chinese": "我说，那些可拍的，痛苦的事情，如果两个人一起分担的话，一定会过去的。"
+	},
+	{
+		"key": 44,
+		"sentence": "友達になるには、どうしたらいいんですか。",
+		"parse": "<ruby>友達<rp>(</rp><rt>ともだち</rt><rp>)</rp></ruby>になるには、どうしたらいいんですか。",
+		"chinese": "怎样才能和别人成为朋友呢？"
+	},
+	{
+		"key": 45,
+		"sentence": "闇の中で暗くなっていたら、自分自身がどこにいるかわからなくなるだろう。だから、闇の中にいる時こそ、気合で明るくするんだよ。そしたら、周りも見えてくるんだよ。",
+		"parse": "<ruby>闇<rp>(</rp><rt>やみ</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>で<ruby>暗<rp>(</rp><rt>くら</rt><rp>)</rp></ruby>くなっていたら、<ruby>自分自身<rp>(</rp><rt>じぶんじしん</rt><rp>)</rp></ruby>がどこにいるかわからなくなるだろう。だから、<ruby>闇<rp>(</rp><rt>やみ</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>にいる<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>こそ、<ruby>気合<rp>(</rp><rt>きあ</rt><rp>)</rp></ruby>いで<ruby>明<rp>(</rp><rt>あか</rt><rp>)</rp></ruby>るくするんだよ。そしたら、<ruby>周<rp>(</rp><rt>まわ</rt><rp>)</rp></ruby>りも<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>えてくるんだよ。",
+		"chinese": "在墨色渐浓的黑暗中，人很容易迷失方向吧。所以，越是身处黑暗越要充满干劲，保持开朗。这样，周围的一切也会逐渐变得清晰起来。"
+	},
+	{
+		"key": 46,
+		"sentence": "「勇気」って言葉は、身を奮い立たせる正義の言葉。人を殺す理由なんかに使っちゃだめですよ。",
+		"parse": "「<ruby>勇気<rp>(</rp><rt>ゆうき</rt><rp>)</rp></ruby>」って<ruby>言葉<rp>(</rp><rt>ことば</rt><rp>)</rp></ruby>は、<ruby>身<rp>(</rp><rt>み</rt><rp>)</rp></ruby>を<ruby>奮<rp>(</rp><rt>ふる</rt><rp>)</rp></ruby>い<ruby>立<rp>(</rp><rt>た</rt><rp>)</rp></ruby>たせる<ruby>正義<rp>(</rp><rt>せいぎ</rt><rp>)</rp></ruby>の<ruby>言葉<rp>(</rp><rt>ことば</rt><rp>)</rp></ruby>。<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>を<ruby>殺<rp>(</rp><rt>ころ</rt><rp>)</rp></ruby>す<ruby>理由<rp>(</rp><rt>りゆう</rt><rp>)</rp></ruby>なんかに<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>っちゃだめですよ。",
+		"chinese": "“勇气”一词，是用来形容挺身而出的争议之词，可不能用来当做什么杀人的理由。"
+	},
+	{
+		"key": 47,
+		"sentence": "弱音を吐くのはいい。吐きたければいくらでも吐け、俺が聞いてやる。だが、諦めるようなことだけは言うな！",
+		"parse": "<ruby>弱音<rp>(</rp><rt>よわね</rt><rp>)</rp></ruby>を<ruby>吐<rp>(</rp><rt>は</rt><rp>)</rp></ruby>くのはいい。<ruby>吐<rp>(</rp><rt>は</rt><rp>)</rp></ruby>きたければいくらでも<ruby>吐<rp>(</rp><rt>は</rt><rp>)</rp></ruby>け、<ruby>俺<rp>(</rp><rt>おれ</rt><rp>)</rp></ruby>が<ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>いてやる。だが、<ruby>諦<rp>(</rp><rt>あきら</rt><rp>)</rp></ruby>めるようなことだけは<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>うな！",
+		"chinese": "说泄气话也没关系，无论想说多少我都会听。但是，绝不可以说放弃！"
+	},
+	{
+		"key": 48,
+		"sentence": "あの絵は私にとって特別なんです。あの絵は私に忘れていた色を見せてくれました。灰色だった私の世界に一瞬光が差したんです。",
+		"parse": "あの<ruby>絵<rp>(</rp><rt>え</rt><rp>)</rp></ruby>は<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>にとって<ruby>特別<rp>(</rp><rt>とくべつ</rt><rp>)</rp></ruby>なんです。あの<ruby>絵<rp>(</rp><rt>え</rt><rp>)</rp></ruby>は<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>に<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れていた<ruby>色<rp>(</rp><rt>いろ</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>せてくれました。<ruby>灰色<rp>(</rp><rt>はいいろ</rt><rp>)</rp></ruby>だった<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>の<ruby>世界<rp>(</rp><rt>せかい</rt><rp>)</rp></ruby>に<ruby>一瞬<rp>(</rp><rt>いっしゅん</rt><rp>)</rp></ruby><ruby>光<rp>(</rp><rt>ひかり</rt><rp>)</rp></ruby>が<ruby>差<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>したんです。",
+		"chinese": "那幅画对我来说是特别的。它使我看到了遗忘的色彩，给我曾经灰暗的世界投下了一缕光芒。"
+	},
+	{
+		"key": 49,
+		"sentence": "何があっても、生まれてきたこの時代を憎まないで！人に褒められなくたって構わない！いつでも笑っていられる強さを忘れないで。生き抜けば必ず楽しいことが、たくさん起こるから！",
+		"parse": "<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>があっても、<ruby>生<rp>(</rp><rt>う</rt><rp>)</rp></ruby>まれてきたこの<ruby>時代<rp>(</rp><rt>じだい</rt><rp>)</rp></ruby>を<ruby>憎<rp>(</rp><rt>にく</rt><rp>)</rp></ruby>まないで！<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>に<ruby>褒<rp>(</rp><rt>ほ</rt><rp>)</rp></ruby>められなくたって<ruby>構<rp>(</rp><rt>かま</rt><rp>)</rp></ruby>わない！いつでも<ruby>笑<rp>(</rp><rt>わら</rt><rp>)</rp></ruby>っていられる<ruby>強<rp>(</rp><rt>つよ</rt><rp>)</rp></ruby>さを<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れないで。<ruby>生<rp>(</rp><rt>い</rt><rp>)</rp></ruby>き<ruby>抜<rp>(</rp><rt>ぬ</rt><rp>)</rp></ruby>けば<ruby>必<rp>(</rp><rt>かなら</rt><rp>)</rp></ruby>ず<ruby>楽<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しいことが、たくさん<ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>こるから！",
+		"chinese": "不管发生什么，都不要憎恨你所生活的这个时代！就算没有人褒奖又何妨！任何时候都不要忘记笑容的强大力量。活下去，就一定会有很多值得高兴的事情发生。"
+	},
+	{
+		"key": 50,
+		"sentence": "幸せだから笑うんじゃないよ。笑うから幸せになるんじゃ。",
+		"parse": "<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せだから<ruby>笑<rp>(</rp><rt>わら</rt><rp>)</rp></ruby>うんじゃないよ。<ruby>笑<rp>(</rp><rt>わら</rt><rp>)</rp></ruby>うから<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せになるんじゃ。",
+		"chinese": "可不是因为幸福才笑的哦。是因为笑才能得到幸福。"
+	},
+	{
+		"key": 51,
+		"sentence": "方言は言葉につけたアクセサリー。外したければ外せばいいけど、捨てちゃダメよ。それにはあなたがそこで育ったという大切なメッセージが刻み込まれているんだから。",
+		"parse": "<ruby>方言<rp>(</rp><rt>ほうげん</rt><rp>)</rp></ruby>は<ruby>言葉<rp>(</rp><rt>ことば</rt><rp>)</rp></ruby>につけたアクセサリー。<ruby>外<rp>(</rp><rt>はず</rt><rp>)</rp></ruby>したければ<ruby>外<rp>(</rp><rt>はず</rt><rp>)</rp></ruby>せばいいけど、<ruby>捨<rp>(</rp><rt>す</rt><rp>)</rp></ruby>てちゃダメよ。それにはあなたがそこで<ruby>育<rp>(</rp><rt>そだ</rt><rp>)</rp></ruby>ったという<ruby>大切<rp>(</rp><rt>たいせつ</rt><rp>)</rp></ruby>なメッセージが<ruby>刻<rp>(</rp><rt>きざ</rt><rp>)</rp></ruby>み<ruby>込<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>まれているんだから。",
+		"chinese": "方言是点缀在语言上的饰品，如果想取下的话可以取下来，但不要丢掉它，因为其中刻入了你曾在那里生长的重要信息。"
+	},
+	{
+		"key": 52,
+		"sentence": "全知全能など存在しない。なぜなら、人は一人一人その存在が奇跡だからだ。すべての人は、誰かの愛し、誰かに愛され、この世界は未来へ歩んでいる。オレは今ここにいる人間の力を信じる。",
+		"parse": "<ruby>全知全能<rp>(</rp><rt>ぜんちぜんのう</rt><rp>)</rp></ruby>など<ruby>存在<rp>(</rp><rt>そんざい</rt><rp>)</rp></ruby>しない。なぜなら、<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>は<ruby>一人一人<rp>(</rp><rt>ひとりひとり</rt><rp>)</rp></ruby>その<ruby>存在<rp>(</rp><rt>そんざい</rt><rp>)</rp></ruby>が<ruby>奇跡<rp>(</rp><rt>きせき</rt><rp>)</rp></ruby>だからだ。すべての<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>は、<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>かの<ruby>愛<rp>(</rp><rt>あい</rt><rp>)</rp></ruby>し、<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>かに<ruby>愛<rp>(</rp><rt>あい</rt><rp>)</rp></ruby>され、この<ruby>世界<rp>(</rp><rt>せかい</rt><rp>)</rp></ruby>は<ruby>未来<rp>(</rp><rt>みらい</rt><rp>)</rp></ruby>へ<ruby>歩<rp>(</rp><rt>あゆ</rt><rp>)</rp></ruby>んでいる。オレは<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>ここにいる<ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>の<ruby>力<rp>(</rp><rt>ちから</rt><rp>)</rp></ruby>を<ruby>信<rp>(</rp><rt>しん</rt><rp>)</rp></ruby>じる。",
+		"chinese": "没有什么万能的存在，因为每个人的存在都是奇迹。所有人都会爱人，并且为人所爱。这个世界在不断发展，我相信这里所有人的力量。"
+	},
+	{
+		"key": 53,
+		"sentence": "誰か見ててくれたとか、好きって言ってくれたとか、そういうのって、思い出すたびに宝物みたいに自分を支えてくれるから。しんどい時、地味に効く薬。",
+		"parse": "<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>か<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>ててくれたとか、<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きって<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ってくれたとか、そういうのって、<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>い<ruby>出<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>すたびに<ruby>宝物<rp>(</rp><rt>たからもの</rt><rp>)</rp></ruby>みたいに<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>を<ruby>支<rp>(</rp><rt>ささ</rt><rp>)</rp></ruby>えてくれるから。しんどい<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>、<ruby>地味<rp>(</rp><rt>じみ</rt><rp>)</rp></ruby>に<ruby>効<rp>(</rp><rt>き</rt><rp>)</rp></ruby>く<ruby>薬<rp>(</rp><rt>くすり</rt><rp>)</rp></ruby>。",
+		"chinese": "被人关注，被人告白，这些记忆每次回想起来，都像珍宝一样支撑着我。所以在疲惫的时候，它们就是非常管用的良药。"
+	},
+	{
+		"key": 54,
+		"sentence": "傷付くかもしれない。でも、痛い思いも含めて、恋愛なんじゃないかな。",
+		"parse": "<ruby>傷付く<rp>(</rp><rt>きずつく</rt><rp>)</rp></ruby>かもしれない。でも、<ruby>痛<rp>(</rp><rt>いた</rt><rp>)</rp></ruby>い<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>いも<ruby>含<rp>(</rp><rt>ふく</rt><rp>)</rp></ruby>めて、<ruby>恋愛<rp>(</rp><rt>れんあい</rt><rp>)</rp></ruby>なんじゃないかな。",
+		"chinese": "也许会受伤，但即使是痛苦的记忆，也是爱情的一部分吧。"
+	},
+	{
+		"key": 55,
+		"sentence": "失った物ばかり数えるな！ないものはない！確認せい、お前にまだ残っておるものは何じゃ！",
+		"parse": "<ruby>失<rp>(</rp><rt>うしな</rt><rp>)</rp></ruby>った<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>ばかり<ruby>数<rp>(</rp><rt>かぞ</rt><rp>)</rp></ruby>えるな！ないものはない！<ruby>確認<rp>(</rp><rt>かくにん</rt><rp>)</rp></ruby>せい、お<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>にまだ<ruby>残<rp>(</rp><rt>のこ</rt><rp>)</rp></ruby>っておるものは<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>じゃ！",
+		"chinese": "不要总是计较失去了什么！失去了的东西就是失去了！好好算一算，你还拥有些什么！"
+	},
+	{
+		"key": 56,
+		"sentence": "未来は一瞬一瞬変わっていく。だから先のことを悩むより、今を一生懸命生きればきっといいことあるさ。",
+		"parse": "<ruby>未来<rp>(</rp><rt>みらい</rt><rp>)</rp></ruby>は<ruby>一瞬<rp>(</rp><rt>いっしゅん</rt><rp>)</rp></ruby><ruby>一瞬<rp>(</rp><rt>いっしゅん</rt><rp>)</rp></ruby><ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>わっていく。だから<ruby>先<rp>(</rp><rt>さき</rt><rp>)</rp></ruby>のことを<ruby>悩<rp>(</rp><rt>なや</rt><rp>)</rp></ruby>むより、<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>を<ruby>一生懸命<rp>(</rp><rt>いっしょうけんめい</rt><rp>)</rp></ruby><ruby>生<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きればきっといいことあるさ。",
+		"chinese": "未来瞬息万变。所以，与其为前途担忧，不如努力过好现在，这样一定会有好事发生的。"
+	},
+	{
+		"key": 57,
+		"sentence": "笑ってください。笑うのが、皆さんのいいところです。",
+		"parse": "<ruby>笑<rp>(</rp><rt>わら</rt><rp>)</rp></ruby>ってください。<ruby>笑<rp>(</rp><rt>わら</rt><rp>)</rp></ruby>うのが、<ruby>皆<rp>(</rp><rt>みな</rt><rp>)</rp></ruby>さんのいいところです。",
+		"chinese": "请笑一笑。笑，是人人皆备的优点。"
+	},
+	{
+		"key": 58,
+		"sentence": "カレーは辛い。辛いから美味い。人生もまた同じ。",
+		"parse": "カレーは<ruby>辛<rp>(</rp><rt>から</rt><rp>)</rp></ruby>い。<ruby>辛<rp>(</rp><rt>から</rt><rp>)</rp></ruby>いから<ruby>美味<rp>(</rp><rt>うま</rt><rp>)</rp></ruby>い。<ruby>人生<rp>(</rp><rt>じんせい</rt><rp>)</rp></ruby>もまた<ruby>同<rp>(</rp><rt>おな</rt><rp>)</rp></ruby>じ。",
+		"chinese": "咖喱是辣的，因为辣所以好吃。人生何尝不是如此。"
+	},
+	{
+		"key": 59,
+		"sentence": "理由なんているのかよ。人が人を殺す動機なんて知ったこっちゃねえが、人が人を助ける理由に論理的な思考は存在しねえだろ。",
+		"parse": "<ruby>理由<rp>(</rp><rt>りゆう</rt><rp>)</rp></ruby>なんているのかよ。<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>が<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>を<ruby>殺<rp>(</rp><rt>ころ</rt><rp>)</rp></ruby>す<ruby>動機<rp>(</rp><rt>どうき</rt><rp>)</rp></ruby>なんて<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>ったこっちゃねえが、<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>が<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>を<ruby>助<rp>(</rp><rt>たす</rt><rp>)</rp></ruby>ける<ruby>理由<rp>(</rp><rt>りゆう</rt><rp>)</rp></ruby>に<ruby>論理的<rp>(</rp><rt>ろんりてき</rt><rp>)</rp></ruby>な<ruby>思考<rp>(</rp><rt>しこう</rt><rp>)</rp></ruby>は<ruby>存在<rp>(</rp><rt>そんざい</rt><rp>)</rp></ruby>しねえだろ。",
+		"chinese": "要什么理由啊！我是不理解什么杀人动机，但帮助别人不需要什么逻辑理由吧。"
+	},
+	{
+		"key": 60,
+		"sentence": "人間は忘れていくんだよ。生きていくために。",
+		"parse": "<ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>は<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れていくんだよ。<ruby>生<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きていくために。",
+		"chinese": "人，会不断地遗忘，为了活下去。"
 	}
 ]
