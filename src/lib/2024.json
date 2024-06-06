@@ -388,5 +388,41 @@
 		"sentence": "君の心が見たものが現実。",
 		"parse": "<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>の<ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>が<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>たものが<ruby>現実<rp>(</rp><rt>げんじつ</rt><rp>)</rp></ruby>。",
 		"chinese": "你的心之所见即为现实。"
+	},
+	{
+		"key": 66,
+		"sentence": "あなたはもっと前向きに、自分を好きになるべきだよ。",
+		"parse": "あなたはもっと<ruby>前向<rp>(</rp><rt>まえむ</rt><rp>)</rp></ruby>きに、<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>を<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きになるべきだよ。",
+		"chinese": "你应该更加积极地喜欢上自己。"
+	},
+	{
+		"key": 67,
+		"sentence": "希望はいつでもある。見つけることができるのは自分次第。",
+		"parse": "<ruby>希望<rp>(</rp><rt>きぼう</rt><rp>)</rp></ruby>はいつでもある。<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>つけることができるのは<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby><ruby>次第<rp>(</rp><rt>しだい</rt><rp>)</rp></ruby>。",
+		"chinese": "希望始终存在。能否找到取决于自己。"
+	},
+	{
+		"key": 68,
+		"sentence": "夢を追いかけることは、決して無駄ではない。",
+		"parse": "<ruby>夢<rp>(</rp><rt>ゆめ</rt><rp>)</rp></ruby>を<ruby>追<rp>(</rp><rt>お</rt><rp>)</rp></ruby>いかけることは、<ruby>決<rp>(</rp><rt>けっ</rt><rp>)</rp></ruby>して<ruby>無駄<rp>(</rp><rt>むだ</rt><rp>)</rp></ruby>ではない。",
+		"chinese": "追逐梦想绝不是徒劳无益的。"
+	},
+	{
+		"key": 69,
+		"sentence": "弱さも、時には強さの証なんだよ。",
+		"parse": "<ruby>弱<rp>(</rp><rt>よわ</rt><rp>)</rp></ruby>さも、<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>には<ruby>強<rp>(</rp><rt>つよ</rt><rp>)</rp></ruby>さの<ruby>証<rp>(</rp><rt>あかし</rt><rp>)</rp></ruby>なんだよ。",
+		"chinese": "弱点，有时恰恰也是强大的证明。"
+	},
+	{
+		"key": 70,
+		"sentence": "幸せって、時には自分の力でつかみ取るものじゃなくて、他の人からもらうものなんだよね。",
+		"parse": "<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せって、<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>には<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>の<ruby>力<rp>(</rp><rt>ちから</rt><rp>)</rp></ruby>でつかみ<ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>るものじゃなくて、<ruby>他<rp>(</rp><rt>ほか</rt><rp>)</rp></ruby>の<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>からもらうものなんだよね。",
+		"chinese": "幸福有时不是自己努力争取的，而是从他人那里得到的。"
+	},
+	{
+		"key": 71,
+		"sentence": "心の声に耳を傾ければ、答えが見つかる。",
+		"parse": "<ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>の<ruby>声<rp>(</rp><rt>こえ</rt><rp>)</rp></ruby>に<ruby>耳<rp>(</rp><rt>みみ</rt><rp>)</rp></ruby>を<ruby>傾<rp>(</rp><rt>かたむ</rt><rp>)</rp></ruby>ければ、<ruby>答<rp>(</rp><rt>こた</rt><rp>)</rp></ruby>えが<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>つかる。",
+		"chinese": "倾听内心的声音，就能找到答案。"
 	}
 ]
