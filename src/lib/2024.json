@@ -424,5 +424,59 @@
 		"sentence": "心の声に耳を傾ければ、答えが見つかる。",
 		"parse": "<ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>の<ruby>声<rp>(</rp><rt>こえ</rt><rp>)</rp></ruby>に<ruby>耳<rp>(</rp><rt>みみ</rt><rp>)</rp></ruby>を<ruby>傾<rp>(</rp><rt>かたむ</rt><rp>)</rp></ruby>ければ、<ruby>答<rp>(</rp><rt>こた</rt><rp>)</rp></ruby>えが<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>つかる。",
 		"chinese": "倾听内心的声音，就能找到答案。"
+	},
+	{
+		"key": 72,
+		"sentence": "あなたは花が咲いたように笑う。その顔が好きなんです。",
+		"parse": "あなたは<ruby>花<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>が<ruby>咲<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>いたように<ruby>笑<rp>(</rp><rt>わら</rt><rp>)</rp></ruby>う。その<ruby>顔<rp>(</rp><rt>かお</rt><rp>)</rp></ruby>が<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きなんです。",
+		"chinese": "你如花一般绽放的微笑，是我喜欢的样子。"
+	},
+	{
+		"key": 73,
+		"sentence": "あなたを見上げたり、見下ろしたり、盗み見たり、まじまじ見たり、そんなことが何よりかけがえのない幸せでした。",
+		"parse": "あなたを<ruby>見上<rp>(</rp><rt>みあ</rt><rp>)</rp></ruby>げたり、<ruby>見下<rp>(</rp><rt>みお</rt><rp>)</rp></ruby>ろしたり、<ruby>盗<rp>(</rp><rt>ぬす</rt><rp>)</rp></ruby>み<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>たり、まじまじ<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>たり、そんなことが<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>よりかけがえのない<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せでした。",
+		"chinese": "能仰望你，俯视你，偷偷看你，凝视你，对我而言，都是无可替代的幸福。"
+	},
+	{
+		"key": 74,
+		"sentence": "あなたに会って、あたしの人生は星屑をまいたように輝いたんだ。",
+		"parse": "あなたに<ruby>会<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>って、あたしの<ruby>人生<rp>(</rp><rt>じんせい</rt><rp>)</rp></ruby>は<ruby>星屑<rp>(</rp><rt>ほしくず</rt><rp>)</rp></ruby>をまいたように<ruby>輝<rp>(</rp><rt>かがや</rt><rp>)</rp></ruby>いたんだ。",
+		"chinese": "遇见你，我的人生就像是撒下了星星般的闪亮耀眼。"
+	},
+	{
+		"key": 75,
+		"sentence": "恋はまこと影法師、いくら追っても逃げていく。こちらが逃げれば追ってきて、こちらが追えば逃げていく。",
+		"parse": "<ruby>恋<rp>(</rp><rt>こい</rt><rp>)</rp></ruby>はまこと<ruby>影法師<rp>(</rp><rt>かげぼうし</rt><rp>)</rp></ruby>、いくら<ruby>追<rp>(</rp><rt>お</rt><rp>)</rp></ruby>っても<ruby>逃<rp>(</rp><rt>に</rt><rp>)</rp></ruby>げていく。こちらが<ruby>逃<rp>(</rp><rt>に</rt><rp>)</rp></ruby>げれば<ruby>追<rp>(</rp><rt>お</rt><rp>)</rp></ruby>ってきて、こちらが<ruby>追<rp>(</rp><rt>お</rt><rp>)</rp></ruby>えば<ruby>逃<rp>(</rp><rt>に</rt><rp>)</rp></ruby>げていく。",
+		"chinese": "痴人求爱，如形捕影。瞻之在前，即之已冥。"
+	},
+	{
+		"key": 76,
+		"sentence": "結婚したかったこともあったけど、今は恋がしたい。誰かに恋をして、すごくすごーく好きになって、なれたら、新しい恋ができたら、何か変わるのかな。",
+		"parse": "<ruby>結婚<rp>(</rp><rt>けっこん</rt><rp>)</rp></ruby>したかったこともあったけど、<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>は<ruby>恋<rp>(</rp><rt>こい</rt><rp>)</rp></ruby>がしたい。<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>かに<ruby>恋<rp>(</rp><rt>こい</rt><rp>)</rp></ruby>をして、すごくすごーく<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きになって、なれたら、<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しい<ruby>恋<rp>(</rp><rt>こい</rt><rp>)</rp></ruby>ができたら、<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>か<ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>わるのかな。",
+		"chinese": "虽然想过结婚，但现在我想去谈恋爱。爱上一个人，然后非常非常地喜欢。这样的话，若是开始一段新的恋情，是不是就会有所改变呢？"
+	},
+	{
+		"key": 77,
+		"sentence": "恋愛だって人間同士の関わり合いなんだから、相手を思いやれないと上手くいきっこないよ。",
+		"parse": "<ruby>恋愛<rp>(</rp><rt>れんあい</rt><rp>)</rp></ruby>だって<ruby>人間同士<rp>(</rp><rt>にんげんどうし</rt><rp>)</rp></ruby>の<ruby>関<rp>(</rp><rt>かか</rt><rp>)</rp></ruby>わり<ruby>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>いなんだから、<ruby>相手<rp>(</rp><rt>あいて</rt><rp>)</rp></ruby>を<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>いやれないと<ruby>上手<rp>(</rp><rt>うま</rt><rp>)</rp></ruby>くいきっこないよ。",
+		"chinese": "恋爱也是一种人际关系，如果不为对方着想的话，是无法顺利走下去的。"
+	},
+	{
+		"key": 78,
+		"sentence": "あなたが好きよ。だからあなたの過去や今の状況なんて気にならないわ。だって、そのすべてが今のあなたを形成しているんだもの。私はそんなあなたを愛しているの。",
+		"parse": "あなたが<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きよ。だからあなたの<ruby>過去<rp>(</rp><rt>かこ</rt><rp>)</rp></ruby>や<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>の<ruby>状況<rp>(</rp><rt>じょうきょう</rt><rp>)</rp></ruby>なんて<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>にならないわ。だって、そのすべてが<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>のあなたを<ruby>形成<rp>(</rp><rt>けいせい</rt><rp>)</rp></ruby>しているんだもの。<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>はそんなあなたを<ruby>愛<rp>(</rp><rt>あい</rt><rp>)</rp></ruby>しているの。",
+		"chinese": "我喜欢你，所以我不在乎你的过去和现在。因为，正是它们造就了现在的你啊。我爱的就是这样的你。"
+	},
+	{
+		"key": 79,
+		"sentence": "人間はいくつになっても恋をする。年寄りは枯れるなんて考えは間違った常識だ。",
+		"parse": "<ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>はいくつになっても<ruby>恋<rp>(</rp><rt>こい</rt><rp>)</rp></ruby>をする。<ruby>年寄<rp>(</rp><rt>としよ</rt><rp>)</rp></ruby>りは<ruby>枯<rp>(</rp><rt>か</rt><rp>)</rp></ruby>れるなんて<ruby>考<rp>(</rp><rt>かんが</rt><rp>)</rp></ruby>えは<ruby>間違<rp>(</rp><rt>まちが</rt><rp>)</rp></ruby>った<ruby>常識<rp>(</rp><rt>じょうしき</rt><rp>)</rp></ruby>だ。",
+		"chinese": "人不管到了多大年纪都会坠入爱河。说什么人老了就不会有爱情了，这种认知是错误的。"
+	},
+	{
+		"key": 80,
+		"sentence": "もうすぐバレンタインですね。好きな子の好きな子が分かる日ですね。",
+		"parse": "もうすぐバレンタインですね。<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きな<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>の<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きな<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>が<ruby>分<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>かる<ruby>日<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>ですね。",
+		"chinese": "马上就是情人节了，这是知道喜欢的人喜欢谁的日子。"
 	}
 ]
