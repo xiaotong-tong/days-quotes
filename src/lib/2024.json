@@ -490,5 +490,65 @@
 		"sentence": "どんなに辛いことがあっても、前を向いて進もう。",
 		"parse": "どんなに<ruby>辛<rp>(</rp><rt>つら</rt><rp>)</rp></ruby>いことがあっても、<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>を<ruby>向<rp>(</rp><rt>む</rt><rp>)</rp></ruby>いて<ruby>進<rp>(</rp><rt>すす</rt><rp>)</rp></ruby>もう。",
 		"chinese": "无论经历多少艰辛，都要勇敢地朝前走。"
+	},
+	{
+		"key": 83,
+		"sentence": "僕はもう逃げません。あなたが好きです。たとえ明日あなたの気持ちが変わったとしても。",
+		"parse": "<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>はもう<ruby>逃<rp>(</rp><rt>に</rt><rp>)</rp></ruby>げません。あなたが<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きです。たとえ<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>あなたの<ruby>気持<rp>(</rp><rt>きも</rt><rp>)</rp></ruby>ちが<ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>わったとしても。",
+		"chinese": "我不会再逃避了。我喜欢你。即使明天你会改变心意，我也还是喜欢你。"
+	},
+	{
+		"key": 84,
+		"sentence": "私を好きになりなさい！その代わり私があなたを大好きになります。",
+		"parse": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>を<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きになりなさい！その<ruby>代<rp>(</rp><rt>かわ</rt><rp>)</rp></ruby>り<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>があなたを<ruby>大好<rp>(</rp><rt>だいす</rt><rp>)</rp></ruby>きになります。",
+		"chinese": "请你喜欢我！而我也会非常喜欢你。"
+	},
+	{
+		"key": 85,
+		"sentence": "あれ、あっ、なんかひょっとして寒いのかなぁ。手、繋ぐ。",
+		"parse": "あれ、あっ、なんかひょっとして<ruby>寒<rp>(</rp><rt>さむ</rt><rp>)</rp></ruby>いのかなぁ。<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby>、<ruby>繋<rp>(</rp><rt>つな</rt><rp>)</rp></ruby>ぐ。",
+		"chinese": "咦？啊，你是不是冷啊？牵着我的手吧。"
+	},
+	{
+		"key": 86,
+		"sentence": "結婚て、幸せになるためにするものじゃなくて、もしかしてこの人となら、不幸になっても良いって思えるような人とするものなんじゃないかな。",
+		"parse": "<ruby>結婚<rp>(</rp><rt>けっこん</rt><rp>)</rp></ruby>て、<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せになるためにするものじゃなくて、もしかしてこの<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>となら、<ruby>不幸<rp>(</rp><rt>ふこう</rt><rp>)</rp></ruby>になっても<ruby>良<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>いって<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>えるような<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>とするものなんじゃないかな。",
+		"chinese": "结婚的目的，不是为了获得幸福，而是说，如果和这个人结婚，哪怕是不幸也无妨。"
+	},
+	{
+		"key": 87,
+		"sentence": "「君は幸せでしたか」と聞かれたら、俺はあの頃と変わらずこう答えるだろう。「とれも幸せでした」と。そして「今も幸せだ」と答える。",
+		"parse": "「<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>は<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せでしたか」と<ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>かれたら、<ruby>俺<rp>(</rp><rt>おれ</rt><rp>)</rp></ruby>はあの<ruby>頃<rp>(</rp><rt>ころ</rt><rp>)</rp></ruby>と<ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>わらずこう<ruby>答<rp>(</rp><rt>こた</rt><rp>)</rp></ruby>えるだろう。「とれも<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せでした」と。そして「<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>も<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せだ」と<ruby>答<rp>(</rp><rt>こた</rt><rp>)</rp></ruby>える。",
+		"chinese": "如果有人问我,“你幸福吗？”我像我会给出与当初相同的答复，“我十分幸福”。而且，“我现在也很幸福”。"
+	},
+	{
+		"key": 88,
+		"sentence": "恋が始まるには、ほんの少しの希望があれば十分です。",
+		"parse": "<ruby>恋<rp>(</rp><rt>こい</rt><rp>)</rp></ruby>が<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>まるには、ほんの<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>しの<ruby>希望<rp>(</rp><rt>きぼう</rt><rp>)</rp></ruby>があれば<ruby>十分<rp>(</rp><rt>じゅうぶん</rt><rp>)</rp></ruby>です。",
+		"chinese": "恋爱的萌发，只需要那么一丁点儿的希望就足够了。"
+	},
+	{
+		"key": 89,
+		"sentence": "私は先生に、二つのものをもらいました。「好き」って気持ちと、先生みたいに「誰かを助けたい」っていう夢です。",
+		"parse": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>に、<ruby>二<rp>(</rp><rt>ふた</rt><rp>)</rp></ruby>つのものをもらいました。「<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>き」って<ruby>気持<rp>(</rp><rt>きも</rt><rp>)</rp></ruby>ちと、<ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>みたいに「<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>かを<ruby>助<rp>(</rp><rt>たす</rt><rp>)</rp></ruby>けたい」っていう<ruby>夢<rp>(</rp><rt>ゆめ</rt><rp>)</rp></ruby>です。",
+		"chinese": "我从老师那里得到了两样东西。名为“喜欢”的感情，以及像老师那样“帮助别人”的梦想。"
+	},
+	{
+		"key": 90,
+		"sentence": "恋こそが命を息づかせる源なんだよ。",
+		"parse": "<ruby>恋<rp>(</rp><rt>こい</rt><rp>)</rp></ruby>こそが<ruby>命<rp>(</rp><rt>いのち</rt><rp>)</rp></ruby>を<ruby>息<rp>(</rp><rt>いき</rt><rp>)</rp></ruby>づかせる<ruby>源<rp>(</rp><rt>みなもと</rt><rp>)</rp></ruby>なんだよ。",
+		"chinese": "爱情才是让生命焕发生机的根源。"
+	},
+	{
+		"key": 91,
+		"sentence": "鳴る神の、少し響みて、さし曇り、雨も降らぬか、君を留めむ。",
+		"parse": "<ruby>鳴<rp>(</rp><rt>な</rt><rp>)</rp></ruby>る<ruby>神<rp>(</rp><rt>かみ</rt><rp>)</rp></ruby>の、<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>し<ruby>響<rp>(</rp><rt>とよ</rt><rp>)</rp></ruby>みて、さし<ruby>曇<rp>(</rp><rt>くも</rt><rp>)</rp></ruby>り、<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>も<ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>らぬか、<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>を<ruby>留<rp>(</rp><rt>とど</rt><rp>)</rp></ruby>めむ。",
+		"chinese": "隐约雷鸣，阴霾天空，但判风雨来，能留你在此。"
+	},
+	{
+		"key": 92,
+		"sentence": "鳴る神の、少し響みて、降らずとも、吾は留まらむ、妹し留めば。",
+		"parse": "<ruby>鳴<rp>(</rp><rt>な</rt><rp>)</rp></ruby>る<ruby>神<rp>(</rp><rt>かみ</rt><rp>)</rp></ruby>の、<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>し<ruby>響<rp>(</rp><rt>とよ</rt><rp>)</rp></ruby>みて、<ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>らずとも、<ruby>吾<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>は<ruby>留<rp>(</rp><rt>とど</rt><rp>)</rp></ruby>まらむ<ruby>妹<rp>(</rp><rt>いも</rt><rp>)</rp></ruby>し<ruby>留<rp>(</rp><rt>とど</rt><rp>)</rp></ruby>めば。",
+		"chinese": "隐约雷鸣，阴霾天空，即使天无雨，我亦留此地。"
 	}
 ]
