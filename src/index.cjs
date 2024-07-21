@@ -1,9 +1,10 @@
 const marchOf1To100 = require("./lib/1-100.json");
+const marchOf101To200 = require("./lib/101-200.json");
 
 const poetryOf1To100 = require("./poetryLib/1-100.json");
 
 // 每日一句日语学习
-exports.list = [].concat(marchOf1To100);
+exports.list = [].concat(marchOf1To100, marchOf101To200);
 exports.itemByKey = (key) => exports.list.find((item) => item.key === key);
 exports.quotesCount = exports.list.length;
 

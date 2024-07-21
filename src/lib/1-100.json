@@ -550,5 +550,53 @@
 		"sentence": "鳴る神の、少し響みて、降らずとも、吾は留まらむ、妹し留めば。",
 		"parse": "<ruby>鳴<rp>(</rp><rt>な</rt><rp>)</rp></ruby>る<ruby>神<rp>(</rp><rt>かみ</rt><rp>)</rp></ruby>の、<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>し<ruby>響<rp>(</rp><rt>とよ</rt><rp>)</rp></ruby>みて、<ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>らずとも、<ruby>吾<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>は<ruby>留<rp>(</rp><rt>とど</rt><rp>)</rp></ruby>まらむ<ruby>妹<rp>(</rp><rt>いも</rt><rp>)</rp></ruby>し<ruby>留<rp>(</rp><rt>とど</rt><rp>)</rp></ruby>めば。",
 		"chinese": "隐约雷鸣，阴霾天空，即使天无雨，我亦留此地。"
+	},
+	{
+		"key": 93,
+		"sentence": "いいでしょ？あなたのそばに立っているだけで幸せなの。",
+		"parse": "いいでしょ？あなたのそばに<ruby>立<rp>(</rp><rt>た</rt><rp>)</rp></ruby>っているだけで<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せなの。",
+		"chinese": "你知道吗？单是站在你身边我就觉得无比幸福。"
+	},
+	{
+		"key": 94,
+		"sentence": "好きだからだよ、オメェのことが好きだからだよ。この地球上の、誰よりも。",
+		"parse": "<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きだからだよ、オメェのことが<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きだからだよ。この<ruby>地球上<rp>(</rp><rt>ちきゅうじょう</rt><rp>)</rp></ruby>の、<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>よりも。",
+		"chinese": "喜欢你，因为我喜欢你，比这地球上的任何人都要喜欢你。"
+	},
+	{
+		"key": 95,
+		"sentence": "風林火山。疾きこと風の如く、徐かなること林の如く、侵掠すること火の如く、動かざること山の如く。",
+		"parse": "<ruby>風林火山<rp>(</rp><rt>ふうりんかざん</rt><rp>)</rp></ruby>。<ruby>疾<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>きこと<ruby>風<rp>(</rp><rt>かぜ</rt><rp>)</rp></ruby>の<ruby>如<rp>(</rp><rt>ごと</rt><rp>)</rp></ruby>く、<ruby>徐<rp>(</rp><rt>しず</rt><rp>)</rp></ruby>かなること<ruby>林<rp>(</rp><rt>はやし</rt><rp>)</rp></ruby>の<ruby>如<rp>(</rp><rt>ごと</rt><rp>)</rp></ruby>く、<ruby>侵掠<rp>(</rp><rt>しんりゃく</rt><rp>)</rp></ruby>すること<ruby>火<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>の<ruby>如<rp>(</rp><rt>ごと</rt><rp>)</rp></ruby>く、<ruby>動<rp>(</rp><rt>うご</rt><rp>)</rp></ruby>かざること<ruby>山<rp>(</rp><rt>やま</rt><rp>)</rp></ruby>の<ruby>如<rp>(</rp><rt>ごと</rt><rp>)</rp></ruby>く。",
+		"chinese": "风林火山。其疾如风，其徐如林，侵掠如火，不动如山。"
+	},
+	{
+		"key": 96,
+		"sentence": "僕は思う。世界が間違っているとすれば、歪めているのはこの世界に存在するものすべてだ。",
+		"parse": "<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>は<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う。<ruby>世界<rp>(</rp><rt>せかい</rt><rp>)</rp></ruby>が<ruby>間違<rp>(</rp><rt>まちが</rt><rp>)</rp></ruby>っているとすれば、<ruby>歪<rp>(</rp><rt>ゆが</rt><rp>)</rp></ruby>めているのはこの<ruby>世界<rp>(</rp><rt>せかい</rt><rp>)</rp></ruby>に<ruby>存在<rp>(</rp><rt>そんざい</rt><rp>)</rp></ruby>するものすべてだ。",
+		"chinese": "我想，如果说这个世界是错误的话，那么造成这个错误的便是————存在于这个世界的万物。"
+	},
+	{
+		"key": 97,
+		"sentence": "花ならつぼみの私の人生。この青春の始まりを悔いのないように大切にしたい。",
+		"parse": "<ruby>花<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>ならつぼみの<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>の<ruby>人生<rp>(</rp><rt>じんせい</rt><rp>)</rp></ruby>。この<ruby>青春<rp>(</rp><rt>せいしゅん</rt><rp>)</rp></ruby>の<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>まりを<ruby>悔<rp>(</rp><rt>く</rt><rp>)</rp></ruby>いのないように<ruby>大切<rp>(</rp><rt>たいせつ</rt><rp>)</rp></ruby>にしたい。",
+		"chinese": "我的人生正如未开的花蕾。我想好好珍惜这青春的开始，不留下遗憾。"
+	},
+	{
+		"key": 98,
+		"sentence": "恋が消えなければ、夫婦の愛情は起こらない。",
+		"parse": "<ruby>恋<rp>(</rp><rt>こい</rt><rp>)</rp></ruby>が<ruby>消<rp>(</rp><rt>き</rt><rp>)</rp></ruby>えなければ、<ruby>夫婦<rp>(</rp><rt>ふうふ</rt><rp>)</rp></ruby>の<ruby>愛情<rp>(</rp><rt>あいじょう</rt><rp>)</rp></ruby>は<ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>こらない。",
+		"chinese": "爱情不去，夫妻间的感情不来。"
+	},
+	{
+		"key": 99,
+		"sentence": "疑問の段階なら、真相を追求するべきです。真相を知った上で、疑問が確信に変わるかを判断しない限り、疑問は永遠に疑問のままです。",
+		"parse": "<ruby>疑問<rp>(</rp><rt>ぎもん</rt><rp>)</rp></ruby>の<ruby>段階<rp>(</rp><rt>だんかい</rt><rp>)</rp></ruby>なら、<ruby>真相<rp>(</rp><rt>しんそう</rt><rp>)</rp></ruby>を<ruby>追求<rp>(</rp><rt>ついきゅう</rt><rp>)</rp></ruby>するべきです。<ruby>真相<rp>(</rp><rt>しんそう</rt><rp>)</rp></ruby>を<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>った<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby>で、<ruby>疑問<rp>(</rp><rt>ぎもん</rt><rp>)</rp></ruby>が<ruby>確信<rp>(</rp><rt>かくしん</rt><rp>)</rp></ruby>に<ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>わるかを<ruby>判断<rp>(</rp><rt>はんだん</rt><rp>)</rp></ruby>しない<ruby>限<rp>(</rp><rt>かぎ</rt><rp>)</rp></ruby>り、<ruby>疑問<rp>(</rp><rt>ぎもん</rt><rp>)</rp></ruby>は<ruby>永遠<rp>(</rp><rt>えいえん</rt><rp>)</rp></ruby>に<ruby>疑問<rp>(</rp><rt>ぎもん</rt><rp>)</rp></ruby>のままです。",
+		"chinese": "在有所怀疑的时候，就要去探寻真相。得到真相后，如果仍然不能解开自己的疑惑，那么怀疑就永远只是怀疑。"
+	},
+	{
+		"key": 100,
+		"sentence": "初心忘るべからず。",
+		"parse": "<ruby>初心忘<rp>(</rp><rt>しょしんわす</rt><rp>)</rp></ruby>るべからず。",
+		"chinese": "不忘初心。"
 	}
 ]
