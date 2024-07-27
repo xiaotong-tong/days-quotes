@@ -28,5 +28,23 @@
 		"sentence": "過ぎたことを悔やんでも、しょうがないじゃないか。目はどうして前についていると思う？前向きに進んでいくためだよ。",
 		"parse": "<ruby>過<rp>(</rp><rt>す</rt><rp>)</rp></ruby>ぎたことを<ruby>悔<rp>(</rp><rt>く</rt><rp>)</rp></ruby>やんでも、しょうがないじゃないか。<ruby>目<rp>(</rp><rt>め</rt><rp>)</rp></ruby>はどうして<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>についていると<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う？<ruby>前向<rp>(</rp><rt>まえむ</rt><rp>)</rp></ruby>きに<ruby>進<rp>(</rp><rt>すす</rt><rp>)</rp></ruby>んでいくためだよ。",
 		"chinese": "即便追悔过去也不能改变什么。你以为眼睛为什么要长在前面？就是为了让人向前看啊。"
+	},
+	{
+		"key": 106,
+		"sentence": "己の夢に向き合って、苦しめることは、とてもとても幸せなことなのだ。",
+		"parse": "<ruby>己<rp>(</rp><rt>おのれ</rt><rp>)</rp></ruby>の<ruby>夢<rp>(</rp><rt>ゆめ</rt><rp>)</rp></ruby>に<ruby>向<rp>(</rp><rt>む</rt><rp>)</rp></ruby>き<ruby>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>って、<ruby>苦<rp>(</rp><rt>くる</rt><rp>)</rp></ruby>しめる<ruby>事<rp>(</rp><rt>こと</rt><rp>)</rp></ruby>は、とてもとても<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せな<ruby>事<rp>(</rp><rt>こと</rt><rp>)</rp></ruby>なのだ。",
+		"chinese": "能够追逐自己的梦想，为实现梦想而痛苦，是件极为幸福的事情。"
+	},
+	{
+		"key": 107,
+		"sentence": "世の中に不満があるなら自分を変えろ、それが嫌なら耳と目を閉じ、口をつぐんで孤独に暮らせ。",
+		"parse": "<ruby>世<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>に<ruby>不満<rp>(</rp><rt>ふまん</rt><rp>)</rp></ruby>があるなら<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>を<ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>えろ、それが<ruby>嫌<rp>(</rp><rt>いや</rt><rp>)</rp></ruby>なら<ruby>耳<rp>(</rp><rt>みみ</rt><rp>)</rp></ruby>と<ruby>目<rp>(</rp><rt>め</rt><rp>)</rp></ruby>を<ruby>閉<rp>(</rp><rt>と</rt><rp>)</rp></ruby>じ、<ruby>口<rp>(</rp><rt>くち</rt><rp>)</rp></ruby>をつぐんで<ruby>孤独<rp>(</rp><rt>こどく</rt><rp>)</rp></ruby>に<ruby>暮<rp>(</rp><rt>く</rt><rp>)</rp></ruby>らせ。",
+		"chinese": "对世界感到不满的话就改变自己。不愿改变的话就堵上眼睛和耳朵，闭上嘴孤独地活着吧。"
+	},
+	{
+		"key": 108,
+		"sentence": "自分自身のことについて誠実でない人間は、他人から重んじられる資格はない。",
+		"parse": "<ruby>自分自身<rp>(</rp><rt>じぶんじしん</rt><rp>)</rp></ruby>の<ruby>事<rp>(</rp><rt>こと</rt><rp>)</rp></ruby>について<ruby>誠実<rp>(</rp><rt>せいじつ</rt><rp>)</rp></ruby>でない<ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>は、<ruby>他人<rp>(</rp><rt>たにん</rt><rp>)</rp></ruby>から<ruby>重<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>んじられる<ruby>資格<rp>(</rp><rt>しかく</rt><rp>)</rp></ruby>はない。",
+		"chinese": "无法诚实面对自己的人，没有资格得到别人的尊重。"
 	}
 ]
