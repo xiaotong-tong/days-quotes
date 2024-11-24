@@ -1,0 +1,51 @@
+[
+	{
+		"key": 101,
+		"word": "下読み",
+		"kana": "したよみ",
+		"explanation": "预读",
+		"hasKanji": true
+	},
+	{
+		"key": 102,
+		"word": "天文学",
+		"kana": "てんもんがく",
+		"explanation": "天文学",
+		"hasKanji": true
+	},
+	{
+		"key": 103,
+		"word": "水鉄砲",
+		"kana": "みずでっぽう",
+		"explanation": "水枪",
+		"hasKanji": true
+	},
+	{
+		"key": 104,
+		"word": "砂糖",
+		"kana": "さとう",
+		"explanation": "砂糖",
+		"hasKanji": true
+	},
+	{
+		"key": 105,
+		"word": "ググる",
+		"kana": "ググる",
+		"explanation": "谷歌",
+		"hasKanji": false
+	},
+	{
+		"key": 106,
+		"word": "天梯",
+		"kana": "てんてい",
+		"explanation": "天梯",
+		"hasKanji": true
+	},
+	{
+		"key": 107,
+		"word": "日向雨",
+		"kana": "ひなたあめ",
+		"explanation": "太阳雨",
+		"hasKanji": true
+	}
+]

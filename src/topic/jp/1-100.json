@@ -1,0 +1,702 @@
+[
+	{
+		"key": 1,
+		"word": "さざなみ",
+		"kana": "さざなみ",
+		"explanation": "涟漪",
+		"hasKanji": false
+	},
+	{
+		"key": 2,
+		"word": "五月雨",
+		"kana": "さみだれ",
+		"explanation": "梅雨",
+		"hasKanji": true
+	},
+	{
+		"key": 3,
+		"word": "時雨",
+		"kana": "しぐれ",
+		"explanation": "秋冬之交的阵雨，忽下忽停的雨",
+		"hasKanji": true
+	},
+	{
+		"key": 4,
+		"word": "雪玉",
+		"kana": "ゆきだま",
+		"explanation": "雪球",
+		"hasKanji": true
+	},
+	{
+		"key": 5,
+		"word": "雪だるま",
+		"kana": "ゆきだるま",
+		"explanation": "雪人",
+		"hasKanji": true
+	},
+	{
+		"key": 6,
+		"word": "猫かぶり",
+		"kana": "ねこかぶり",
+		"explanation": "假装和善，伪装成可爱的人",
+		"hasKanji": true
+	},
+	{
+		"key": 7,
+		"word": "春",
+		"kana": "はる",
+		"explanation": "春天",
+		"hasKanji": true
+	},
+	{
+		"key": 8,
+		"word": "夏",
+		"kana": "なつ",
+		"explanation": "夏天",
+		"hasKanji": true
+	},
+	{
+		"key": 9,
+		"word": "秋",
+		"kana": "あき",
+		"explanation": "秋天",
+		"hasKanji": true
+	},
+	{
+		"key": 10,
+		"word": "冬",
+		"kana": "ふゆ",
+		"explanation": "冬天",
+		"hasKanji": true
+	},
+	{
+		"key": 11,
+		"word": "雪",
+		"kana": "ゆき",
+		"explanation": "雪",
+		"hasKanji": true
+	},
+	{
+		"key": 12,
+		"word": "雨",
+		"kana": "あめ",
+		"explanation": "雨",
+		"hasKanji": true
+	},
+	{
+		"key": 13,
+		"word": "風",
+		"kana": "かぜ",
+		"explanation": "风",
+		"hasKanji": true
+	},
+	{
+		"key": 14,
+		"word": "春夏秋冬",
+		"kana": "しゅんかしゅうとう",
+		"explanation": "春夏秋冬,四季",
+		"hasKanji": true
+	},
+	{
+		"key": 15,
+		"word": "孤独",
+		"kana": "こどく",
+		"explanation": "孤独",
+		"hasKanji": true
+	},
+	{
+		"key": 16,
+		"word": "七夕",
+		"kana": "たなばた",
+		"explanation": "七夕",
+		"hasKanji": true
+	},
+	{
+		"key": 17,
+		"word": "花火",
+		"kana": "はなび",
+		"explanation": "烟花",
+		"hasKanji": true
+	},
+	{
+		"key": 18,
+		"word": "織り姫",
+		"kana": "おりひめ",
+		"explanation": "织女",
+		"hasKanji": true
+	},
+	{
+		"key": 19,
+		"word": "職女星",
+		"kana": "しょくじょせい",
+		"explanation": "织女星",
+		"hasKanji": true
+	},
+	{
+		"key": 20,
+		"word": "チョコレート",
+		"kana": "チョコレート",
+		"explanation": "巧克力",
+		"hasKanji": false
+	},
+	{
+		"key": 21,
+		"word": "世界",
+		"kana": "せかい",
+		"explanation": "世界",
+		"hasKanji": true
+	},
+	{
+		"key": 22,
+		"word": "宇宙",
+		"kana": "うちゅう",
+		"explanation": "宇宙",
+		"hasKanji": true
+	},
+	{
+		"key": 23,
+		"word": "笑顔",
+		"kana": "えがお",
+		"explanation": "笑脸",
+		"hasKanji": true
+	},
+	{
+		"key": 24,
+		"word": "涙",
+		"kana": "なみだ",
+		"explanation": "眼泪",
+		"hasKanji": true
+	},
+	{
+		"key": 25,
+		"word": "夢",
+		"kana": "ゆめ",
+		"explanation": "梦",
+		"hasKanji": true
+	},
+	{
+		"key": 26,
+		"word": "希望",
+		"kana": "きぼう",
+		"explanation": "希望",
+		"hasKanji": true
+	},
+	{
+		"key": 27,
+		"word": "心",
+		"kana": "こころ",
+		"explanation": "心",
+		"hasKanji": true
+	},
+	{
+		"key": 28,
+		"word": "果物",
+		"kana": "くだもの",
+		"explanation": "水果",
+		"hasKanji": true
+	},
+	{
+		"key": 29,
+		"word": "レンブ",
+		"kana": "レンブ",
+		"explanation": "莲雾",
+		"hasKanji": false
+	},
+	{
+		"key": 30,
+		"word": "人形",
+		"kana": "にんぎょう",
+		"explanation": "人偶",
+		"hasKanji": true
+	},
+	{
+		"key": 31,
+		"word": "ダイエット",
+		"kana": "ダイエット",
+		"explanation": "减肥",
+		"hasKanji": false
+	},
+	{
+		"key": 32,
+		"word": "饅頭",
+		"kana": "まんじゅう",
+		"explanation": "馒头",
+		"hasKanji": true
+	},
+	{
+		"key": 33,
+		"word": "青春",
+		"kana": "せいしゅん",
+		"explanation": "青春",
+		"hasKanji": true
+	},
+	{
+		"key": 34,
+		"word": "一本道",
+		"kana": "いっぼんみち",
+		"explanation": "直路",
+		"hasKanji": true
+	},
+	{
+		"key": 35,
+		"word": "乙女",
+		"kana": "おとめ",
+		"explanation": "少女",
+		"hasKanji": true
+	},
+	{
+		"key": 36,
+		"word": "人間",
+		"kana": "にんげん",
+		"explanation": "人类",
+		"hasKanji": true
+	},
+	{
+		"key": 37,
+		"word": "ロボット",
+		"kana": "ロボット",
+		"explanation": "机器人",
+		"hasKanji": false
+	},
+	{
+		"key": 38,
+		"word": "闇",
+		"kana": "やみ",
+		"explanation": "黑暗",
+		"hasKanji": true
+	},
+	{
+		"key": 39,
+		"word": "友達",
+		"kana": "ともだち",
+		"explanation": "朋友",
+		"hasKanji": true
+	},
+	{
+		"key": 40,
+		"word": "恋人",
+		"kana": "こいびと",
+		"explanation": "恋人",
+		"hasKanji": true
+	},
+	{
+		"key": 41,
+		"word": "勇気",
+		"kana": "ゆうき",
+		"explanation": "勇气",
+		"hasKanji": true
+	},
+	{
+		"key": 42,
+		"word": "手紙",
+		"kana": "てがみ",
+		"explanation": "信,书信",
+		"hasKanji": true
+	},
+	{
+		"key": 43,
+		"word": "弱音",
+		"kana": "よわね",
+		"explanation": "不争气的话,泄气话",
+		"hasKanji": true
+	},
+	{
+		"key": 44,
+		"word": "弱虫",
+		"kana": "よわむし",
+		"explanation": "胆小鬼,窝囊废",
+		"hasKanji": true
+	},
+	{
+		"key": 45,
+		"word": "絵",
+		"kana": "え",
+		"explanation": "图画,绘画",
+		"hasKanji": true
+	},
+	{
+		"key": 46,
+		"word": "灰色",
+		"kana": "はいいろ",
+		"explanation": "灰色",
+		"hasKanji": true
+	},
+	{
+		"key": 47,
+		"word": "向日葵",
+		"kana": "ひまわり",
+		"explanation": "向日葵",
+		"hasKanji": true
+	},
+	{
+		"key": 48,
+		"word": "方言",
+		"kana": "ほうげん",
+		"explanation": "方言",
+		"hasKanji": true
+	},
+	{
+		"key": 49,
+		"word": "関西弁",
+		"kana": "かんさいべん",
+		"explanation": "关西方言",
+		"hasKanji": true
+	},
+	{
+		"key": 50,
+		"word": "言葉",
+		"kana": "ことば",
+		"explanation": "言语,语言",
+		"hasKanji": true
+	},
+	{
+		"key": 51,
+		"word": "アクセサリー",
+		"kana": "アクセサリー",
+		"explanation": "装饰用品,零件,附属品",
+		"hasKanji": false
+	},
+	{
+		"key": 52,
+		"word": "薬",
+		"kana": "くすり",
+		"explanation": "药",
+		"hasKanji": true
+	},
+	{
+		"key": 53,
+		"word": "病院",
+		"kana": "びょういん",
+		"explanation": "医院",
+		"hasKanji": true
+	},
+	{
+		"key": 54,
+		"word": "宝物",
+		"kana": "たからもの",
+		"explanation": "宝物,宝贝",
+		"hasKanji": true
+	},
+	{
+		"key": 55,
+		"word": "カレー",
+		"kana": "カレー",
+		"explanation": "咖喱",
+		"hasKanji": false
+	},
+	{
+		"key": 56,
+		"word": "時間",
+		"kana": "じかん",
+		"explanation": "时间",
+		"hasKanji": true
+	},
+	{
+		"key": 57,
+		"word": "時計",
+		"kana": "とけい",
+		"explanation": "钟表",
+		"hasKanji": true
+	},
+	{
+		"key": 58,
+		"word": "影法師",
+		"kana": "かげぼうし",
+		"explanation": "影子",
+		"hasKanji": true
+	},
+	{
+		"key": 59,
+		"word": "結婚",
+		"kana": "けっこん",
+		"explanation": "结婚",
+		"hasKanji": true
+	},
+	{
+		"key": 60,
+		"word": "わんこそば",
+		"kana": "わんこそば",
+		"explanation": "碗子荞麦面",
+		"hasKanji": false
+	},
+	{
+		"key": 61,
+		"word": "星屑",
+		"kana": "ほしくず",
+		"explanation": "群星",
+		"hasKanji": true
+	},
+	{
+		"key": 62,
+		"word": "バレンタイン",
+		"kana": "バレンタイン",
+		"explanation": "情人节",
+		"hasKanji": false
+	},
+	{
+		"key": 63,
+		"word": "曇り",
+		"kana": "くもり",
+		"explanation": "阴天",
+		"hasKanji": true
+	},
+	{
+		"key": 64,
+		"word": "曇りガラス",
+		"kana": "くもりガラス",
+		"explanation": "磨砂玻璃,毛玻璃",
+		"hasKanji": true
+	},
+	{
+		"key": 65,
+		"word": "地球",
+		"kana": "ちきゅう",
+		"explanation": "地球",
+		"hasKanji": true
+	},
+	{
+		"key": 66,
+		"word": "初心者",
+		"kana": "しょしんしゃ",
+		"explanation": "初学者",
+		"hasKanji": true
+	},
+	{
+		"key": 67,
+		"word": "教師",
+		"kana": "きょうし",
+		"explanation": "教师",
+		"hasKanji": true
+	},
+	{
+		"key": 68,
+		"word": "価値観",
+		"kana": "かちかん",
+		"explanation": "价值观",
+		"hasKanji": true
+	},
+	{
+		"key": 69,
+		"word": "音楽",
+		"kana": "おんがく",
+		"explanation": "音乐",
+		"hasKanji": true
+	},
+	{
+		"key": 70,
+		"word": "麻薬",
+		"kana": "まやく",
+		"explanation": "麻醉药,麻醉剂,毒品",
+		"hasKanji": true
+	},
+	{
+		"key": 71,
+		"word": "海",
+		"kana": "うみ",
+		"explanation": "海",
+		"hasKanji": true
+	},
+	{
+		"key": 72,
+		"word": "空",
+		"kana": "そら",
+		"explanation": "天空",
+		"hasKanji": true
+	},
+	{
+		"key": 73,
+		"word": "舟",
+		"kana": "ふね",
+		"explanation": "船",
+		"hasKanji": true
+	},
+	{
+		"key": 74,
+		"word": "航海",
+		"kana": "こうかい",
+		"explanation": "航海",
+		"hasKanji": true
+	},
+	{
+		"key": 75,
+		"word": "公園",
+		"kana": "こうえん",
+		"explanation": "公园",
+		"hasKanji": true
+	},
+	{
+		"key": 76,
+		"word": "紫陽花",
+		"kana": "あじさい",
+		"explanation": "绣球花",
+		"hasKanji": true
+	},
+	{
+		"key": 77,
+		"word": "心臓",
+		"kana": "しんぞう",
+		"explanation": "心脏",
+		"hasKanji": true
+	},
+	{
+		"key": 78,
+		"word": "運命",
+		"kana": "うんめい",
+		"explanation": "命运",
+		"hasKanji": true
+	},
+	{
+		"key": 79,
+		"word": "萌やし",
+		"kana": "もやし",
+		"explanation": "豆芽",
+		"hasKanji": true
+	},
+	{
+		"key": 80,
+		"word": "学校",
+		"kana": "がっこう",
+		"explanation": "学校",
+		"hasKanji": true
+	},
+	{
+		"key": 81,
+		"word": "車",
+		"kana": "くるま",
+		"explanation": "车",
+		"hasKanji": true
+	},
+	{
+		"key": 82,
+		"word": "町",
+		"kana": "まち",
+		"explanation": "城镇",
+		"hasKanji": true
+	},
+	{
+		"key": 83,
+		"word": "太平洋戦争",
+		"kana": "たいへいようせんそう",
+		"explanation": "太平洋战争",
+		"hasKanji": true
+	},
+	{
+		"key": 84,
+		"word": "戦争",
+		"kana": "せんそう",
+		"explanation": "战争",
+		"hasKanji": true
+	},
+	{
+		"key": 85,
+		"word": "メール",
+		"kana": "メール",
+		"explanation": "电子邮件",
+		"hasKanji": false
+	},
+	{
+		"key": 86,
+		"word": "宅配便",
+		"kana": "たくはいびん",
+		"explanation": "快递",
+		"hasKanji": true
+	},
+	{
+		"key": 87,
+		"word": "ギター",
+		"kana": "ギター",
+		"explanation": "吉他",
+		"hasKanji": false
+	},
+	{
+		"key": 88,
+		"word": "コード",
+		"kana": "コード",
+		"explanation": "和弦,代码,准则",
+		"hasKanji": false
+	},
+	{
+		"key": 89,
+		"word": "狂犬病",
+		"kana": "きょうけんびょう",
+		"explanation": "狂犬病",
+		"hasKanji": true
+	},
+	{
+		"key": 90,
+		"word": "そばかす",
+		"kana": "そばかす",
+		"explanation": "雀斑",
+		"hasKanji": false
+	},
+	{
+		"key": 91,
+		"word": "お客様",
+		"kana": "おきゃくさま",
+		"explanation": "顾客",
+		"hasKanji": true
+	},
+	{
+		"key": 92,
+		"word": "虹",
+		"kana": "にじ",
+		"explanation": "彩虹",
+		"hasKanji": true
+	},
+	{
+		"key": 93,
+		"word": "酸化物",
+		"kana": "さんかぶつ",
+		"explanation": "氧化物",
+		"hasKanji": true
+	},
+	{
+		"key": 94,
+		"word": "バケモノ",
+		"kana": "バケモノ",
+		"explanation": "怪物",
+		"hasKanji": false
+	},
+	{
+		"key": 95,
+		"word": "魔法",
+		"kana": "まほう",
+		"explanation": "魔法",
+		"hasKanji": true
+	},
+	{
+		"key": 96,
+		"word": "妖怪",
+		"kana": "ようかい",
+		"explanation": "妖怪",
+		"hasKanji": true
+	},
+	{
+		"key": 97,
+		"word": "魔女",
+		"kana": "まじょ",
+		"explanation": "魔女",
+		"hasKanji": true
+	},
+	{
+		"key": 98,
+		"word": "ゲーム",
+		"kana": "ゲーム",
+		"explanation": "游戏",
+		"hasKanji": false
+	},
+	{
+		"key": 99,
+		"word": "サッカー",
+		"kana": "サッカー",
+		"explanation": "足球",
+		"hasKanji": false
+	},
+	{
+		"key": 100,
+		"word": "未知数",
+		"kana": "みちすう",
+		"explanation": "未知数",
+		"hasKanji": true
+	}
+]
