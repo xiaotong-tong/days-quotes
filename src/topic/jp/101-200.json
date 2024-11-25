@@ -75,5 +75,131 @@
 		"kana": "クマ",
 		"explanation": "熊",
 		"hasKanji": false
+	},
+	{
+		"key": 112,
+		"word": "台風",
+		"kana": "たいふう",
+		"explanation": "台风",
+		"hasKanji": true
+	},
+	{
+		"key": 113,
+		"word": "キャンパスフェア",
+		"kana": "キャンパスフェア",
+		"explanation": "校园招聘会",
+		"hasKanji": false
+	},
+	{
+		"key": 114,
+		"word": "ポップコーン",
+		"kana": "ポップコーン",
+		"explanation": "爆米花",
+		"hasKanji": false
+	},
+	{
+		"key": 115,
+		"word": "ラムネ",
+		"kana": "ラムネ",
+		"explanation": "波子汽水",
+		"hasKanji": false
+	},
+	{
+		"key": 116,
+		"word": "マシュマロ",
+		"kana": "マシュマロ",
+		"explanation": "棉花糖",
+		"hasKanji": false
+	},
+	{
+		"key": 117,
+		"word": "ウイスキー",
+		"kana": "ウイスキー",
+		"explanation": "威士忌",
+		"hasKanji": false
+	},
+	{
+		"key": 118,
+		"word": "サタン",
+		"kana": "サタン",
+		"explanation": "撒旦",
+		"hasKanji": false
+	},
+	{
+		"key": 119,
+		"word": "会社",
+		"kana": "かいしゃ",
+		"explanation": "公司",
+		"hasKanji": true
+	},
+	{
+		"key": 120,
+		"word": "ハンバーガー",
+		"kana": "ハンバーガー",
+		"explanation": "汉堡包",
+		"hasKanji": false
+	},
+	{
+		"key": 121,
+		"word": "スプーン",
+		"kana": "スプーン",
+		"explanation": "勺子",
+		"hasKanji": false
+	},
+	{
+		"key": 122,
+		"word": "本屋",
+		"kana": "ほんや",
+		"explanation": "书店",
+		"hasKanji": true
+	},
+	{
+		"key": 123,
+		"word": "辞書",
+		"kana": "じしょ",
+		"explanation": "词典",
+		"hasKanji": true
+	},
+	{
+		"key": 124,
+		"word": "喫茶店",
+		"kana": "きっさてん",
+		"explanation": "咖啡馆",
+		"hasKanji": true
+	},
+	{
+		"key": 125,
+		"word": "インターネット",
+		"kana": "インターネット",
+		"explanation": "互联网",
+		"hasKanji": false
+	},
+	{
+		"key": 126,
+		"word": "飛行機",
+		"kana": "ひこうき",
+		"explanation": "飞机",
+		"hasKanji": true
+	},
+	{
+		"key": 127,
+		"word": "紙飛行機",
+		"kana": "かみひこうき",
+		"explanation": "纸飞机",
+		"hasKanji": true
+	},
+	{
+		"key": 128,
+		"word": "戦艦",
+		"kana": "せんかん",
+		"explanation": "战舰",
+		"hasKanji": true
+	},
+	{
+		"key": 129,
+		"word": "幽霊",
+		"kana": "ゆうれい",
+		"explanation": "幽灵",
+		"hasKanji": true
 	}
 ]
