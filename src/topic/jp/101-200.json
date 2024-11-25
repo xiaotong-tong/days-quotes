@@ -47,5 +47,33 @@
 		"kana": "ひなたあめ",
 		"explanation": "太阳雨",
 		"hasKanji": true
+	},
+	{
+		"key": 108,
+		"word": "ロールケーキ",
+		"kana": "ロールケーキ",
+		"explanation": "瑞士卷",
+		"hasKanji": false
+	},
+	{
+		"key": 109,
+		"word": "デザート",
+		"kana": "デザート",
+		"explanation": "甜点",
+		"hasKanji": false
+	},
+	{
+		"key": 110,
+		"word": "生放送",
+		"kana": "なまほうそう",
+		"explanation": "直播",
+		"hasKanji": true
+	},
+	{
+		"key": 111,
+		"word": "クマ",
+		"kana": "クマ",
+		"explanation": "熊",
+		"hasKanji": false
 	}
 ]
