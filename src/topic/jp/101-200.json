@@ -201,5 +201,173 @@
 		"kana": "ゆうれい",
 		"explanation": "幽灵",
 		"hasKanji": true
+	},
+	{
+		"key": 130,
+		"word": "アレルギー",
+		"kana": "アレルギー",
+		"explanation": "过敏",
+		"hasKanji": false
+	},
+	{
+		"key": 131,
+		"word": "だるま",
+		"kana": "だるま",
+		"explanation": "达摩,不倒翁",
+		"hasKanji": false
+	},
+	{
+		"key": 132,
+		"word": "紅葉",
+		"kana": "もみじ",
+		"explanation": "红叶",
+		"hasKanji": true
+	},
+	{
+		"key": 133,
+		"word": "建築設計系",
+		"kana": "けんちくせっけいけい",
+		"explanation": "建筑设计系",
+		"hasKanji": true
+	},
+	{
+		"key": 134,
+		"word": "漫画",
+		"kana": "まんが",
+		"explanation": "漫画",
+		"hasKanji": true
+	},
+	{
+		"key": 135,
+		"word": "苗",
+		"kana": "なえ",
+		"explanation": "幼苗,(水稻的)秧苗",
+		"hasKanji": true
+	},
+	{
+		"key": 136,
+		"word": "ドラゴン",
+		"kana": "ドラゴン",
+		"explanation": "龙",
+		"hasKanji": false
+	},
+	{
+		"key": 137,
+		"word": "ヨルムンガンド",
+		"kana": "ヨルムンガンド",
+		"explanation": "耶梦加得,世界之蛇",
+		"hasKanji": false
+	},
+	{
+		"key": 138,
+		"word": "たばこ",
+		"kana": "たばこ",
+		"explanation": "烟草",
+		"hasKanji": false
+	},
+	{
+		"key": 139,
+		"word": "水星",
+		"kana": "すいせい",
+		"explanation": "水星",
+		"hasKanji": true
+	},
+	{
+		"key": 140,
+		"word": "お酒",
+		"kana": "おさけ",
+		"explanation": "酒",
+		"hasKanji": true
+	},
+	{
+		"key": 141,
+		"word": "幼馴染",
+		"kana": "おさななじみ",
+		"explanation": "青梅竹马",
+		"hasKanji": true
+	},
+	{
+		"key": 142,
+		"word": "アイドル",
+		"kana": "アイドル",
+		"explanation": "偶像",
+		"hasKanji": false
+	},
+	{
+		"key": 143,
+		"word": "音楽",
+		"kana": "おんがく",
+		"explanation": "音乐",
+		"hasKanji": true
+	},
+	{
+		"key": 144,
+		"word": "歌い女",
+		"kana": "うたいおんな",
+		"explanation": "歌女",
+		"hasKanji": true
+	},
+	{
+		"key": 145,
+		"word": "図書館",
+		"kana": "としょかん",
+		"explanation": "图书馆",
+		"hasKanji": true
+	},
+	{
+		"key": 146,
+		"word": "貪狼星",
+		"kana": "どんろうせい",
+		"explanation": "贪狼星",
+		"hasKanji": true
+	},
+	{
+		"key": 147,
+		"word": "ユートピア",
+		"kana": "ユートピア",
+		"explanation": "乌托邦",
+		"hasKanji": false
+	},
+	{
+		"key": 148,
+		"word": "フローティングシティ",
+		"kana": "フローティングシティ",
+		"explanation": "浮游城市,浮动城市",
+		"hasKanji": false
+	},
+	{
+		"key": 149,
+		"word": "スイッチ",
+		"kana": "スイッチ",
+		"explanation": "开关",
+		"hasKanji": false
+	},
+	{
+		"key": 150,
+		"word": "聖剣",
+		"kana": "せいけん",
+		"explanation": "圣剑",
+		"hasKanji": true
+	},
+	{
+		"key": 151,
+		"word": "人工衛星",
+		"kana": "じんこうえいせい",
+		"explanation": "人造卫星",
+		"hasKanji": true
+	},
+	{
+		"key": 152,
+		"word": "定規",
+		"kana": "じょうぎ",
+		"explanation": "尺子",
+		"hasKanji": true
+	},
+	{
+		"key": 153,
+		"word": "五目並べ",
+		"kana": "ごもくならべ",
+		"explanation": "五子棋",
+		"hasKanji": true
 	}
 ]
