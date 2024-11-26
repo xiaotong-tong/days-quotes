@@ -369,5 +369,40 @@
 		"kana": "ごもくならべ",
 		"explanation": "五子棋",
 		"hasKanji": true
+	},
+	{
+		"key": 154,
+		"word": "歯ブラシ",
+		"kana": "はブラシ",
+		"explanation": "牙刷",
+		"hasKanji": true
+	},
+	{
+		"key": 155,
+		"word": "深淵",
+		"kana": "しんえん",
+		"explanation": "深渊",
+		"hasKanji": true
+	},
+	{
+		"key": 156,
+		"word": "世界樹",
+		"kana": "せかいじゅ",
+		"explanation": "世界树",
+		"hasKanji": true
+	},
+	{
+		"key": 157,
+		"word": "扇風機",
+		"kana": "せんぷうき",
+		"explanation": "电风扇",
+		"hasKanji": true
+	},
+	{
+		"key": 158,
+		"word": "凧",
+		"kana": "たこ",
+		"explanation": "风筝",
+		"hasKanji": true
 	}
 ]
