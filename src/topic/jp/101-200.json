@@ -404,5 +404,75 @@
 		"kana": "たこ",
 		"explanation": "风筝",
 		"hasKanji": true
+	},
+	{
+		"key": 159,
+		"word": "サイコロ",
+		"kana": "サイコロ",
+		"explanation": "骰子",
+		"hasKanji": false
+	},
+	{
+		"key": 160,
+		"word": "進入灯",
+		"kana": "しんにゅうとう",
+		"explanation": "中线灯",
+		"hasKanji": true
+	},
+	{
+		"key": 161,
+		"word": "事業所",
+		"kana": "じぎょうしょ",
+		"explanation": "事业单位",
+		"hasKanji": true
+	},
+	{
+		"key": 162,
+		"word": "公益法人",
+		"kana": "こうえきほうじん",
+		"explanation": "公益法人",
+		"hasKanji": true
+	},
+	{
+		"key": 163,
+		"word": "地球儀",
+		"kana": "ちきゅうぎ",
+		"explanation": "地球仪",
+		"hasKanji": true
+	},
+	{
+		"key": 164,
+		"word": "月球儀",
+		"kana": "げっきゅうぎ",
+		"explanation": "月球仪",
+		"hasKanji": true
+	},
+	{
+		"key": 165,
+		"word": "真空",
+		"kana": "しんくう",
+		"explanation": "真空",
+		"hasKanji": true
+	},
+	{
+		"key": 166,
+		"word": "温度計",
+		"kana": "おんどけい",
+		"explanation": "温度计",
+		"hasKanji": true
+	},
+	{
+		"key": 167,
+		"word": "新幹線",
+		"kana": "しんかんせん",
+		"explanation": "新干线",
+		"hasKanji": true
+	},
+	{
+		"key": 168,
+		"word": "核放射線",
+		"kana": "かくほうしゃせん",
+		"explanation": "核辐射",
+		"hasKanji": true
 	}
 ]
