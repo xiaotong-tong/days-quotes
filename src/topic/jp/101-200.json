@@ -43,8 +43,8 @@
 	},
 	{
 		"key": 107,
-		"word": "日向雨",
-		"kana": "ひなたあめ",
+		"word": "天気雨",
+		"kana": "てんきあめ",
 		"explanation": "太阳雨",
 		"hasKanji": true
 	},
@@ -473,6 +473,230 @@
 		"word": "核放射線",
 		"kana": "かくほうしゃせん",
 		"explanation": "核辐射",
+		"hasKanji": true
+	},
+	{
+		"key": 169,
+		"word": "飛行機雲",
+		"kana": "ひこうきぐも",
+		"explanation": "飞机云,轨迹云",
+		"hasKanji": true
+	},
+	{
+		"key": 170,
+		"word": "パスポート",
+		"kana": "パスポート",
+		"explanation": "护照",
+		"hasKanji": false
+	},
+	{
+		"key": 171,
+		"word": "お金",
+		"kana": "おかね",
+		"explanation": "钱",
+		"hasKanji": true
+	},
+	{
+		"key": 172,
+		"word": "ラズベリーパイ",
+		"kana": "ラズベリーパイ",
+		"explanation": "树莓派",
+		"hasKanji": false
+	},
+	{
+		"key": 173,
+		"word": "クレジットカード",
+		"kana": "クレジットカード",
+		"explanation": "信用卡",
+		"hasKanji": false
+	},
+	{
+		"key": 174,
+		"word": "街路樹",
+		"kana": "がいろじゅ",
+		"explanation": "行道树",
+		"hasKanji": true
+	},
+	{
+		"key": 175,
+		"word": "サメ",
+		"kana": "サメ",
+		"explanation": "鲨鱼",
+		"hasKanji": false
+	},
+	{
+		"key": 176,
+		"word": "水族館",
+		"kana": "すいぞくかん",
+		"explanation": "水族馆",
+		"hasKanji": true
+	},
+	{
+		"key": 177,
+		"word": "クーラント",
+		"kana": "クーラント",
+		"explanation": "冷却液",
+		"hasKanji": false
+	},
+	{
+		"key": 178,
+		"word": "ギア",
+		"kana": "ギア",
+		"explanation": "齿轮",
+		"hasKanji": true
+	},
+	{
+		"key": 179,
+		"word": "ポケモンボール",
+		"kana": "ポケモンボール",
+		"explanation": "精灵球",
+		"hasKanji": false
+	},
+	{
+		"key": 180,
+		"word": "風車",
+		"kana": "ふうしゃ",
+		"explanation": "风车",
+		"hasKanji": true
+	},
+	{
+		"key": 181,
+		"word": "タイムカード",
+		"kana": "タイムカード",
+		"explanation": "打卡机,考勤机",
+		"hasKanji": false
+	},
+	{
+		"key": 182,
+		"word": "クリスマス",
+		"kana": "クリスマス",
+		"explanation": "圣诞节",
+		"hasKanji": false
+	},
+	{
+		"key": 183,
+		"word": "畳",
+		"kana": "たたみ",
+		"explanation": "榻榻米",
+		"hasKanji": true
+	},
+	{
+		"key": 184,
+		"word": "VTuber",
+		"kana": "バーチャルユーチューバー",
+		"explanation": "VTuber,虚拟主播",
+		"hasKanji": false
+	},
+	{
+		"key": 185,
+		"word": "瞬間移動",
+		"kana": "しゅんかんいどう",
+		"explanation": "瞬移,瞬间移动",
+		"hasKanji": true
+	},
+	{
+		"key": 186,
+		"word": "プラットフォームゲーム",
+		"kana": "プラットフォームゲーム",
+		"explanation": "平台游戏",
+		"hasKanji": false
+	},
+	{
+		"key": 187,
+		"word": "重力",
+		"kana": "じゅうりょく",
+		"explanation": "重力",
+		"hasKanji": true
+	},
+	{
+		"key": 188,
+		"word": "引力",
+		"kana": "いんりょく",
+		"explanation": "引力",
+		"hasKanji": true
+	},
+	{
+		"key": 189,
+		"word": "万有引力",
+		"kana": "ばんゆういんりょく",
+		"explanation": "万有引力定律",
+		"hasKanji": true
+	},
+	{
+		"key": 190,
+		"word": "オペレーティングシステム",
+		"kana": "オペレーティングシステム",
+		"explanation": "操作系统",
+		"hasKanji": false
+	},
+	{
+		"key": 191,
+		"word": "プラスチシン",
+		"kana": "プラスチシン",
+		"explanation": "橡皮泥",
+		"hasKanji": false
+	},
+	{
+		"key": 192,
+		"word": "粘土",
+		"kana": "ねんど",
+		"explanation": "粘土",
+		"hasKanji": true
+	},
+	{
+		"key": 193,
+		"word": "必修科目",
+		"kana": "ひっしゅうかもく",
+		"explanation": "必修课",
+		"hasKanji": true
+	},
+	{
+		"key": 194,
+		"word": "選択科目",
+		"kana": "せんたくかもく",
+		"explanation": "选修课",
+		"hasKanji": true
+	},
+	{
+		"key": 195,
+		"word": "車椅子",
+		"kana": "くるまいす",
+		"explanation": "轮椅",
+		"hasKanji": true
+	},
+	{
+		"key": 196,
+		"word": "ブラウザ",
+		"kana": "ブラウザ",
+		"explanation": "浏览器",
+		"hasKanji": false
+	},
+	{
+		"key": 197,
+		"word": "エレベーター",
+		"kana": "エレベーター",
+		"explanation": "电梯",
+		"hasKanji": false
+	},
+	{
+		"key": 198,
+		"word": "お菓子",
+		"kana": "おかし",
+		"explanation": "点心",
+		"hasKanji": true
+	},
+	{
+		"key": 199,
+		"word": "ポラロイド",
+		"kana": "ポラロイド",
+		"explanation": "拍立得",
+		"hasKanji": false
+	},
+	{
+		"key": 200,
+		"word": "雪合戦",
+		"kana": "ゆきがっせん",
+		"explanation": "打雪仗",
 		"hasKanji": true
 	}
 ]

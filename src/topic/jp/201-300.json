@@ -1,0 +1,65 @@
+[
+	{
+		"key": 201,
+		"word": "夏休み",
+		"kana": "なつやすみ",
+		"explanation": "暑假",
+		"hasKanji": true
+	},
+	{
+		"key": 202,
+		"word": "犬",
+		"kana": "いぬ",
+		"explanation": "狗",
+		"hasKanji": true
+	},
+	{
+		"key": 203,
+		"word": "橋",
+		"kana": "はし",
+		"explanation": "桥",
+		"hasKanji": true
+	},
+	{
+		"key": 204,
+		"word": "ブランコ",
+		"kana": "ブランコ",
+		"explanation": "秋千",
+		"hasKanji": false
+	},
+	{
+		"key": 205,
+		"word": "神社",
+		"kana": "じんじゃ",
+		"explanation": "神社",
+		"hasKanji": true
+	},
+	{
+		"key": 206,
+		"word": "雷雨",
+		"kana": "らいう",
+		"explanation": "雷雨天",
+		"hasKanji": true
+	},
+	{
+		"key": 207,
+		"word": "夕立",
+		"kana": "ゆうだち",
+		"explanation": "雷阵雨",
+		"hasKanji": true
+	},
+	{
+		"key": 208,
+		"word": "夕焼け",
+		"kana": "ゆうやけ",
+		"explanation": "夕阳",
+		"hasKanji": true
+	},
+	{
+		"key": 209,
+		"word": "象",
+		"kana": "ぞう",
+		"explanation": "大象",
+		"hasKanji": true
+	}
+]
