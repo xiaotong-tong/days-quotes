@@ -61,5 +61,586 @@
 		"kana": "ぞう",
 		"explanation": "大象",
 		"hasKanji": true
+	},
+	{
+		"key": 210,
+		"word": "ワイヤレスイヤホン",
+		"kana": "ワイヤレスイヤホン",
+		"explanation": "蓝牙耳机",
+		"hasKanji": false
+	},
+	{
+		"key": 211,
+		"word": "指輪",
+		"kana": "ゆびわ",
+		"explanation": "戒指",
+		"hasKanji": true
+	},
+	{
+		"key": 212,
+		"word": "ダイヤモンドリング",
+		"kana": "ダイヤモンドリング",
+		"explanation": "钻戒",
+		"hasKanji": false
+	},
+	{
+		"key": 213,
+		"word": "ロリータ",
+		"kana": "ロリータ",
+		"explanation": "洛丽塔",
+		"hasKanji": false
+	},
+	{
+		"key": 214,
+		"word": "高層ビル",
+		"kana": "こうそうビル",
+		"explanation": "高楼",
+		"hasKanji": true
+	},
+	{
+		"key": 215,
+		"word": "扇子",
+		"kana": "せんす",
+		"explanation": "扇子",
+		"hasKanji": true
+	},
+	{
+		"key": 216,
+		"word": "傘",
+		"kana": "かさ",
+		"explanation": "伞",
+		"hasKanji": true
+	},
+	{
+		"key": 217,
+		"word": "日傘",
+		"kana": "ひがさ",
+		"explanation": "遮阳伞",
+		"hasKanji": true
+	},
+	{
+		"key": 218,
+		"word": "日暈",
+		"kana": "ひがさ",
+		"explanation": "日晕",
+		"hasKanji": true
+	},
+	{
+		"key": 219,
+		"word": "オーロラ",
+		"kana": "オーロラ",
+		"explanation": "极光",
+		"hasKanji": false
+	},
+	{
+		"key": 220,
+		"word": "氷",
+		"kana": "こおり",
+		"explanation": "冰",
+		"hasKanji": true
+	},
+	{
+		"key": 221,
+		"word": "歩道",
+		"kana": "ほどう",
+		"explanation": "人行道",
+		"hasKanji": true
+	},
+	{
+		"key": 222,
+		"word": "横断歩道",
+		"kana": "おうだんほどう",
+		"explanation": "斑马线",
+		"hasKanji": true
+	},
+	{
+		"key": 223,
+		"word": "信号機",
+		"kana": "しんごうき",
+		"explanation": "红绿灯",
+		"hasKanji": true
+	},
+	{
+		"key": 224,
+		"word": "高速道路",
+		"kana": "こうそくどうろ",
+		"explanation": "高速公路",
+		"hasKanji": true
+	},
+	{
+		"key": 225,
+		"word": "地下鉄",
+		"kana": "ちかてつ",
+		"explanation": "地铁",
+		"hasKanji": true
+	},
+	{
+		"key": 226,
+		"word": "バス",
+		"kana": "バス",
+		"explanation": "公交车",
+		"hasKanji": false
+	},
+	{
+		"key": 227,
+		"word": "タクシー",
+		"kana": "タクシー",
+		"explanation": "出租车",
+		"hasKanji": false
+	},
+	{
+		"key": 228,
+		"word": "箸",
+		"kana": "はし",
+		"explanation": "筷子",
+		"hasKanji": true
+	},
+	{
+		"key": 229,
+		"word": "コーラ",
+		"kana": "コーラ",
+		"explanation": "可乐",
+		"hasKanji": false
+	},
+	{
+		"key": 230,
+		"word": "鳥",
+		"kana": "とり",
+		"explanation": "鸟",
+		"hasKanji": true
+	},
+	{
+		"key": 231,
+		"word": "ハヤブサ",
+		"kana": "ハヤブサ",
+		"explanation": "游隼",
+		"hasKanji": false
+	},
+	{
+		"key": 232,
+		"word": "チョウゲンボウ",
+		"kana": "チョウゲンボウ",
+		"explanation": "红隼",
+		"hasKanji": false
+	},
+	{
+		"key": 233,
+		"word": "クローン",
+		"kana": "クローン",
+		"explanation": "克隆",
+		"hasKanji": false
+	},
+	{
+		"key": 234,
+		"word": "DNA",
+		"kana": "デオキシリボかくさん",
+		"explanation": "DNA,脱氧核糖核酸",
+		"hasKanji": false
+	},
+	{
+		"key": 235,
+		"word": "土",
+		"kana": "つち",
+		"explanation": "泥土",
+		"hasKanji": true
+	},
+	{
+		"key": 236,
+		"word": "水耕栽培",
+		"kana": "すいこうさいばい",
+		"explanation": "无土栽培,水耕栽培,水培",
+		"hasKanji": true
+	},
+	{
+		"key": 237,
+		"word": "奴隷",
+		"kana": "どれい",
+		"explanation": "奴隶",
+		"hasKanji": true
+	},
+	{
+		"key": 238,
+		"word": "殺し屋",
+		"kana": "ころしや",
+		"explanation": "杀手",
+		"hasKanji": true
+	},
+	{
+		"key": 239,
+		"word": "探偵",
+		"kana": "たんてい",
+		"explanation": "侦探",
+		"hasKanji": true
+	},
+	{
+		"key": 240,
+		"word": "暗殺者",
+		"kana": "あんさつしゃ",
+		"explanation": "刺客",
+		"hasKanji": true
+	},
+	{
+		"key": 241,
+		"word": "翼",
+		"kana": "つばさ",
+		"explanation": "翅膀",
+		"hasKanji": true
+	},
+	{
+		"key": 242,
+		"word": "しっぽ",
+		"kana": "しっぽ",
+		"explanation": "尾巴",
+		"hasKanji": false
+	},
+	{
+		"key": 243,
+		"word": "王子",
+		"kana": "おうじ",
+		"explanation": "王子",
+		"hasKanji": true
+	},
+	{
+		"key": 244,
+		"word": "お姫様",
+		"kana": "おひめさま",
+		"explanation": "公主",
+		"hasKanji": false
+	},
+	{
+		"key": 245,
+		"word": "傲慢",
+		"kana": "ごうまん",
+		"explanation": "傲慢",
+		"hasKanji": true
+	},
+	{
+		"key": 246,
+		"word": "嫉妬",
+		"kana": "しっと",
+		"explanation": "嫉妒",
+		"hasKanji": true
+	},
+	{
+		"key": 247,
+		"word": "憤怒",
+		"kana": "ふんぬ",
+		"explanation": "愤怒",
+		"hasKanji": true
+	},
+	{
+		"key": 248,
+		"word": "地獄",
+		"kana": "じごく",
+		"explanation": "地狱",
+		"hasKanji": true
+	},
+	{
+		"key": 249,
+		"word": "怠惰",
+		"kana": "たいだ",
+		"explanation": "怠惰",
+		"hasKanji": true
+	},
+	{
+		"key": 250,
+		"word": "強欲",
+		"kana": "ごうよく",
+		"explanation": "贪婪",
+		"hasKanji": true
+	},
+	{
+		"key": 251,
+		"word": "暴食",
+		"kana": "ぼうしょく",
+		"explanation": "暴食",
+		"hasKanji": true
+	},
+	{
+		"key": 252,
+		"word": "色欲",
+		"kana": "しきよく",
+		"explanation": "色欲",
+		"hasKanji": true
+	},
+	{
+		"key": 253,
+		"word": "性欲",
+		"kana": "せいよく",
+		"explanation": "性欲",
+		"hasKanji": true
+	},
+	{
+		"key": 254,
+		"word": "蝶々",
+		"kana": "ちょうちょう",
+		"explanation": "蝴蝶",
+		"hasKanji": true
+	},
+	{
+		"key": 255,
+		"word": "蝶々結び",
+		"kana": "ちょうちょうむすび",
+		"explanation": "蝴蝶结",
+		"hasKanji": true
+	},
+	{
+		"key": 256,
+		"word": "フロントエンドエンジニア",
+		"kana": "フロントエンドエンジニア",
+		"explanation": "前端工程师",
+		"hasKanji": false
+	},
+	{
+		"key": 257,
+		"word": "バックエンドエンジニア",
+		"kana": "バックエンドエンジニア",
+		"explanation": "后端工程师",
+		"hasKanji": false
+	},
+	{
+		"key": 258,
+		"word": "紫",
+		"kana": "むらさき",
+		"explanation": "紫色",
+		"hasKanji": true
+	},
+	{
+		"key": 259,
+		"word": "泡沫",
+		"kana": "うたかた",
+		"explanation": "泡沫,泡影，虚幻的事物",
+		"hasKanji": true
+	},
+	{
+		"key": 260,
+		"word": "泡沫",
+		"kana": "ほうまつ",
+		"explanation": "泡沫",
+		"hasKanji": true
+	},
+	{
+		"key": 261,
+		"word": "睡眠",
+		"kana": "すいみん",
+		"explanation": "睡觉",
+		"hasKanji": true
+	},
+	{
+		"key": 262,
+		"word": "眠る",
+		"kana": "ねむる",
+		"explanation": "睡觉",
+		"hasKanji": true
+	},
+	{
+		"key": 263,
+		"word": "目",
+		"kana": "め",
+		"explanation": "眼睛",
+		"hasKanji": true
+	},
+	{
+		"key": 264,
+		"word": "祈り",
+		"kana": "いのり",
+		"explanation": "祈祷",
+		"hasKanji": true
+	},
+	{
+		"key": 265,
+		"word": "涙",
+		"kana": "なみだ",
+		"explanation": "眼泪",
+		"hasKanji": true
+	},
+	{
+		"key": 266,
+		"word": "てるてる坊主",
+		"kana": "てるてるぼうず",
+		"explanation": "晴天娃娃",
+		"hasKanji": true
+	},
+	{
+		"key": 267,
+		"word": "折り紙",
+		"kana": "おりがみ",
+		"explanation": "折纸",
+		"hasKanji": true
+	},
+	{
+		"key": 268,
+		"word": "桜",
+		"kana": "さくら",
+		"explanation": "樱花",
+		"hasKanji": true
+	},
+	{
+		"key": 269,
+		"word": "コゴメナデシコ",
+		"kana": "コゴメナデシコ",
+		"explanation": "满天星",
+		"hasKanji": false
+	},
+	{
+		"key": 270,
+		"word": "卵",
+		"kana": "たまご",
+		"explanation": "鸡蛋",
+		"hasKanji": true
+	},
+	{
+		"key": 271,
+		"word": "栞",
+		"kana": "しおり",
+		"explanation": "书签",
+		"hasKanji": true
+	},
+	{
+		"key": 272,
+		"word": "QRコード",
+		"kana": "QRコード",
+		"explanation": "二维码",
+		"hasKanji": false
+	},
+	{
+		"key": 273,
+		"word": "バーコード",
+		"kana": "バーコード",
+		"explanation": "条形码",
+		"hasKanji": false
+	},
+	{
+		"key": 274,
+		"word": "ネジ",
+		"kana": "ネジ",
+		"explanation": "螺丝",
+		"hasKanji": false
+	},
+	{
+		"key": 275,
+		"word": "クローバー",
+		"kana": "クローバー",
+		"explanation": "三叶草",
+		"hasKanji": false
+	},
+	{
+		"key": 276,
+		"word": "四つ葉のクローバー",
+		"kana": "よつばのクローバー",
+		"explanation": "四叶草",
+		"hasKanji": true
+	},
+	{
+		"key": 277,
+		"word": "花言葉",
+		"kana": "はなことば",
+		"explanation": "花语",
+		"hasKanji": true
+	},
+	{
+		"key": 278,
+		"word": "卒業",
+		"kana": "そつぎょう",
+		"explanation": "毕业",
+		"hasKanji": true
+	},
+	{
+		"key": 279,
+		"word": "初恋",
+		"kana": "はつこい",
+		"explanation": "初恋",
+		"hasKanji": true
+	},
+	{
+		"key": 280,
+		"word": "苺",
+		"kana": "いちご",
+		"explanation": "草莓",
+		"hasKanji": true
+	},
+	{
+		"key": 281,
+		"word": "月",
+		"kana": "つき",
+		"explanation": "月亮",
+		"hasKanji": true
+	},
+	{
+		"key": 282,
+		"word": "冒険者",
+		"kana": "ぼうけんしゃ",
+		"explanation": "冒险者",
+		"hasKanji": true
+	},
+	{
+		"key": 283,
+		"word": "傭兵",
+		"kana": "ようへい",
+		"explanation": "佣兵",
+		"hasKanji": true
+	},
+	{
+		"key": 284,
+		"word": "羽",
+		"kana": "はね",
+		"explanation": "羽毛",
+		"hasKanji": true
+	},
+	{
+		"key": 285,
+		"word": "プリンター",
+		"kana": "プリンター",
+		"explanation": "打印机",
+		"hasKanji": false
+	},
+	{
+		"key": 286,
+		"word": "ツインテール",
+		"kana": "ツインテール",
+		"explanation": "双马尾",
+		"hasKanji": false
+	},
+	{
+		"key": 287,
+		"word": "ツンデレ",
+		"kana": "ツンデレ",
+		"explanation": "傲娇",
+		"hasKanji": false
+	},
+	{
+		"key": 288,
+		"word": "銅貨",
+		"kana": "どうか",
+		"explanation": "铜钱",
+		"hasKanji": true
+	},
+	{
+		"key": 289,
+		"word": "ネットカフェ",
+		"kana": "ネットカフェ",
+		"explanation": "网吧",
+		"hasKanji": false
+	},
+	{
+		"key": 290,
+		"word": "ろうそく",
+		"kana": "ろうそく",
+		"explanation": "蜡烛",
+		"hasKanji": false
+	},
+	{
+		"key": 291,
+		"word": "電気抵抗",
+		"kana": "でんきていこう",
+		"explanation": "电阻",
+		"hasKanji": true
+	},
+	{
+		"key": 292,
+		"word": "空母",
+		"kana": "くうぼ",
+		"explanation": "航空母舰",
+		"hasKanji": true
 	}
 ]
