@@ -1,0 +1,156 @@
+[
+	{
+		"key": 301,
+		"word": "思い出",
+		"kana": "おもいで",
+		"explanation": "回忆",
+		"hasKanji": true
+	},
+	{
+		"key": 302,
+		"word": "交通事故",
+		"kana": "こうつうじこ",
+		"explanation": "交通事故",
+		"hasKanji": true
+	},
+	{
+		"key": 303,
+		"word": "地震",
+		"kana": "じしん",
+		"explanation": "地震",
+		"hasKanji": true
+	},
+	{
+		"key": 304,
+		"word": "ミルクティー",
+		"kana": "ミルクティー",
+		"explanation": "奶茶",
+		"hasKanji": false
+	},
+	{
+		"key": 305,
+		"word": "占い",
+		"kana": "うらない",
+		"explanation": "占卜",
+		"hasKanji": true
+	},
+	{
+		"key": 306,
+		"word": "雲",
+		"kana": "くも",
+		"explanation": "云朵",
+		"hasKanji": true
+	},
+	{
+		"key": 307,
+		"word": "綿花",
+		"kana": "めんか",
+		"explanation": "棉花",
+		"hasKanji": true
+	},
+	{
+		"key": 308,
+		"word": "本",
+		"kana": "ほん",
+		"explanation": "书本",
+		"hasKanji": true
+	},
+	{
+		"key": 309,
+		"word": "幸せ",
+		"kana": "しあわせ",
+		"explanation": "幸福",
+		"hasKanji": true
+	},
+	{
+		"key": 310,
+		"word": "錆",
+		"kana": "さび",
+		"explanation": "锈迹",
+		"hasKanji": true
+	},
+	{
+		"key": 311,
+		"word": "街",
+		"kana": "まち",
+		"explanation": "街道",
+		"hasKanji": true
+	},
+	{
+		"key": 312,
+		"word": "教会",
+		"kana": "きょうかい",
+		"explanation": "教堂",
+		"hasKanji": true
+	},
+	{
+		"key": 313,
+		"word": "天然ボケ",
+		"kana": "てんねんボケ",
+		"explanation": "天然呆",
+		"hasKanji": true
+	},
+	{
+		"key": 314,
+		"word": "日記",
+		"kana": "にっき",
+		"explanation": "日记",
+		"hasKanji": true
+	},
+	{
+		"key": 315,
+		"word": "名前",
+		"kana": "なまえ",
+		"explanation": "名字",
+		"hasKanji": true
+	},
+	{
+		"key": 316,
+		"word": "ダンジョン",
+		"kana": "ダンジョン",
+		"explanation": "迷宫",
+		"hasKanji": false
+	},
+	{
+		"key": 317,
+		"word": "迷子",
+		"kana": "まいご",
+		"explanation": "迷路",
+		"hasKanji": true
+	},
+	{
+		"key": 318,
+		"word": "方向音痴",
+		"kana": "ほうこうおんち",
+		"explanation": "路痴",
+		"hasKanji": true
+	},
+	{
+		"key": 319,
+		"word": "鏡",
+		"kana": "かがみ",
+		"explanation": "镜子",
+		"hasKanji": true
+	},
+	{
+		"key": 320,
+		"word": "北極星",
+		"kana": "ほっきょくせい",
+		"explanation": "北极星",
+		"hasKanji": true
+	},
+	{
+		"key": 321,
+		"word": "本初子午線",
+		"kana": "ほんしょそごせん",
+		"explanation": "本初子午线",
+		"hasKanji": true
+	},
+	{
+		"key": 322,
+		"word": "赤道",
+		"kana": "せきどう",
+		"explanation": "赤道",
+		"hasKanji": true
+	}
+]

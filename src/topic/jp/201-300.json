@@ -642,5 +642,61 @@
 		"kana": "くうぼ",
 		"explanation": "航空母舰",
 		"hasKanji": true
+	},
+	{
+		"key": 293,
+		"word": "街をぶらつく",
+		"kana": "まちをぶらつく",
+		"explanation": "逛街",
+		"hasKanji": true
+	},
+	{
+		"key": 294,
+		"word": "中国語",
+		"kana": "ちゅうごくご",
+		"explanation": "中文",
+		"hasKanji": true
+	},
+	{
+		"key": 295,
+		"word": "日本語",
+		"kana": "にほんご",
+		"explanation": "日语",
+		"hasKanji": true
+	},
+	{
+		"key": 296,
+		"word": "在宅勤務",
+		"kana": "ざいたくきんむ",
+		"explanation": "居家办公",
+		"hasKanji": true
+	},
+	{
+		"key": 297,
+		"word": "銀河",
+		"kana": "ぎんが",
+		"explanation": "银河",
+		"hasKanji": true
+	},
+	{
+		"key": 298,
+		"word": "コンピューター",
+		"kana": "コンピューター",
+		"explanation": "计算机,电脑",
+		"hasKanji": false
+	},
+	{
+		"key": 299,
+		"word": "記憶",
+		"kana": "きおく",
+		"explanation": "记忆",
+		"hasKanji": true
+	},
+	{
+		"key": 300,
+		"word": "ハードディスク",
+		"kana": "ハードディスク",
+		"explanation": "硬盘",
+		"hasKanji": false
 	}
 ]
