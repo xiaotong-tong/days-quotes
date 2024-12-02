@@ -1,5 +1,12 @@
 [
 	{
+		"key": 0,
+		"word": "三題噺",
+		"kana": "さんだいばなし",
+		"explanation": "三题故事",
+		"hasKanji": true
+	},
+	{
 		"key": 1,
 		"word": "さざなみ",
 		"kana": "さざなみ",

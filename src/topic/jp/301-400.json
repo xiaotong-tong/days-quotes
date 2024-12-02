@@ -152,5 +152,460 @@
 		"kana": "せきどう",
 		"explanation": "赤道",
 		"hasKanji": true
+	},
+	{
+		"key": 323,
+		"word": "布団",
+		"kana": "ふとん",
+		"explanation": "被子",
+		"hasKanji": true
+	},
+	{
+		"key": 324,
+		"word": "ヘアクリップ",
+		"kana": "ヘアクリップ",
+		"explanation": "发卡",
+		"hasKanji": false
+	},
+	{
+		"key": 325,
+		"word": "髪飾り",
+		"kana": "かみかざり",
+		"explanation": "发饰",
+		"hasKanji": true
+	},
+	{
+		"key": 326,
+		"word": "バッグ",
+		"kana": "バッグ",
+		"explanation": "包包",
+		"hasKanji": false
+	},
+	{
+		"key": 327,
+		"word": "カバン",
+		"kana": "カバン",
+		"explanation": "公文包,书包",
+		"hasKanji": false
+	},
+	{
+		"key": 328,
+		"word": "ビニール袋",
+		"kana": "ビニールぶくろ",
+		"explanation": "塑料袋",
+		"hasKanji": true
+	},
+	{
+		"key": 329,
+		"word": "レジ袋",
+		"kana": "レジぶくろ",
+		"explanation": "白色塑料袋,购物袋",
+		"hasKanji": true
+	},
+	{
+		"key": 330,
+		"word": "メガネ",
+		"kana": "メガネ",
+		"explanation": "眼镜",
+		"hasKanji": false
+	},
+	{
+		"key": 331,
+		"word": "サンシキスミレ",
+		"kana": "サンシキスミレ",
+		"explanation": "三色堇",
+		"hasKanji": false
+	},
+	{
+		"key": 332,
+		"word": "キーボード",
+		"kana": "キーボード",
+		"explanation": "键盘",
+		"hasKanji": false
+	},
+	{
+		"key": 333,
+		"word": "カーテン",
+		"kana": "カーテン",
+		"explanation": "窗帘",
+		"hasKanji": false
+	},
+	{
+		"key": 334,
+		"word": "オートバイ",
+		"kana": "オートバイ",
+		"explanation": "摩托车",
+		"hasKanji": false
+	},
+	{
+		"key": 335,
+		"word": "バイク",
+		"kana": "バイク",
+		"explanation": "摩托车",
+		"hasKanji": false
+	},
+	{
+		"key": 336,
+		"word": "バルコニー",
+		"kana": "バルコニー",
+		"explanation": "阳台,露天阳台",
+		"hasKanji": false
+	},
+	{
+		"key": 337,
+		"word": "ベランダ",
+		"kana": "ベランダ",
+		"explanation": "阳台",
+		"hasKanji": false
+	},
+	{
+		"key": 338,
+		"word": "物語",
+		"kana": "ものがたり",
+		"explanation": "故事",
+		"hasKanji": true
+	},
+	{
+		"key": 339,
+		"word": "小説",
+		"kana": "しょうせつ",
+		"explanation": "小说",
+		"hasKanji": true
+	},
+	{
+		"key": 340,
+		"word": "見習い",
+		"kana": "みならい",
+		"explanation": "见习生",
+		"hasKanji": false
+	},
+	{
+		"key": 341,
+		"word": "酔漢",
+		"kana": "すいかん",
+		"explanation": "醉汉",
+		"hasKanji": true
+	},
+	{
+		"key": 342,
+		"word": "財布",
+		"kana": "さいふ",
+		"explanation": "钱包",
+		"hasKanji": true
+	},
+	{
+		"key": 343,
+		"word": "鍵",
+		"kana": "かぎ",
+		"explanation": "钥匙",
+		"hasKanji": true
+	},
+	{
+		"key": 344,
+		"word": "セルリアンブルー",
+		"kana": "セルリアンブルー",
+		"explanation": "蔚蓝色",
+		"hasKanji": false
+	},
+	{
+		"key": 345,
+		"word": "空色",
+		"kana": "そらいろ",
+		"explanation": "蔚蓝色,天空蓝",
+		"hasKanji": true
+	},
+	{
+		"key": 346,
+		"word": "声",
+		"kana": "こえ",
+		"explanation": "声音",
+		"hasKanji": true
+	},
+	{
+		"key": 347,
+		"word": "オルゴール",
+		"kana": "オルゴール",
+		"explanation": "八音盒",
+		"hasKanji": false
+	},
+	{
+		"key": 348,
+		"word": "歴史",
+		"kana": "れきし",
+		"explanation": "历史",
+		"hasKanji": true
+	},
+	{
+		"key": 349,
+		"word": "鉛筆",
+		"kana": "えんぴつ",
+		"explanation": "铅笔",
+		"hasKanji": true
+	},
+	{
+		"key": 350,
+		"word": "ペンタブレット",
+		"kana": "ペンタブレット",
+		"explanation": "数位板",
+		"hasKanji": false
+	},
+	{
+		"key": 351,
+		"word": "亡霊",
+		"kana": "ぼうれい",
+		"explanation": "亡灵",
+		"hasKanji": true
+	},
+	{
+		"key": 352,
+		"word": "潮汐",
+		"kana": "ちょうせき",
+		"explanation": "潮汐",
+		"hasKanji": true
+	},
+	{
+		"key": 353,
+		"word": "潮",
+		"kana": "しお",
+		"explanation": "潮汐",
+		"hasKanji": true
+	},
+	{
+		"key": 354,
+		"word": "ラベル",
+		"kana": "ラベル",
+		"explanation": "标签",
+		"hasKanji": false
+	},
+	{
+		"key": 355,
+		"word": "吸血鬼",
+		"kana": "きゅうけつき",
+		"explanation": "吸血鬼",
+		"hasKanji": true
+	},
+	{
+		"key": 356,
+		"word": "雷",
+		"kana": "かみなり",
+		"explanation": "雷电",
+		"hasKanji": true
+	},
+	{
+		"key": 357,
+		"word": "誓い",
+		"kana": "ちかい",
+		"explanation": "誓言",
+		"hasKanji": true
+	},
+	{
+		"key": 358,
+		"word": "戦友",
+		"kana": "せんゆう",
+		"explanation": "战友",
+		"hasKanji": true
+	},
+	{
+		"key": 359,
+		"word": "魔法使い",
+		"kana": "まほうつかい",
+		"explanation": "魔法师",
+		"hasKanji": true
+	},
+	{
+		"key": 360,
+		"word": "沼",
+		"kana": "ぬま",
+		"explanation": "沼泽",
+		"hasKanji": true
+	},
+	{
+		"key": 361,
+		"word": "ライター",
+		"kana": "ライター",
+		"explanation": "打火机,作家",
+		"hasKanji": false
+	},
+	{
+		"key": 362,
+		"word": "作家",
+		"kana": "さっか",
+		"explanation": "作家",
+		"hasKanji": true
+	},
+	{
+		"key": 363,
+		"word": "不良",
+		"kana": "ふりょう",
+		"explanation": "不良",
+		"hasKanji": true
+	},
+	{
+		"key": 364,
+		"word": "便箋",
+		"kana": "びんせん",
+		"explanation": "便签,信纸",
+		"hasKanji": true
+	},
+	{
+		"key": 365,
+		"word": "誤字",
+		"kana": "ごじ",
+		"explanation": "错别字",
+		"hasKanji": true
+	},
+	{
+		"key": 366,
+		"word": "ニラ",
+		"kana": "ニラ",
+		"explanation": "韭菜",
+		"hasKanji": false
+	},
+	{
+		"key": 367,
+		"word": "ニラ餃子",
+		"kana": "ニラぎょうざ",
+		"explanation": "韭菜饺子,韭菜盒子",
+		"hasKanji": true
+	},
+	{
+		"key": 368,
+		"word": "韭菜合子",
+		"kana": "ジウツァイホーズ",
+		"explanation": "韭菜盒子",
+		"hasKanji": true
+	},
+	{
+		"key": 369,
+		"word": "文庫本",
+		"kana": "ぶんこぼん",
+		"explanation": "文库本",
+		"hasKanji": true
+	},
+	{
+		"key": 370,
+		"word": "バスケットボール",
+		"kana": "バスケットボール",
+		"explanation": "篮球",
+		"hasKanji": false
+	},
+	{
+		"key": 371,
+		"word": "船員",
+		"kana": "せんいん",
+		"explanation": "水手,船员",
+		"hasKanji": true
+	},
+	{
+		"key": 372,
+		"word": "セーラー服",
+		"kana": "セーラーふく",
+		"explanation": "水手服",
+		"hasKanji": true
+	},
+	{
+		"key": 373,
+		"word": "サボる",
+		"kana": "サボる",
+		"explanation": "逃学,翘班",
+		"hasKanji": false
+	},
+	{
+		"key": 374,
+		"word": "万里の长城",
+		"kana": "ばんりのちょうじょう",
+		"explanation": "长城",
+		"hasKanji": true
+	},
+	{
+		"key": 375,
+		"word": "八分音符",
+		"kana": "はちぶおんぷ",
+		"explanation": "八分音符",
+		"hasKanji": true
+	},
+	{
+		"key": 376,
+		"word": "五線譜",
+		"kana": "ごせんぷ",
+		"explanation": "五线谱",
+		"hasKanji": true
+	},
+	{
+		"key": 377,
+		"word": "キャンバスシューズ",
+		"kana": "キャンバスシューズ",
+		"explanation": "帆布鞋",
+		"hasKanji": false
+	},
+	{
+		"key": 378,
+		"word": "ブーツ",
+		"kana": "ブーツ",
+		"explanation": "长筒靴",
+		"hasKanji": true
+	},
+	{
+		"key": 379,
+		"word": "レインシューズ",
+		"kana": "レインシューズ",
+		"explanation": "雨鞋",
+		"hasKanji": false
+	},
+	{
+		"key": 380,
+		"word": "雨靴",
+		"kana": "あまぐつ",
+		"explanation": "雨鞋",
+		"hasKanji": true
+	},
+	{
+		"key": 381,
+		"word": "粉末洗剤",
+		"kana": "ふんまつせんざい",
+		"explanation": "洗衣粉",
+		"hasKanji": true
+	},
+	{
+		"key": 382,
+		"word": "液体洗剤",
+		"kana": "えきたいせんざい",
+		"explanation": "洗衣液",
+		"hasKanji": true
+	},
+	{
+		"key": 383,
+		"word": "釣り",
+		"kana": "つり",
+		"explanation": "钓鱼",
+		"hasKanji": true
+	},
+	{
+		"key": 384,
+		"word": "水鏡",
+		"kana": "みずかがみ",
+		"explanation": "水中倒影",
+		"hasKanji": true
+	},
+	{
+		"key": 385,
+		"word": "勇者",
+		"kana": "ゆうしゃ",
+		"explanation": "勇者",
+		"hasKanji": true
+	},
+	{
+		"key": 386,
+		"word": "魔王",
+		"kana": "まおう",
+		"explanation": "魔王",
+		"hasKanji": true
+	},
+	{
+		"key": 387,
+		"word": "コーヒーカップ",
+		"kana": "コーヒーカップ",
+		"explanation": "咖啡杯",
+		"hasKanji": false
 	}
 ]
