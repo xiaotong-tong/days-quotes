@@ -607,5 +607,96 @@
 		"kana": "コーヒーカップ",
 		"explanation": "咖啡杯",
 		"hasKanji": false
+	},
+	{
+		"key": 388,
+		"word": "カセットテープ",
+		"kana": "カセットテープ",
+		"explanation": "磁带",
+		"hasKanji": false
+	},
+	{
+		"key": 389,
+		"word": "指数表記",
+		"kana": "しすうひょうき",
+		"explanation": "科学计数法",
+		"hasKanji": true
+	},
+	{
+		"key": 390,
+		"word": "円周率",
+		"kana": "えんしゅうりつ",
+		"explanation": "圆周率",
+		"hasKanji": true
+	},
+	{
+		"key": 391,
+		"word": "ぬいぐるみ",
+		"kana": "ぬいぐるみ",
+		"explanation": "毛绒玩具",
+		"hasKanji": false
+	},
+	{
+		"key": 392,
+		"word": "コントローラー",
+		"kana": "コントローラー",
+		"explanation": "手柄",
+		"hasKanji": false
+	},
+	{
+		"key": 393,
+		"word": "ゲームパッド",
+		"kana": "ゲームパッド",
+		"explanation": "游戏手柄",
+		"hasKanji": false
+	},
+	{
+		"key": 394,
+		"word": "ラーメン",
+		"kana": "ラーメン",
+		"explanation": "拉面",
+		"hasKanji": false
+	},
+	{
+		"key": 395,
+		"word": "プレゼント",
+		"kana": "プレゼント",
+		"explanation": "礼物",
+		"hasKanji": false
+	},
+	{
+		"key": 396,
+		"word": "ウサギ",
+		"kana": "ウサギ",
+		"explanation": "兔子",
+		"hasKanji": false
+	},
+	{
+		"key": 397,
+		"word": "玉兎",
+		"kana": "ぎょくと",
+		"explanation": "玉兔,月兔",
+		"hasKanji": true
+	},
+	{
+		"key": 398,
+		"word": "風鈴",
+		"kana": "ふうりん",
+		"explanation": "风铃",
+		"hasKanji": true
+	},
+	{
+		"key": 399,
+		"word": "右手",
+		"kana": "みぎて",
+		"explanation": "右手",
+		"hasKanji": true
+	},
+	{
+		"key": 400,
+		"word": "左手",
+		"kana": "ひだりて",
+		"explanation": "左手",
+		"hasKanji": true
 	}
 ]

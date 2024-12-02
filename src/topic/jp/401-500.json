@@ -1,0 +1,16 @@
+[
+	{
+		"key": 401,
+		"word": "招き猫",
+		"kana": "まねきねこ",
+		"explanation": "招财猫",
+		"hasKanji": true
+	},
+	{
+		"key": 402,
+		"word": "蚊取り線香",
+		"kana": "かとりせんこう",
+		"explanation": "蚊香",
+		"hasKanji": true
+	}
+]
