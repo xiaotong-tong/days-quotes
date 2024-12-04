@@ -12,5 +12,285 @@
 		"kana": "かとりせんこう",
 		"explanation": "蚊香",
 		"hasKanji": true
+	},
+	{
+		"key": 403,
+		"word": "猫舌",
+		"kana": "ねこじた",
+		"explanation": "猫舌",
+		"hasKanji": true
+	},
+	{
+		"key": 404,
+		"word": "404",
+		"kana": "404",
+		"explanation": "404",
+		"hasKanji": false
+	},
+	{
+		"key": 405,
+		"word": "ドメイン",
+		"kana": "ドメイン",
+		"explanation": "域名",
+		"hasKanji": false
+	},
+	{
+		"key": 406,
+		"word": "手をつなぐ",
+		"kana": "てをつなぐ",
+		"explanation": "牵手",
+		"hasKanji": true
+	},
+	{
+		"key": 407,
+		"word": "親密度",
+		"kana": "しんみつど",
+		"explanation": "亲密度",
+		"hasKanji": true
+	},
+	{
+		"key": 408,
+		"word": "流れ作業",
+		"kana": "ながれさぎょう",
+		"explanation": "流水线",
+		"hasKanji": true
+	},
+	{
+		"key": 409,
+		"word": "歌う",
+		"kana": "うたう",
+		"explanation": "唱歌",
+		"hasKanji": true
+	},
+	{
+		"key": 410,
+		"word": "デザイン",
+		"kana": "デザイン",
+		"explanation": "设计",
+		"hasKanji": false
+	},
+	{
+		"key": 411,
+		"word": "倉庫",
+		"kana": "そうこ",
+		"explanation": "仓库",
+		"hasKanji": true
+	},
+	{
+		"key": 412,
+		"word": "カラーパレット",
+		"kana": "カラーパレット",
+		"explanation": "调色板",
+		"hasKanji": false
+	},
+	{
+		"key": 413,
+		"word": "給料",
+		"kana": "きゅうりょう",
+		"explanation": "工资",
+		"hasKanji": true
+	},
+	{
+		"key": 414,
+		"word": "家賃",
+		"kana": "やちん",
+		"explanation": "房租",
+		"hasKanji": true
+	},
+	{
+		"key": 415,
+		"word": "クッキー",
+		"kana": "クッキー",
+		"explanation": "饼干",
+		"hasKanji": false
+	},
+	{
+		"key": 416,
+		"word": "外国人",
+		"kana": "がいこくじん",
+		"explanation": "外国人",
+		"hasKanji": true
+	},
+	{
+		"key": 417,
+		"word": "お喋り",
+		"kana": "おしゃべり",
+		"explanation": "闲聊",
+		"hasKanji": true
+	},
+	{
+		"key": 418,
+		"word": "説明書",
+		"kana": "せつめいしょ",
+		"explanation": "说明书",
+		"hasKanji": true
+	},
+	{
+		"key": 419,
+		"word": "黄昏",
+		"kana": "たそがれ",
+		"explanation": "黄昏",
+		"hasKanji": true
+	},
+	{
+		"key": 420,
+		"word": "カラス",
+		"kana": "カラス",
+		"explanation": "乌鸦",
+		"hasKanji": false
+	},
+	{
+		"key": 421,
+		"word": "ダイヤモンド",
+		"kana": "ダイヤモンド",
+		"explanation": "钻石",
+		"hasKanji": false
+	},
+	{
+		"key": 422,
+		"word": "同素体",
+		"kana": "どうそたい",
+		"explanation": "同素异形体",
+		"hasKanji": true
+	},
+	{
+		"key": 423,
+		"word": "約束",
+		"kana": "やくそく",
+		"explanation": "约定",
+		"hasKanji": true
+	},
+	{
+		"key": 424,
+		"word": "死神",
+		"kana": "しにがみ",
+		"explanation": "死神",
+		"hasKanji": true
+	},
+	{
+		"key": 425,
+		"word": "童話",
+		"kana": "どうわ",
+		"explanation": "童话",
+		"hasKanji": true
+	},
+	{
+		"key": 426,
+		"word": "夜明け",
+		"kana": "よあけ",
+		"explanation": "拂晓",
+		"hasKanji": true
+	},
+	{
+		"key": 427,
+		"word": "終末",
+		"kana": "しゅうまつ",
+		"explanation": "终末",
+		"hasKanji": true
+	},
+	{
+		"key": 428,
+		"word": "果実",
+		"kana": "かじつ",
+		"explanation": "果实",
+		"hasKanji": true
+	},
+	{
+		"key": 429,
+		"word": "機械",
+		"kana": "きかい",
+		"explanation": "机器",
+		"hasKanji": true
+	},
+	{
+		"key": 430,
+		"word": "故障",
+		"kana": "こしょう",
+		"explanation": "故障",
+		"hasKanji": true
+	},
+	{
+		"key": 431,
+		"word": "嘘",
+		"kana": "うそ",
+		"explanation": "谎言",
+		"hasKanji": true
+	},
+	{
+		"key": 432,
+		"word": "ミント",
+		"kana": "ミント",
+		"explanation": "薄荷",
+		"hasKanji": false
+	},
+	{
+		"key": 433,
+		"word": "カップラーメン",
+		"kana": "カップラーメン",
+		"explanation": "泡面",
+		"hasKanji": false
+	},
+	{
+		"key": 434,
+		"word": "インスタントラーメン",
+		"kana": "インスタントラーメン",
+		"explanation": "方便面",
+		"hasKanji": false
+	},
+	{
+		"key": 435,
+		"word": "即席ラーメン",
+		"kana": "そくせきラーメン",
+		"explanation": "方便面",
+		"hasKanji": true
+	},
+	{
+		"key": 436,
+		"word": "無邪気",
+		"kana": "むじゃき",
+		"explanation": "无邪",
+		"hasKanji": true
+	},
+	{
+		"key": 437,
+		"word": "トイレットペーパー",
+		"kana": "トイレットペーパー",
+		"explanation": "卫生纸",
+		"hasKanji": false
+	},
+	{
+		"key": 438,
+		"word": "仕草",
+		"kana": "しぐさ",
+		"explanation": "动作,举止",
+		"hasKanji": true
+	},
+	{
+		"key": 439,
+		"word": "鏡花水月",
+		"kana": "きょうかすいげつ",
+		"explanation": "镜花水月",
+		"hasKanji": true
+	},
+	{
+		"key": 440,
+		"word": "騎士",
+		"kana": "きし",
+		"explanation": "骑士",
+		"hasKanji": true
+	},
+	{
+		"key": 441,
+		"word": "井戸",
+		"kana": "いど",
+		"explanation": "水井",
+		"hasKanji": true
+	},
+	{
+		"key": 442,
+		"word": "硬貨",
+		"kana": "こうか",
+		"explanation": "硬币",
+		"hasKanji": true
 	}
 ]
