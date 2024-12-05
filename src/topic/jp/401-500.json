@@ -292,5 +292,82 @@
 		"kana": "こうか",
 		"explanation": "硬币",
 		"hasKanji": true
+	},
+	{
+		"key": 443,
+		"word": "名刺",
+		"kana": "めいし",
+		"explanation": "名片",
+		"hasKanji": true
+	},
+	{
+		"key": 444,
+		"word": "流れ星",
+		"kana": "ながれぼし",
+		"explanation": "流星",
+		"hasKanji": true
+	},
+	{
+		"key": 445,
+		"word": "蜜柑",
+		"kana": "みかん",
+		"explanation": "橘子",
+		"hasKanji": true
+	},
+	{
+		"key": 446,
+		"word": "ウインドブレーカー",
+		"kana": "ウインドブレーカー",
+		"explanation": "风衣",
+		"hasKanji": false
+	},
+	{
+		"key": 447,
+		"word": "ダウンジャケット",
+		"kana": "ダウンジャケット",
+		"explanation": "羽绒服",
+		"hasKanji": false
+	},
+	{
+		"key": 448,
+		"word": "葉",
+		"kana": "は",
+		"explanation": "叶子",
+		"hasKanji": true
+	},
+	{
+		"key": 449,
+		"word": "試験",
+		"kana": "しけん",
+		"explanation": "考试",
+		"hasKanji": true
+	},
+	{
+		"key": 450,
+		"word": "明日",
+		"kana": "あした",
+		"explanation": "明天",
+		"hasKanji": true
+	},
+	{
+		"key": 451,
+		"word": "未来",
+		"kana": "みらい",
+		"explanation": "未来",
+		"hasKanji": true
+	},
+	{
+		"key": 452,
+		"word": "目盛り",
+		"kana": "めもり",
+		"explanation": "刻度",
+		"hasKanji": true
+	},
+	{
+		"key": 453,
+		"word": "霧",
+		"kana": "きり",
+		"explanation": "雾",
+		"hasKanji": true
 	}
 ]
