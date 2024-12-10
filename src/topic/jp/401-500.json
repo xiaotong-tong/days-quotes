@@ -369,5 +369,103 @@
 		"kana": "きり",
 		"explanation": "雾",
 		"hasKanji": true
+	},
+	{
+		"key": 454,
+		"word": "ロマンチック",
+		"kana": "ロマンチック",
+		"explanation": "浪漫",
+		"hasKanji": false
+	},
+	{
+		"key": 455,
+		"word": "香水",
+		"kana": "こうすい",
+		"explanation": "香水",
+		"hasKanji": true
+	},
+	{
+		"key": 456,
+		"word": "退職",
+		"kana": "たいしょく",
+		"explanation": "离职",
+		"hasKanji": true
+	},
+	{
+		"key": 457,
+		"word": "履歴書",
+		"kana": "りれきしょ",
+		"explanation": "简历",
+		"hasKanji": true
+	},
+	{
+		"key": 458,
+		"word": "面接",
+		"kana": "めんせつ",
+		"explanation": "面试",
+		"hasKanji": true
+	},
+	{
+		"key": 459,
+		"word": "QQ",
+		"kana": "QQ",
+		"explanation": "QQ",
+		"hasKanji": false
+	},
+	{
+		"key": 460,
+		"word": "ポテトチップス",
+		"kana": "ポテトチップス",
+		"explanation": "薯片",
+		"hasKanji": false
+	},
+	{
+		"key": 461,
+		"word": "順番",
+		"kana": "じゅんばん",
+		"explanation": "排队",
+		"hasKanji": true
+	},
+	{
+		"key": 462,
+		"word": "一目惚れ",
+		"kana": "ひとめぼれ",
+		"explanation": "一见钟情",
+		"hasKanji": true
+	},
+	{
+		"key": 463,
+		"word": "詩集",
+		"kana": "しじゅう",
+		"explanation": "诗集",
+		"hasKanji": true
+	},
+	{
+		"key": 464,
+		"word": "花びら",
+		"kana": "はなびら",
+		"explanation": "花瓣",
+		"hasKanji": true
+	},
+	{
+		"key": 465,
+		"word": "呪い",
+		"kana": "のろい",
+		"explanation": "诅咒",
+		"hasKanji": true
+	},
+	{
+		"key": 466,
+		"word": "ポストモダニズム",
+		"kana": "ポストモダニズム",
+		"explanation": "后现代主义",
+		"hasKanji": false
+	},
+	{
+		"key": 467,
+		"word": "監視",
+		"kana": "かんし",
+		"explanation": "监控",
+		"hasKanji": true
 	}
 ]
