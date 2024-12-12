@@ -467,5 +467,236 @@
 		"kana": "かんし",
 		"explanation": "监控",
 		"hasKanji": true
+	},
+	{
+		"key": 468,
+		"word": "輪廻転生",
+		"kana": "りんねてんしょう",
+		"explanation": "轮回转世",
+		"hasKanji": true
+	},
+	{
+		"key": 469,
+		"word": "四苦八苦",
+		"kana": "しくはっく",
+		"explanation": "四苦八苦",
+		"hasKanji": true
+	},
+	{
+		"key": 470,
+		"word": "転生",
+		"kana": "てんせい",
+		"explanation": "转世",
+		"hasKanji": true
+	},
+	{
+		"key": 471,
+		"word": "輪廻",
+		"kana": "りんね",
+		"explanation": "轮回",
+		"hasKanji": true
+	},
+	{
+		"key": 472,
+		"word": "彼氏",
+		"kana": "かれし",
+		"explanation": "男朋友",
+		"hasKanji": true
+	},
+	{
+		"key": 473,
+		"word": "彼女",
+		"kana": "かのじょ",
+		"explanation": "女朋友",
+		"hasKanji": true
+	},
+	{
+		"key": 474,
+		"word": "シャワー",
+		"kana": "シャワー",
+		"explanation": "洗澡",
+		"hasKanji": false
+	},
+	{
+		"key": 475,
+		"word": "お小遣い",
+		"kana": "おこづかい",
+		"explanation": "零花钱",
+		"hasKanji": true
+	},
+	{
+		"key": 476,
+		"word": "乙女座",
+		"kana": "おとめざ",
+		"explanation": "处女座",
+		"hasKanji": true
+	},
+	{
+		"key": 477,
+		"word": "牡羊座",
+		"kana": "おひつじざ",
+		"explanation": "白羊座",
+		"hasKanji": true
+	},
+	{
+		"key": 478,
+		"word": "牡牛座",
+		"kana": "おうしざ",
+		"explanation": "金牛座",
+		"hasKanji": true
+	},
+	{
+		"key": 479,
+		"word": "双子座",
+		"kana": "ふたござ",
+		"explanation": "双子座",
+		"hasKanji": true
+	},
+	{
+		"key": 480,
+		"word": "蟹座",
+		"kana": "かにざ",
+		"explanation": "巨蟹座",
+		"hasKanji": true
+	},
+	{
+		"key": 481,
+		"word": "獅子座",
+		"kana": "ししざ",
+		"explanation": "狮子座",
+		"hasKanji": true
+	},
+	{
+		"key": 482,
+		"word": "天秤座",
+		"kana": "てんびんざ",
+		"explanation": "天秤座",
+		"hasKanji": true
+	},
+	{
+		"key": 483,
+		"word": "蠍座",
+		"kana": "さそりざ",
+		"explanation": "天蝎座",
+		"hasKanji": true
+	},
+	{
+		"key": 484,
+		"word": "射手座",
+		"kana": "いてざ",
+		"explanation": "射手座",
+		"hasKanji": true
+	},
+	{
+		"key": 485,
+		"word": "山羊座",
+		"kana": "やぎざ",
+		"explanation": "摩羯座",
+		"hasKanji": true
+	},
+	{
+		"key": 486,
+		"word": "水瓶座",
+		"kana": "みずがめざ",
+		"explanation": "水瓶座",
+		"hasKanji": true
+	},
+	{
+		"key": 487,
+		"word": "魚座",
+		"kana": "うおざ",
+		"explanation": "双鱼座",
+		"hasKanji": true
+	},
+	{
+		"key": 488,
+		"word": "夏の大三角",
+		"kana": "なつのだいさんかく",
+		"explanation": "夏季大三角",
+		"hasKanji": true
+	},
+	{
+		"key": 489,
+		"word": "マグカップ",
+		"kana": "マグカップ",
+		"explanation": "马克杯",
+		"hasKanji": false
+	},
+	{
+		"key": 490,
+		"word": "中性紙",
+		"kana": "ちゅうせいし",
+		"explanation": "无酸纸",
+		"hasKanji": true
+	},
+	{
+		"key": 491,
+		"word": "トレーシングペーパー",
+		"kana": "トレーシングペーパー",
+		"explanation": "硫酸纸",
+		"hasKanji": false
+	},
+	{
+		"key": 492,
+		"word": "椅子",
+		"kana": "いす",
+		"explanation": "椅子",
+		"hasKanji": true
+	},
+	{
+		"key": 493,
+		"word": "ソファ",
+		"kana": "ソファ",
+		"explanation": "沙发",
+		"hasKanji": false
+	},
+	{
+		"key": 494,
+		"word": "米",
+		"kana": "こめ",
+		"explanation": "米",
+		"hasKanji": true
+	},
+	{
+		"key": 495,
+		"word": "天使",
+		"kana": "てんし",
+		"explanation": "天使",
+		"hasKanji": true
+	},
+	{
+		"key": 496,
+		"word": "悪魔",
+		"kana": "あくま",
+		"explanation": "恶魔",
+		"hasKanji": true
+	},
+	{
+		"key": 497,
+		"word": "画像",
+		"kana": "がぞう",
+		"explanation": "图片",
+		"hasKanji": true
+	},
+	{
+		"key": 498,
+		"word": "ミネラルウォーター",
+		"kana": "ミネラルウォーター",
+		"explanation": "矿泉水",
+		"hasKanji": false
+	},
+	{
+		"key": 499,
+		"word": "無機化合物",
+		"kana": "むきかごうぶつ",
+		"explanation": "无机物",
+		"hasKanji": true
+	},
+	{
+		"key": 500,
+		"word": "有機化合物",
+		"kana": "ゆうきかごうぶつ",
+		"explanation": "有机物",
+		"hasKanji": true
 	}
 ]
