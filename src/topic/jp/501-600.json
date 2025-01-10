@@ -1,0 +1,93 @@
+[
+	{
+		"key": 501,
+		"word": "七草粥",
+		"kana": "ななくさがゆ",
+		"explanation": "七草粥",
+		"hasKanji": true
+	},
+	{
+		"key": 502,
+		"word": "病気",
+		"kana": "びょうき",
+		"explanation": "生病",
+		"hasKanji": true
+	},
+	{
+		"key": 503,
+		"word": "怪我",
+		"kana": "けが",
+		"explanation": "受伤",
+		"hasKanji": true
+	},
+	{
+		"key": 504,
+		"word": "インフルエンザ",
+		"kana": "インフルエンザ",
+		"explanation": "流感",
+		"hasKanji": false
+	},
+	{
+		"key": 505,
+		"word": "交差",
+		"kana": "こうさ",
+		"explanation": "交叉,交集",
+		"hasKanji": true
+	},
+	{
+		"key": 506,
+		"word": "下腹",
+		"kana": "したばら",
+		"explanation": "小肚子",
+		"hasKanji": true
+	},
+	{
+		"key": 507,
+		"word": "和集合",
+		"kana": "わしゅうごう",
+		"explanation": "并集",
+		"hasKanji": true
+	},
+	{
+		"key": 508,
+		"word": "NPC",
+		"kana": "NPC",
+		"explanation": "NPC",
+		"hasKanji": false
+	},
+	{
+		"key": 509,
+		"word": "国際化",
+		"kana": "こくさいか",
+		"explanation": "国际化",
+		"hasKanji": true
+	},
+	{
+		"key": 510,
+		"word": "宿題",
+		"kana": "しゅくだい",
+		"explanation": "作业",
+		"hasKanji": true
+	},
+	{
+		"key": 511,
+		"word": "さくらんぼ",
+		"kana": "さくらんぼ",
+		"explanation": "樱桃",
+		"hasKanji": false
+	},
+	{
+		"key": 512,
+		"word": "あずき",
+		"kana": "あずき",
+		"explanation": "红豆",
+		"hasKanji": false
+	},
+	{
+		"key": 513,
+		"word": "遅刻",
+		"kana": "ちこく",
+		"explanation": "迟到",
+		"hasKanji": true
+	}
+]
