@@ -89,5 +89,82 @@
 		"kana": "ちこく",
 		"explanation": "迟到",
 		"hasKanji": true
+	},
+	{
+		"key": 514,
+		"word": "交番",
+		"kana": "こうばん",
+		"explanation": "派出所",
+		"hasKanji": true
+	},
+	{
+		"key": 515,
+		"word": "ポケット",
+		"kana": "ポケット",
+		"explanation": "口袋",
+		"hasKanji": false
+	},
+	{
+		"key": 516,
+		"word": "飴",
+		"kana": "あめ",
+		"explanation": "糖果",
+		"hasKanji": true
+	},
+	{
+		"key": 517,
+		"word": "ハガキ",
+		"kana": "ハガキ",
+		"explanation": "明信片",
+		"hasKanji": false
+	},
+	{
+		"key": 518,
+		"word": "単語",
+		"kana": "たんご",
+		"explanation": "单词",
+		"hasKanji": true
+	},
+	{
+		"key": 519,
+		"word": "塩",
+		"kana": "しお",
+		"explanation": "盐",
+		"hasKanji": true
+	},
+	{
+		"key": 520,
+		"word": "牛肉",
+		"kana": "ぎゅうにく",
+		"explanation": "牛肉",
+		"hasKanji": true
+	},
+	{
+		"key": 521,
+		"word": "バター",
+		"kana": "バター",
+		"explanation": "黄油",
+		"hasKanji": false
+	},
+	{
+		"key": 522,
+		"word": "キロ",
+		"kana": "キロ",
+		"explanation": "千克",
+		"hasKanji": false
+	},
+	{
+		"key": 523,
+		"word": "グラム",
+		"kana": "グラム",
+		"explanation": "克",
+		"hasKanji": false
+	},
+	{
+		"key": 524,
+		"word": "事務局",
+		"kana": "じむきょく",
+		"explanation": "(政府的)办公室",
+		"hasKanji": true
 	}
 ]
