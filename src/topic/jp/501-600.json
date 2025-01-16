@@ -166,5 +166,82 @@
 		"kana": "じむきょく",
 		"explanation": "(政府的)办公室",
 		"hasKanji": true
+	},
+	{
+		"key": 525,
+		"word": "うろこ",
+		"kana": "うろこ",
+		"explanation": "鳞片",
+		"hasKanji": false
+	},
+	{
+		"key": 526,
+		"word": "魚の鱗",
+		"kana": "さかなのうろこ",
+		"explanation": "鱼鳞",
+		"hasKanji": true
+	},
+	{
+		"key": 527,
+		"word": "優勝",
+		"kana": "ゆうしょう",
+		"explanation": "冠军",
+		"hasKanji": true
+	},
+	{
+		"key": 528,
+		"word": "準優勝",
+		"kana": "じゅんゆうしょう",
+		"explanation": "亚军",
+		"hasKanji": true
+	},
+	{
+		"key": 529,
+		"word": "チャンピオン",
+		"kana": "チャンピオン",
+		"explanation": "冠军",
+		"hasKanji": false
+	},
+	{
+		"key": 530,
+		"word": "トロフィー",
+		"kana": "トロフィー",
+		"explanation": "奖杯",
+		"hasKanji": false
+	},
+	{
+		"key": 531,
+		"word": "滝",
+		"kana": "たき",
+		"explanation": "瀑布",
+		"hasKanji": true
+	},
+	{
+		"key": 532,
+		"word": "聖光",
+		"kana": "せいこう",
+		"explanation": "圣光",
+		"hasKanji": true
+	},
+	{
+		"key": 533,
+		"word": "聖騎士",
+		"kana": "せいきし",
+		"explanation": "圣骑士",
+		"hasKanji": true
+	},
+	{
+		"key": 534,
+		"word": "骨",
+		"kana": "ほね",
+		"explanation": "骨头",
+		"hasKanji": true
+	},
+	{
+		"key": 535,
+		"word": "ターミナル",
+		"kana": "ターミナル",
+		"explanation": "终端",
+		"hasKanji": false
 	}
 ]
