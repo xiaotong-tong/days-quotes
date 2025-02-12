@@ -243,5 +243,82 @@
 		"kana": "ターミナル",
 		"explanation": "终端",
 		"hasKanji": false
+	},
+	{
+		"key": 536,
+		"word": "細胞",
+		"kana": "さいぼう",
+		"explanation": "细胞",
+		"hasKanji": true
+	},
+	{
+		"key": 537,
+		"word": "相合傘",
+		"kana": "あいあいがさ",
+		"explanation": "相合伞",
+		"hasKanji": true
+	},
+	{
+		"key": 538,
+		"word": "エバーラスティング",
+		"kana": "エバーラスティング",
+		"explanation": "永生花",
+		"hasKanji": false
+	},
+	{
+		"key": 539,
+		"word": "ソーラーフラワー",
+		"kana": "ソーラーフラワー",
+		"explanation": "索拉花",
+		"hasKanji": false
+	},
+	{
+		"key": 540,
+		"word": "ハンドメイドフラワー",
+		"kana": "ハンドメイドフラワー",
+		"explanation": "手工花",
+		"hasKanji": false
+	},
+	{
+		"key": 541,
+		"word": "バラ",
+		"kana": "バラ",
+		"explanation": "玫瑰",
+		"hasKanji": false
+	},
+	{
+		"key": 542,
+		"word": "中指",
+		"kana": "なかゆび",
+		"explanation": "中指",
+		"hasKanji": true
+	},
+	{
+		"key": 543,
+		"word": "人差し指",
+		"kana": "ひとさしゆび",
+		"explanation": "食指",
+		"hasKanji": true
+	},
+	{
+		"key": 544,
+		"word": "親指",
+		"kana": "おやゆび",
+		"explanation": "大拇指",
+		"hasKanji": true
+	},
+	{
+		"key": 545,
+		"word": "小指",
+		"kana": "こゆび",
+		"explanation": "小指",
+		"hasKanji": true
+	},
+	{
+		"key": 546,
+		"word": "薬指",
+		"kana": "くすりゆび",
+		"explanation": "无名指",
+		"hasKanji": true
 	}
 ]
