@@ -320,5 +320,19 @@
 		"kana": "くすりゆび",
 		"explanation": "无名指",
 		"hasKanji": true
+	},
+	{
+		"key": 547,
+		"word": "ワイン",
+		"kana": "ワイン",
+		"explanation": "葡萄酒",
+		"hasKanji": false
+	},
+	{
+		"key": 548,
+		"word": "枝",
+		"kana": "えだ",
+		"explanation": "树枝",
+		"hasKanji": true
 	}
 ]
