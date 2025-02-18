@@ -334,5 +334,26 @@
 		"kana": "えだ",
 		"explanation": "树枝",
 		"hasKanji": true
+	},
+	{
+		"key": 549,
+		"word": "人魚",
+		"kana": "にんぎょ",
+		"explanation": "人鱼",
+		"hasKanji": true
+	},
+	{
+		"key": 550,
+		"word": "礼拝堂",
+		"kana": "れいはいどう",
+		"explanation": "礼堂",
+		"hasKanji": true
+	},
+	{
+		"key": 551,
+		"word": "囲碁",
+		"kana": "いご",
+		"explanation": "围棋",
+		"hasKanji": true
 	}
 ]
