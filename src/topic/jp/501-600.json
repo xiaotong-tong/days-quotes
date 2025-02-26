@@ -355,5 +355,40 @@
 		"kana": "いご",
 		"explanation": "围棋",
 		"hasKanji": true
+	},
+	{
+		"key": 552,
+		"word": "麻辣湯",
+		"kana": "マーラータン",
+		"explanation": "麻辣烫",
+		"hasKanji": true
+	},
+	{
+		"key": 553,
+		"word": "同僚",
+		"kana": "どうりょう",
+		"explanation": "同事",
+		"hasKanji": true
+	},
+	{
+		"key": 554,
+		"word": "ボタン",
+		"kana": "ボタン",
+		"explanation": "按钮",
+		"hasKanji": false
+	},
+	{
+		"key": 555,
+		"word": "掃除機",
+		"kana": "そうじき",
+		"explanation": "吸尘器",
+		"hasKanji": true
+	},
+	{
+		"key": 556,
+		"word": "ブラインド",
+		"kana": "ブラインド",
+		"explanation": "百叶窗",
+		"hasKanji": false
 	}
 ]
