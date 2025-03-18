@@ -390,5 +390,103 @@
 		"kana": "ブラインド",
 		"explanation": "百叶窗",
 		"hasKanji": false
+	},
+	{
+		"key": 557,
+		"word": "ガラス",
+		"kana": "ガラス",
+		"explanation": "玻璃",
+		"hasKanji": false
+	},
+	{
+		"key": 558,
+		"word": "シャンプー",
+		"kana": "シャンプー",
+		"explanation": "洗发水",
+		"hasKanji": false
+	},
+	{
+		"key": 559,
+		"word": "紅葉",
+		"kana": "もみじ",
+		"explanation": "枫叶",
+		"hasKanji": true
+	},
+	{
+		"key": 560,
+		"word": "タンポポ",
+		"kana": "タンポポ",
+		"explanation": "蒲公英",
+		"hasKanji": false
+	},
+	{
+		"key": 561,
+		"word": "ネオンサイン",
+		"kana": "ネオンサイン",
+		"explanation": "霓虹灯",
+		"hasKanji": false
+	},
+	{
+		"key": 562,
+		"word": "発条",
+		"kana": "ばね",
+		"explanation": "发条",
+		"hasKanji": true
+	},
+	{
+		"key": 563,
+		"word": "バネ",
+		"kana": "バネ",
+		"explanation": "弹簧",
+		"hasKanji": false
+	},
+	{
+		"key": 564,
+		"word": "弾性のないバネ",
+		"kana": "だんせいのないバネ",
+		"explanation": "失去弹性的弹簧",
+		"hasKanji": true
+	},
+	{
+		"key": 565,
+		"word": "錆",
+		"kana": "さび",
+		"explanation": "铁锈",
+		"hasKanji": true
+	},
+	{
+		"key": 566,
+		"word": "錆びた発条",
+		"kana": "さびたばね",
+		"explanation": "生锈的发条",
+		"hasKanji": true
+	},
+	{
+		"key": 567,
+		"word": "冷蔵庫",
+		"kana": "れいぞうこ",
+		"explanation": "冰箱",
+		"hasKanji": true
+	},
+	{
+		"key": 568,
+		"word": "磁石",
+		"kana": "じしゃく",
+		"explanation": "吸铁石",
+		"hasKanji": true
+	},
+	{
+		"key": 569,
+		"word": "鎧",
+		"kana": "よろい",
+		"explanation": "铠甲",
+		"hasKanji": true
+	},
+	{
+		"key": 570,
+		"word": "ネズミ",
+		"kana": "ネズミ",
+		"explanation": "老鼠",
+		"hasKanji": false
 	}
 ]
