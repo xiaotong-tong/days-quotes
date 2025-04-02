@@ -3,67 +3,78 @@
 		"key": 1,
 		"sentence": "旅に出て、初めて知ることがある。この景色が、かけがえのないものだということ。自分が見ていなくても、人も世界も変わっていくこと。何もない一日なんて、存在しないのだということ。",
 		"parse": "<ruby>旅<rp>(</rp><rt>たび</rt><rp>)</rp></ruby>に<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>て、<ruby>初<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めて<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>ることがある。この<ruby>景色<rp>(</rp><rt>けしき</rt><rp>)</rp></ruby>が、かけがえのないものだということ。<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>が<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>ていなくても、<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>も<ruby>世界<rp>(</rp><rt>せかい</rt><rp>)</rp></ruby>も<ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>わっていくこと。<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>もない<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>日<rp>(</rp><rt>にち</rt><rp>)</rp></ruby>なんて、<ruby>存在<rp>(</rp><rt>そんざい</rt><rp>)</rp></ruby>しないのだということ。",
-		"chinese": "有些事只有踏上旅途才会明白。眼前的风景是无可替代的。哪怕未曾亲眼目睹，人也好，世界也罢，都在改变。没有哪一天是一成不变的。"
+		"chinese": "有些事只有踏上旅途才会明白。眼前的风景是无可替代的。哪怕未曾亲眼目睹，人也好，世界也罢，都在改变。没有哪一天是一成不变的。",
+		"sound": "https://file.xtt.moe/local/quotes/q1.wav"
 	},
 	{
 		"key": 2,
 		"sentence": "困っている人がいたら助けなきゃ。泣いてる人がいたら笑顔にしなきゃ。",
 		"parse": "<ruby>困<rp>(</rp><rt>こま</rt><rp>)</rp></ruby>っている<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>がいたら<ruby>助<rp>(</rp><rt>たす</rt><rp>)</rp></ruby>けなきゃ。<ruby>泣<rp>(</rp><rt>な</rt><rp>)</rp></ruby>いてる<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>がいたら<ruby>笑顔<rp>(</rp><rt>えがお</rt><rp>)</rp></ruby>にしなきゃ。",
-		"chinese": "如果有人遇到困难，就要伸出援手。如果有人在哭泣，就要让他绽放笑容。"
+		"chinese": "如果有人遇到困难，就要伸出援手。如果有人在哭泣，就要让他绽放笑容。",
+		"sound": "https://file.xtt.moe/local/quotes/q2.wav"
 	},
 	{
 		"key": 3,
 		"sentence": "心の傷を癒す簡単な方法はない。ただこうも思う。心の傷はきっと必要なものだ。なぜなら、心に傷を負うことで他人の痛みに気付けるようになれるから。",
 		"parse": "<ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>の<ruby>傷<rp>(</rp><rt>きず</rt><rp>)</rp></ruby>を<ruby>癒<rp>(</rp><rt>いや</rt><rp>)</rp></ruby>す<ruby>簡単<rp>(</rp><rt>かんたん</rt><rp>)</rp></ruby>な<ruby>方法<rp>(</rp><rt>ほうほう</rt><rp>)</rp></ruby>はない。ただこうも<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う。<ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>の<ruby>傷<rp>(</rp><rt>きず</rt><rp>)</rp></ruby>はきっと<ruby>必要<rp>(</rp><rt>ひつよう</rt><rp>)</rp></ruby>なものだ。なぜなら、<ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>に<ruby>傷<rp>(</rp><rt>きず</rt><rp>)</rp></ruby>を<ruby>負<rp>(</rp><rt>お</rt><rp>)</rp></ruby>うことで<ruby>他人<rp>(</rp><rt>たにん</rt><rp>)</rp></ruby>の<ruby>痛<rp>(</rp><rt>いた</rt><rp>)</rp></ruby>みに<ruby>気付<rp>(</rp><rt>きづ</rt><rp>)</rp></ruby>けるようになれるから。",
-		"chinese": "没有能轻松治愈心灵创伤的方法。但我想，这种创伤的存在是必要的。为什么这样说呢，因为背负着这样的创伤，才能够察觉别人的痛楚。"
+		"chinese": "没有能轻松治愈心灵创伤的方法。但我想，这种创伤的存在是必要的。为什么这样说呢，因为背负着这样的创伤，才能够察觉别人的痛楚。",
+		"sound": "https://file.xtt.moe/local/quotes/q3.wav"
 	},
 	{
 		"key": 4,
 		"sentence": "自分が望む場所にいられるとは限らない。でも誰だって、その場所で頑張っている。誰かに認めてもらいたくて、誰かに必要とされたくて、誰かに愛されたくて。",
 		"parse": "<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>が<ruby>望<rp>(</rp><rt>のぞ</rt><rp>)</rp></ruby>む<ruby>場所<rp>(</rp><rt>ばしょ</rt><rp>)</rp></ruby>にいられるとは<ruby>限<rp>(</rp><rt>かぎ</rt><rp>)</rp></ruby>らない。でも<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>だって、その<ruby>場所<rp>(</rp><rt>ばしょ</rt><rp>)</rp></ruby>で<ruby>頑張<rp>(</rp><rt>がんば</rt><rp>)</rp></ruby>っている。<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>かに<ruby>認<rp>(</rp><rt>みと</rt><rp>)</rp></ruby>めてもらいたくて、<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>かに<ruby>必要<rp>(</rp><rt>ひつよう</rt><rp>)</rp></ruby>とされたくて、<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>かに<ruby>愛<rp>(</rp><rt>あい</rt><rp>)</rp></ruby>されたくて。",
-		"chinese": "并不是每个人都能待在自己向往的地方。但是每个人都在那个地方奋斗着。大家都想得到认可，希望成为某个人不可或缺的存在，想要得到某个人的爱。"
+		"chinese": "并不是每个人都能待在自己向往的地方。但是每个人都在那个地方奋斗着。大家都想得到认可，希望成为某个人不可或缺的存在，想要得到某个人的爱。",
+		"sound": "https://file.xtt.moe/local/quotes/q4.wav"
 	},
 	{
 		"key": 5,
-		"sentence": "私の最近お気に入りの果物はレンブです。",
-		"parse": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>の<ruby>最近<rp>(</rp><rt>さいきん</rt><rp>)</rp></ruby>お<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>に<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>りの<ruby>果物<rp>(</rp><rt>くだもの</rt><rp>)</rp></ruby>はレンブです。",
-		"chinese": "我最近最喜欢的水果是莲雾。"
+		"sentence": "好奇心というのは道草でもあるわけです。確かに時間の無駄ですが、必ず自分の糧になる。",
+		"parse": "<ruby>好奇心<rp>(</rp><rt>こうきしん</rt><rp>)</rp></ruby>というのは<ruby>道草<rp>(</rp><rt>みちくさ</rt><rp>)</rp></ruby>でもあるわけです。<ruby>確<rp>(</rp><rt>たし</rt><rp>)</rp></ruby>かに<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>の<ruby>無駄<rp>(</rp><rt>むだ</rt><rp>)</rp></ruby>ですが、<ruby>必<rp>(</rp><rt>かなら</rt><rp>)</rp></ruby>ず<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>の<ruby>糧<rp>(</rp><rt>かて</rt><rp>)</rp></ruby>になる。",
+		"chinese": "好奇心有时会分散人的注意力，这样确实会兆成时间上的浪费，但一定会丰富自己。",
+		"sound": "https://file.xtt.moe/local/quotes/q5.wav"
 	},
 	{
 		"key": 6,
-		"sentence": "大した事じゃないわ。",
-		"parse": "大した<ruby>事<rp>(</rp><rt>こと</rt><rp>)</rp></ruby>じゃないわ。",
-		"chinese": "这没什么大不了的。"
+		"sentence": "自分自身の絶対条件がクリア出来れば、その他の項目には目をつぶる。人間の欲望や要求にはきりがない。「三割満足で十分」でいけば、世の中腹の立つことも少なくなるだろうし、けっこう丸く収まると思う。",
+		"parse": "<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby><ruby>自身<rp>(</rp><rt>じしん</rt><rp>)</rp></ruby>の<ruby>絶対<rp>(</rp><rt>ぜったい</rt><rp>)</rp></ruby><ruby>条件<rp>(</rp><rt>じょうけん</rt><rp>)</rp></ruby>がクリア<ruby>出来<rp>(</rp><rt>でき</rt><rp>)</rp></ruby>れば、その<ruby>他<rp>(</rp><rt>ほか</rt><rp>)</rp></ruby>の<ruby>項目<rp>(</rp><rt>こうもく</rt><rp>)</rp></ruby>には<ruby>目<rp>(</rp><rt>め</rt><rp>)</rp></ruby>をつぶる。<ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>の<ruby>欲望<rp>(</rp><rt>よくぼう</rt><rp>)</rp></ruby>や<ruby>要求<rp>(</rp><rt>ようきゅう</rt><rp>)</rp></ruby>にはきりがない。「<ruby>三<rp>(</rp><rt>さん</rt><rp>)</rp></ruby><ruby>割<rp>(</rp><rt>わり</rt><rp>)</rp></ruby><ruby>満足<rp>(</rp><rt>まんぞく</rt><rp>)</rp></ruby>で<ruby>十分<rp>(</rp><rt>じゅうぶん</rt><rp>)</rp></ruby>」でいけば、<ruby>世<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby><ruby>腹<rp>(</rp><rt>はら</rt><rp>)</rp></ruby>の<ruby>立<rp>(</rp><rt>た</rt><rp>)</rp></ruby>つことも<ruby>少<rp>(</rp><rt>すく</rt><rp>)</rp></ruby>なくなるだろうし、けっこう<ruby>丸<rp>(</rp><rt>まる</rt><rp>)</rp></ruby>く<ruby>収<rp>(</rp><rt>おさ</rt><rp>)</rp></ruby>まると<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う。",
+		"chinese": "如果能够满足自身的绝对需求，那么其他需求都可以忽略。但是，人的欲望和需求是没有止境的。如果能够做到“获得三分就满足”的话，这世上也就没那么多让人生气的事了吧，很多事也都可以完美收场。",
+		"sound": "https://file.xtt.moe/local/quotes/q6.wav"
 	},
 	{
 		"key": 7,
-		"sentence": "どうしたの？緊張してるの？",
-		"parse": "どうしたの？<ruby>緊張<rp>(</rp><rt>きんちょう</rt><rp>)</rp></ruby>してるの？",
-		"chinese": "怎么了？你紧张了吗？"
+		"sentence": "人と交際する際には、あるがままの心で接することが大切である。",
+		"parse": "<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>と<ruby>交際<rp>(</rp><rt>こうさい</rt><rp>)</rp></ruby>する<ruby>際<rp>(</rp><rt>さい</rt><rp>)</rp></ruby>には、あるがままの<ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>で<ruby>接<rp>(</rp><rt>せっ</rt><rp>)</rp></ruby>することが<ruby>大切<rp>(</rp><rt>たいせつ</rt><rp>)</rp></ruby>である。",
+		"chinese": "与人交往时，最重要的是以真心相待。",
+		"sound": "https://file.xtt.moe/local/quotes/q7.wav"
 	},
 	{
 		"key": 8,
-		"sentence": "安心しました。ふ～～",
-		"parse": "<ruby>安心<rp>(</rp><rt>あんしん</rt><rp>)</rp></ruby>しました。ふ～～",
-		"chinese": "我放心了。呼～～"
+		"sentence": "すべての女性の心理は謎だ。分かろうとしてはいかない。",
+		"parse": "すべての<ruby>女性<rp>(</rp><rt>じょせい</rt><rp>)</rp></ruby>の<ruby>心理<rp>(</rp><rt>しんり</rt><rp>)</rp></ruby>は<ruby>謎<rp>(</rp><rt>なぞ</rt><rp>)</rp></ruby>だ。<ruby>分<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>かろうとしてはいかない。",
+		"chinese": "女人心海底针，别试图弄明白。",
+		"sound": "https://file.xtt.moe/local/quotes/q8.wav"
 	},
 	{
 		"key": 9,
-		"sentence": "まるでお人形さんみたい。",
-		"parse": "まるでお<ruby>人形<rp>(</rp><rt>にんぎょう</rt><rp>)</rp></ruby>さんみたい。",
-		"chinese": "(可爱得)简直就像洋娃娃一样！"
+		"sentence": "今の時代結婚にこだわる必要ないですよ。仕事バリバリして生きている女性だっていっぱいいるし、男いなくても幸せになれる。",
+		"parse": "<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>の<ruby>時代<rp>(</rp><rt>じだい</rt><rp>)</rp></ruby><ruby>結婚<rp>(</rp><rt>けっこん</rt><rp>)</rp></ruby>にこだわる<ruby>必要<rp>(</rp><rt>ひつよう</rt><rp>)</rp></ruby>ないですよ。<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>バリバリして<ruby>生<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きている<ruby>女性<rp>(</rp><rt>じょせい</rt><rp>)</rp></ruby>だっていっぱいいるし、<ruby>男<rp>(</rp><rt>おとこ</rt><rp>)</rp></ruby>いなくても<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せになれる。",
+		"chinese": "现在这个时代，没必要执着于结婚啊。在职场大放异彩的女性有很多，就算没有男人也能获得幸福。",
+		"sound": "https://file.xtt.moe/local/quotes/q9.wav"
 	},
 	{
 		"key": 10,
-		"sentence": "そんなに可笑しいですか",
-		"parse": "そんなに<ruby>可笑<rp>(</rp><rt>おか</rt><rp>)</rp></ruby>しいですか",
-		"chinese": "有那么好笑吗？"
+		"sentence": "欲望はだれでも生まれながらに持ってるから理解しやすいけど、やさしさは個人個人の手造りみたいなもんだから、誤解されたり偽善だと思われやすいんだよな。",
+		"parse": "<ruby>欲望<rp>(</rp><rt>よくぼう</rt><rp>)</rp></ruby>はだれでも<ruby>生<rp>(</rp><rt>う</rt><rp>)</rp></ruby>まれながらに<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>ってるから<ruby>理解<rp>(</rp><rt>りかい</rt><rp>)</rp></ruby>しやすいけど、やさしさは<ruby>個人<rp>(</rp><rt>こじん</rt><rp>)</rp></ruby><ruby>個人<rp>(</rp><rt>こじん</rt><rp>)</rp></ruby>の<ruby>手造<rp>(</rp><rt>てづく</rt><rp>)</rp></ruby>りみたいなもんだから、<ruby>誤解<rp>(</rp><rt>ごかい</rt><rp>)</rp></ruby>されたり<ruby>偽善<rp>(</rp><rt>ぎぜん</rt><rp>)</rp></ruby>だと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>われやすいんだよな。",
+		"chinese": "欲望是每个人与生俱来的，这一点很好理解。但良心却是后天各自养成的，所以很容易被误解，会被当成伪善。",
+		"sound": "https://file.xtt.moe/local/quotes/q10.wav"
 	},
 	{
 		"key": 11,
-		"sentence": "もったいないですね。",
-		"parse": "もったいないですね。",
-		"chinese": "真是浪费啊。"
+		"sentence": "僕は宿題をやるためだけに生まれてきたんじゃない！",
+		"parse": "<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>は<ruby>宿題<rp>(</rp><rt>しゅくだい</rt><rp>)</rp></ruby>をやるためだけに<ruby>生<rp>(</rp><rt>う</rt><rp>)</rp></ruby>まれてきたんじゃない！",
+		"chinese": "我又不是单纯为了写作业才出生的！",
+		"sound": "https://file.xtt.moe/local/quotes/q11.wav"
 	},
 	{
 		"key": 12,
