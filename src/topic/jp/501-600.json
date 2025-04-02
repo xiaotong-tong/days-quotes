@@ -488,5 +488,201 @@
 		"kana": "ネズミ",
 		"explanation": "老鼠",
 		"hasKanji": false
+	},
+	{
+		"key": 571,
+		"word": "点字ブロック",
+		"kana": "てんじブロック",
+		"explanation": "盲道",
+		"hasKanji": true
+	},
+	{
+		"key": 572,
+		"word": "誘導ブロック",
+		"kana": "ゆうどうブロック",
+		"explanation": "行进盲道",
+		"hasKanji": true
+	},
+	{
+		"key": 573,
+		"word": "警告ブロック",
+		"kana": "けいこくブロック",
+		"explanation": "提示盲道",
+		"hasKanji": true
+	},
+	{
+		"key": 574,
+		"word": "線状ブロック",
+		"kana": "せんじょうブロック",
+		"explanation": "行进盲道",
+		"hasKanji": true
+	},
+	{
+		"key": 575,
+		"word": "点状ブロック",
+		"kana": "てんじょうブロック",
+		"explanation": "提示盲道",
+		"hasKanji": true
+	},
+	{
+		"key": 576,
+		"word": "桃",
+		"kana": "もも",
+		"explanation": "桃子",
+		"hasKanji": true
+	},
+	{
+		"key": 577,
+		"word": "マンゴー",
+		"kana": "マンゴー",
+		"explanation": "芒果",
+		"hasKanji": false
+	},
+	{
+		"key": 578,
+		"word": "パイナップル",
+		"kana": "パイナップル",
+		"explanation": "菠萝",
+		"hasKanji": false
+	},
+	{
+		"key": 579,
+		"word": "バナナ",
+		"kana": "バナナ",
+		"explanation": "香蕉",
+		"hasKanji": false
+	},
+	{
+		"key": 580,
+		"word": "ポータブルモニター",
+		"kana": "ポータブルモニター",
+		"explanation": "便携显示器",
+		"hasKanji": false
+	},
+	{
+		"key": 581,
+		"word": "モニター",
+		"kana": "モニター",
+		"explanation": "显示器",
+		"hasKanji": false
+	},
+	{
+		"key": 582,
+		"word": "ライトノベル",
+		"kana": "ライトノベル",
+		"explanation": "轻小说",
+		"hasKanji": false
+	},
+	{
+		"key": 583,
+		"word": "バドミントン",
+		"kana": "バドミントン",
+		"explanation": "羽毛球",
+		"hasKanji": false
+	},
+	{
+		"key": 584,
+		"word": "バドミントンラケット",
+		"kana": "バドミントンラケット",
+		"explanation": "羽毛球拍",
+		"hasKanji": false
+	},
+	{
+		"key": 585,
+		"word": "シャトル",
+		"kana": "シャトル",
+		"explanation": "羽毛球(球体)",
+		"hasKanji": false
+	},
+	{
+		"key": 586,
+		"word": "ルーペ",
+		"kana": "ルーペ",
+		"explanation": "放大镜",
+		"hasKanji": false
+	},
+	{
+		"key": 587,
+		"word": "拡大鏡",
+		"kana": "かくだいきょう",
+		"explanation": "放大镜",
+		"hasKanji": true
+	},
+	{
+		"key": 588,
+		"word": "ゴミ箱",
+		"kana": "ゴミばこ",
+		"explanation": "垃圾桶",
+		"hasKanji": true
+	},
+	{
+		"key": 589,
+		"word": "マウス",
+		"kana": "マウス",
+		"explanation": "鼠标",
+		"hasKanji": false
+	},
+	{
+		"key": 590,
+		"word": "マイク",
+		"kana": "マイク",
+		"explanation": "麦克风",
+		"hasKanji": false
+	},
+	{
+		"key": 591,
+		"word": "鳩",
+		"kana": "はと",
+		"explanation": "鸽子",
+		"hasKanji": true
+	},
+	{
+		"key": 592,
+		"word": "モデム",
+		"kana": "モデム",
+		"explanation": "调制解调器",
+		"hasKanji": false
+	},
+	{
+		"key": 593,
+		"word": "ルーター",
+		"kana": "ルーター",
+		"explanation": "路由器",
+		"hasKanji": false
+	},
+	{
+		"key": 594,
+		"word": "横断歩道橋",
+		"kana": "おうだんほどうきょう",
+		"explanation": "天桥",
+		"hasKanji": true
+	},
+	{
+		"key": 595,
+		"word": "コーヒー",
+		"kana": "コーヒー",
+		"explanation": "咖啡",
+		"hasKanji": false
+	},
+	{
+		"key": 596,
+		"word": "土石流",
+		"kana": "どせきりゅう",
+		"explanation": "泥石流",
+		"hasKanji": true
+	},
+	{
+		"key": 597,
+		"word": "山津波",
+		"kana": "やまつなみ",
+		"explanation": "泥石流",
+		"hasKanji": true
+	},
+	{
+		"key": 598,
+		"word": "潮汐ロック",
+		"kana": "ちょうせきロック",
+		"explanation": "潮汐锁定",
+		"hasKanji": true
 	}
 ]
