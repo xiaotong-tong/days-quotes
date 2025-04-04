@@ -78,285 +78,332 @@
 	},
 	{
 		"key": 12,
-		"sentence": "任せてください",
-		"parse": "<ruby>任<rp>(</rp><rt>まか</rt><rp>)</rp></ruby>せてください",
-		"chinese": "请交给我办吧！"
+		"sentence": "好きかどうかというのは二人だけの問題です。決して誰かに証明しなければいけないものではないのです。",
+		"parse": "<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きかどうかというのは<ruby>二人<rp>(</rp><rt>ふたり</rt><rp>)</rp></ruby>だけの<ruby>問題<rp>(</rp><rt>もんだい</rt><rp>)</rp></ruby>です。<ruby>決<rp>(</rp><rt>けっ</rt><rp>)</rp></ruby>して<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>かに<ruby>証明<rp>(</rp><rt>しょうめい</rt><rp>)</rp></ruby>しなければいけないものではないのです。",
+		"chinese": "喜不喜欢是两个人的事，绝不需要向谁去证明。",
+		"sound": "https://file.xtt.moe/local/quotes/q12.wav"
 	},
 	{
 		"key": 13,
-		"sentence": "今日は本当にありがとうございました。",
-		"parse": "今日は<ruby>本当<rp>(</rp><rt>ほんとう</rt><rp>)</rp></ruby>にありがとうございました。",
-		"chinese": "今天真的非常感谢你。"
+		"sentence": "人生に答えなんか、ないんだって。生きてる限り、いろんなことがあるけど、答えは出ないし、人は最後のページを読むことはできないんだと思う。最後のページを読むのは子供たちなんだ。",
+		"parse": "<ruby>人生<rp>(</rp><rt>じんせい</rt><rp>)</rp></ruby>に<ruby>答<rp>(</rp><rt>こた</rt><rp>)</rp></ruby>えなんか、ないんだって。<ruby>生<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きてる<ruby>限<rp>(</rp><rt>かぎ</rt><rp>)</rp></ruby>り、いろんなことがあるけど、<ruby>答<rp>(</rp><rt>こた</rt><rp>)</rp></ruby>えは<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>ないし、<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>は<ruby>最後<rp>(</rp><rt>さいご</rt><rp>)</rp></ruby>のページを<ruby>読<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>むことはできないんだと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う。<ruby>最後<rp>(</rp><rt>さいご</rt><rp>)</rp></ruby>のページを<ruby>読<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>むのは<ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>たちなんだ。",
+		"chinese": "人生其实没有答案。虽然人在活着的时候会经历很多事情，但不会得到答案，因为人无法读到自己的最后一页。能读到最后一页的只有孩子们。",
+		"sound": "https://file.xtt.moe/local/quotes/q13.wav"
 	},
 	{
 		"key": 14,
-		"sentence": "すごくショックでした",
-		"parse": "すごくショックでした",
-		"chinese": "令我很震惊!"
+		"sentence": "七夕の短冊、子供のころは素直に願いを書いた。けれど、大人になると書かなくなる。なぜだろう？どんなに願ったところで、叶わない事があると知ってしまったからだろうか。",
+		"parse": "<ruby>七夕<rp>(</rp><rt>たなばた</rt><rp>)</rp></ruby>の<ruby>短冊<rp>(</rp><rt>たんざく</rt><rp>)</rp></ruby>、<ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>のころは<ruby>素直<rp>(</rp><rt>すなお</rt><rp>)</rp></ruby>に<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いを<ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いた。けれど、<ruby>大人<rp>(</rp><rt>おとな</rt><rp>)</rp></ruby>になると<ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>かなくなる。なぜだろう？どんなに<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>ったところで、<ruby>叶<rp>(</rp><rt>かな</rt><rp>)</rp></ruby>わない<ruby>事<rp>(</rp><rt>こと</rt><rp>)</rp></ruby>があると<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>ってしまったからだろうか。",
+		"chinese": "小时候，会在气息的诗笺上坦率地写下愿望。但是，长大后却不写了。为什么会这样？大概是因为知道了有些愿望无论如何都无法实现吧。",
+		"sound": "https://file.xtt.moe/local/quotes/q14.wav"
 	},
 	{
 		"key": 15,
-		"sentence": "あら、新しい携帯ですか。",
-		"parse": "あら、<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しい<ruby>携帯<rp>(</rp><rt>けいたい</rt><rp>)</rp></ruby>ですか。",
-		"chinese": "哎呀，是新的手机吗？"
+		"sentence": "プレゼントは気持ちを贈るものだから。",
+		"parse": "プレゼントは<ruby>気持<rp>(</rp><rt>きも</rt><rp>)</rp></ruby>ちを<ruby>贈<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>るものだから。",
+		"chinese": "礼物送的是情谊。",
+		"sound": "https://file.xtt.moe/local/quotes/q15.wav"
 	},
 	{
 		"key": 16,
-		"sentence": "気にしないで、いつもの病気だから。",
-		"parse": "<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>にしないで、いつもの<ruby>病気<rp>(</rp><rt>びょうき</rt><rp>)</rp></ruby>だから。",
-		"chinese": "别在意，老毛病了。"
+		"sentence": "時々思うことだってある。事の成否なんて考えず、ただ物事に打ち込めることができたら、それはどんなに純粋なことなんだろうって。",
+		"parse": "<ruby>時々<rp>(</rp><rt>ときどき</rt><rp>)</rp></ruby><ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>うことだってある。<ruby>事<rp>(</rp><rt>こと</rt><rp>)</rp></ruby>の<ruby>成否<rp>(</rp><rt>せいひ</rt><rp>)</rp></ruby>なんて<ruby>考<rp>(</rp><rt>かんが</rt><rp>)</rp></ruby>えず、ただ<ruby>物事<rp>(</rp><rt>ものごと</rt><rp>)</rp></ruby>に<ruby>打<rp>(</rp><rt>う</rt><rp>)</rp></ruby>ち<ruby>込<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>めることができたら、それはどんなに<ruby>純粋<rp>(</rp><rt>じゅんすい</rt><rp>)</rp></ruby>なことなんだろうって。",
+		"chinese": "有时也会想，如果能不去考虑结果的成败，只专注与过程，那会是多么纯粹的事啊。",
+		"sound": "https://file.xtt.moe/local/quotes/q16.wav"
 	},
 	{
 		"key": 17,
-		"sentence": "かまいませんよ。",
-		"parse": "かまいませんよ。",
-		"chinese": "没有关系哦。"
+		"sentence": "なんでも度を超すのはよくないんだよ。幸せもほどほどがいいんだよ。",
+		"parse": "なんでも<ruby>度<rp>(</rp><rt>ど</rt><rp>)</rp></ruby>を<ruby>超<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>すのはよくないんだよ。<ruby>幸せ<rp>(</rp><rt>しあわせ</rt><rp>)</rp></ruby>もほどほどがいいんだよ。",
+		"chinese": "什么过分了都不好，幸福也是一样，差不多就行了。",
+		"sound": "https://file.xtt.moe/local/quotes/q17.wav"
 	},
 	{
 		"key": 18,
-		"sentence": "頑張ってやればできるんですよ。",
-		"parse": "<ruby>頑張<rp>(</rp><rt>がんば</rt><rp>)</rp></ruby>ってやればできるんですよ。",
-		"chinese": "加油的话肯定能成功的。"
+		"sentence": "思った通りにならなかった楽しさというのもあるものさ。",
+		"parse": "<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>った<ruby>通<rp>(</rp><rt>とお</rt><rp>)</rp></ruby>りにならなかった<ruby>楽<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しさというのもあるものさ。",
+		"chinese": "有些快乐并不如意。",
+		"sound": "https://file.xtt.moe/local/quotes/q18.wav"
 	},
 	{
 		"key": 19,
-		"sentence": "はい、絶対勝ちます！",
-		"parse": "はい、<ruby>絶対<rp>(</rp><rt>ぜったい</rt><rp>)</rp></ruby><ruby>勝<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ちます！",
-		"chinese": "好的，一定会赢的！"
+		"sentence": "うちのおじいちゃんは、長年生きてきたけど、いまだに人生がわからないって。",
+		"parse": "うちのおじいちゃんは、<ruby>長年<rp>(</rp><rt>ながねん</rt><rp>)</rp></ruby><ruby>生<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きてきたけど、いまだに<ruby>人生<rp>(</rp><rt>じんせい</rt><rp>)</rp></ruby>がわからないって。",
+		"chinese": "我爷爷，活到现在都一把岁数了，还说不知道什么是人生。",
+		"sound": "https://file.xtt.moe/local/quotes/q19.wav"
 	},
 	{
 		"key": 20,
-		"sentence": "俺と。。付き合わないか。",
-		"parse": "俺と。。<ruby>付<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>き<ruby>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>わないか。",
-		"chinese": "能和我交往吗？"
+		"sentence": "みんな笑ってみな。おっかないのは逃げちゃうから。",
+		"parse": "みんな<ruby>笑<rp>(</rp><rt>わら</rt><rp>)</rp></ruby>ってみな。おっかないのは<ruby>逃<rp>(</rp><rt>に</rt><rp>)</rp></ruby>げちゃうから。",
+		"chinese": "让我们大声笑起来，这样，可怕的东西就会逃走了。",
+		"sound": "https://file.xtt.moe/local/quotes/q20.wav"
 	},
 	{
 		"key": 21,
-		"sentence": "じゃあ、留守番よろしくね。",
-		"parse": "じゃあ、<ruby>留守<rp>(</rp><rt>るす</rt><rp>)</rp></ruby><ruby>番<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby>よろしくね。",
-		"chinese": "那么，拜托你在家看家了。"
+		"sentence": "さよならを言うのがこんなにもつらい相手を持っているなんて、僕はなんて幸せなんだろう。",
+		"parse": "さよならを<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>うのがこんなにもつらい<ruby>相手<rp>(</rp><rt>あいて</rt><rp>)</rp></ruby>を<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>っているなんて、<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>はなんて<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せなんだろう。",
+		"chinese": "有一个舍不得说“再见”的朋友，我真是太幸福了。",
+		"sound": "https://file.xtt.moe/local/quotes/q21.wav"
 	},
 	{
 		"key": 22,
-		"sentence": "もう少し休んでから、帰りなさい。",
-		"parse": "もう<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>し<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>んでから、<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>りなさい。",
-		"chinese": "稍微再休息一会再回去吧。"
+		"sentence": "そりゃあ、誰だって褒められたらうれしいし、悪口を言われると腹が立つさ。",
+		"parse": "そりゃあ、<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>だって<ruby>褒<rp>(</rp><rt>ほ</rt><rp>)</rp></ruby>められたらうれしいし、<ruby>悪口<rp>(</rp><rt>わるぐち</rt><rp>)</rp></ruby>を<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>われると<ruby>腹<rp>(</rp><rt>はら</rt><rp>)</rp></ruby>が<ruby>立<rp>(</rp><rt>た</rt><rp>)</rp></ruby>つさ。",
+		"chinese": "无论是谁，受到表扬就会开心，被人恶语相向就会生气啊。",
+		"sound": "https://file.xtt.moe/local/quotes/q22.wav"
 	},
 	{
 		"key": 23,
-		"sentence": "いや、今日は諦めます。",
-		"parse": "いや、今日は<ruby>諦<rp>(</rp><rt>あきら</rt><rp>)</rp></ruby>めます。",
-		"chinese": "不，今天就放弃了。"
+		"sentence": "ぼくは、あの星の中の一つに住むんだ。その一つの星の中で笑うんだ。だから、君が夜、空を眺めたら、星がみんな笑ってるように見えるだろう。",
+		"parse": "ぼくは、あの<ruby>星<rp>(</rp><rt>ほし</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>の<ruby>一<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>つに<ruby>住<rp>(</rp><rt>す</rt><rp>)</rp></ruby>むんだ。その<ruby>一<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>つの<ruby>星<rp>(</rp><rt>ほし</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>で<ruby>笑<rp>(</rp><rt>わら</rt><rp>)</rp></ruby>うんだ。だから、<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>が<ruby>夜<rp>(</rp><rt>よる</rt><rp>)</rp></ruby>、<ruby>空<rp>(</rp><rt>そら</rt><rp>)</rp></ruby>を<ruby>眺<rp>(</rp><rt>なが</rt><rp>)</rp></ruby>めたら、<ruby>星<rp>(</rp><rt>ほし</rt><rp>)</rp></ruby>がみんな<ruby>笑<rp>(</rp><rt>わら</rt><rp>)</rp></ruby>ってるように<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>えるだろう。",
+		"chinese": "我就住在其中的一颗星星上，我会在那颗行星上笑着，那么每当你仰望星空时，就好像所有的星星都在微笑一样，对吧。",
+		"sound": "https://file.xtt.moe/local/quotes/q23.wav"
 	},
 	{
 		"key": 24,
-		"sentence": "あなたダイエットでもしてるんじゃない？",
-		"parse": "あなたダイエットでもしてるんじゃない？",
-		"chinese": "你是不是在减肥啊？"
+		"sentence": "夢も大事ですけど、足元の小さな幸せを守ることも、大事だと思うんです。",
+		"parse": "<ruby>夢<rp>(</rp><rt>ゆめ</rt><rp>)</rp></ruby>も<ruby>大事<rp>(</rp><rt>だいじ</rt><rp>)</rp></ruby>ですけど、<ruby>足元<rp>(</rp><rt>あしもと</rt><rp>)</rp></ruby>の<ruby>小<rp>(</rp><rt>ちい</rt><rp>)</rp></ruby>さな<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せを<ruby>守<rp>(</rp><rt>まも</rt><rp>)</rp></ruby>ることも、<ruby>大事<rp>(</rp><rt>だいじ</rt><rp>)</rp></ruby>だと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>うんです。",
+		"chinese": "梦想固然重要，但守护好身边的小小幸福，对我而言也非常重要。",
+		"sound": "https://file.xtt.moe/local/quotes/q24.wav"
 	},
 	{
 		"key": 25,
-		"sentence": "お前には関係ない。",
-		"parse": "お<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>には<ruby>関係<rp>(</rp><rt>かんけい</rt><rp>)</rp></ruby>ない。",
-		"chinese": "跟你没有关系。"
+		"sentence": "仮病は、この世で一番重い病気だよ。",
+		"parse": "<ruby>仮病<rp>(</rp><rt>けびょう</rt><rp>)</rp></ruby>は、この<ruby>世<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>で<ruby>一番<rp>(</rp><rt>いちばん</rt><rp>)</rp></ruby><ruby>重<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>い<ruby>病気<rp>(</rp><rt>びょうき</rt><rp>)</rp></ruby>だよ。",
+		"chinese": "装病，是这世界上最严重的病。",
+		"sound": "https://file.xtt.moe/local/quotes/q25.wav"
 	},
 	{
 		"key": 26,
-		"sentence": "じゃあ、きっと幸せになれるわ。",
-		"parse": "じゃあ、きっと<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せになれるわ。",
-		"chinese": "那一定会过得幸福的。"
+		"sentence": "心がバリスタなら、たとえウサギだってコーヒーを入れられるんだ。",
+		"parse": "<ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>がバリスタなら、たとえウサギだってコーヒーを<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れられるんだ。",
+		"chinese": "只要我有一颗咖啡师的心，就算变成兔子也能泡出咖啡。",
+		"sound": "https://file.xtt.moe/local/quotes/q26.wav"
 	},
 	{
 		"key": 27,
-		"sentence": "勝手に決めないで！",
-		"parse": "<ruby>勝手<rp>(</rp><rt>かって</rt><rp>)</rp></ruby>に<ruby>決<rp>(</rp><rt>き</rt><rp>)</rp></ruby>めないで！",
-		"chinese": "不要随便替我决定！"
+		"sentence": "「大人になりたい」と願うのは子供の専売特許。",
+		"parse": "「<ruby>大人<rp>(</rp><rt>おとな</rt><rp>)</rp></ruby>になりたい」と<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>うのは<ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>の<ruby>専売<rp>(</rp><rt>せんばい</rt><rp>)</rp></ruby><ruby>特許<rp>(</rp><rt>とっきょ</rt><rp>)</rp></ruby>。",
+		"chinese": "许愿“想快快长大”是孩子的专属特权。",
+		"sound": "https://file.xtt.moe/local/quotes/q27.wav"
 	},
 	{
 		"key": 28,
-		"sentence": "だめよ、きちんと食べないと。",
-		"parse": "だめよ、きちんと<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べないと。",
-		"chinese": "不好好吃饭的话是不行的哦。"
+		"sentence": "おとぎ話は嘘じゃなくて、心のギフト。",
+		"parse": "<ruby>おとぎ話<rp>(</rp><rt>おとぎばなし</rt><rp>)</rp></ruby>は<ruby>嘘<rp>(</rp><rt>うそ</rt><rp>)</rp></ruby>じゃなくて、<ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>のギフト。",
+		"chinese": "童话故事不是谎言，而是给心灵的礼物。",
+		"sound": "https://file.xtt.moe/local/quotes/q28.wav"
 	},
 	{
 		"key": 29,
-		"sentence": "うわさをすれば。",
-		"parse": "うわさをすれば。",
-		"chinese": "说曹操，曹操就到。"
+		"sentence": "不思議、あなたの顔ってとても温かい。",
+		"parse": "<ruby>不思議<rp>(</rp><rt>ふしぎ</rt><rp>)</rp></ruby>、あなたの<ruby>顔<rp>(</rp><rt>かお</rt><rp>)</rp></ruby>ってとても<ruby>温<rp>(</rp><rt>あたた</rt><rp>)</rp></ruby>かい。",
+		"chinese": "真不可思议，你的脸好温暖。",
+		"sound": "https://file.xtt.moe/local/quotes/q29.wav"
 	},
 	{
 		"key": 30,
-		"sentence": "饅頭返せ！こら！",
-		"parse": "<ruby>饅頭<rp>(</rp><rt>まんじゅう</rt><rp>)</rp></ruby><ruby>返<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>せ！こら！",
-		"chinese": "馒头还来！还我馒头!喂！"
+		"sentence": "作りたいものを作るだけだ。別に褒められたいわけじゃない。",
+		"parse": "<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>りたいものを<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>るだけだ。<ruby>別<rp>(</rp><rt>べつ</rt><rp>)</rp></ruby>に<ruby>褒<rp>(</rp><rt>ほ</rt><rp>)</rp></ruby>められたいわけじゃない。",
+		"chinese": "我只是在做自己喜欢的东西，并不是想要得到称赞。",
+		"sound": "https://file.xtt.moe/local/quotes/q30.wav"
 	},
 	{
 		"key": 31,
-		"sentence": "っていうかお代わり！",
-		"parse": "っていうかお<ruby>代<rp>(</rp><rt>か</rt><rp>)</rp></ruby>わり！",
-		"chinese": "话说，再来一碗！"
+		"sentence": "どんなに勉強ができなくても、どんなに喧嘩が弱くても、どこかに君の宝石があるはずだよ。その宝石を磨いて魂をピカピカに磨いてみせてよ。",
+		"parse": "どんなに<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>ができなくても、どんなに<ruby>喧嘩<rp>(</rp><rt>けんか</rt><rp>)</rp></ruby>が<ruby>弱<rp>(</rp><rt>よわ</rt><rp>)</rp></ruby>くても、どこかに<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>の<ruby>宝石<rp>(</rp><rt>ほうせき</rt><rp>)</rp></ruby>があるはずだよ。その<ruby>宝石<rp>(</rp><rt>ほうせき</rt><rp>)</rp></ruby>を<ruby>磨<rp>(</rp><rt>みが</rt><rp>)</rp></ruby>いて<ruby>魂<rp>(</rp><rt>たましい</rt><rp>)</rp></ruby>をピカピカに<ruby>磨<rp>(</rp><rt>みが</rt><rp>)</rp></ruby>いてみせてよ。",
+		"chinese": "不管学习有多差，不管多不擅长吵架斗殴，你一定有自己的宝石。打磨它，把灵魂打磨成闪闪发光的样子给他们看。",
+		"sound": "https://file.xtt.moe/local/quotes/q31.wav"
 	},
 	{
 		"key": 32,
-		"sentence": "ご飯をおごって！",
-		"parse": "ご<ruby>飯<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>をおごって！",
-		"chinese": "请我吃饭！"
+		"sentence": "もっと華奢な美少年に生まれたかった．．．！",
+		"parse": "もっと<ruby>華奢<rp>(</rp><rt>きゃしゃ</rt><rp>)</rp></ruby>な<ruby>美少年<rp>(</rp><rt>びしょうねん</rt><rp>)</rp></ruby>に<ruby>生<rp>(</rp><rt>う</rt><rp>)</rp></ruby>まれたかった．．．！",
+		"chinese": "好像变成柔弱的美少年．．．！",
+		"sound": "https://file.xtt.moe/local/quotes/q32.wav"
 	},
 	{
 		"key": 33,
-		"sentence": "楽しいもんか！",
-		"parse": "<ruby>楽<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しいもんか！",
-		"chinese": "哪里有趣啊！"
+		"sentence": "そんなに形に拘らないの、大切なのは心よ。",
+		"parse": "そんなに<ruby>形<rp>(</rp><rt>かたち</rt><rp>)</rp></ruby>に<ruby>拘<rp>(</rp><rt>こだわ</rt><rp>)</rp></ruby>らないの、<ruby>大切<rp>(</rp><rt>たいせつ</rt><rp>)</rp></ruby>なのは<ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>よ。",
+		"chinese": "不要拘泥于外表，心灵才是最重要的。",
+		"sound": "https://file.xtt.moe/local/quotes/q33.wav"
 	},
 	{
 		"key": 34,
-		"sentence": "ちょっと地味かな、、、",
-		"parse": "ちょっと<ruby>地味<rp>(</rp><rt>じみ</rt><rp>)</rp></ruby>かな、、、",
-		"chinese": "是不是太素了点？"
+		"sentence": "俺はしなくてもいい苦労はしない主義なんだ。人生なんておもしろおかしく過ごしたほうが勝ちなんだよ。",
+		"parse": "<ruby>俺<rp>(</rp><rt>おれ</rt><rp>)</rp></ruby>はしなくてもいい<ruby>苦労<rp>(</rp><rt>くろう</rt><rp>)</rp></ruby>はしない<ruby>主義<rp>(</rp><rt>しゅぎ</rt><rp>)</rp></ruby>なんだ。<ruby>人生<rp>(</rp><rt>じんせい</rt><rp>)</rp></ruby>なんておもしろおかしく<ruby>過<rp>(</rp><rt>す</rt><rp>)</rp></ruby>ごしたほうが<ruby>勝<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ちなんだよ。",
+		"chinese": "我的信条是能不做就不做，有趣地度过人生才是胜利。",
+		"sound": "https://file.xtt.moe/local/quotes/q34.wav"
 	},
 	{
 		"key": 35,
-		"sentence": "今度は何を企んでいる？",
-		"parse": "<ruby>今度<rp>(</rp><rt>こんど</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>を<ruby>企<rp>(</rp><rt>たくら</rt><rp>)</rp></ruby>んでいる？",
-		"chinese": "这次又在打什么主意？"
+		"sentence": "いつか海へ出ろよ！お前の悩みなど、いかに小せェことかよくわかる！",
+		"parse": "いつか<ruby>海<rp>(</rp><rt>うみ</rt><rp>)</rp></ruby>へ<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>ろよ！お<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>の<ruby>悩<rp>(</rp><rt>なや</rt><rp>)</rp></ruby>みなど、いかに<ruby>小<rp>(</rp><rt>ちい</rt><rp>)</rp></ruby>せェことかよくわかる！",
+		"chinese": "你一定要出海去！到时候你就知道了，你所谓的烦恼，也就那么小一点儿！",
+		"sound": "https://file.xtt.moe/local/quotes/q35.wav"
 	},
 	{
 		"key": 36,
-		"sentence": "付き合ってる人はいるの？",
-		"parse": "<ruby>付<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>き<ruby>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>ってる<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>はいるの？",
-		"chinese": "有交往的人吗？"
+		"sentence": "子供が遊び時は、時の経つのも忘れて、目の前のことに、無心になっておりまする。生きるとは本当はそういうことにござりましょう。嬉しい時も、楽しい時も、また辛い時や苦しい時さえも、子供が遊びみたいに、夢中になっていきたい。",
+		"parse": "<ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>が<ruby>遊<rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>び<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>は、<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>の<ruby>経<rp>(</rp><rt>た</rt><rp>)</rp></ruby>つのも<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れて、<ruby>目<rp>(</rp><rt>め</rt><rp>)</rp></ruby>の<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>のことに、<ruby>無心<rp>(</rp><rt>むしん</rt><rp>)</rp></ruby>になっておりまする。<ruby>生<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きるとは<ruby>本当<rp>(</rp><rt>ほんとう</rt><rp>)</rp></ruby>はそういうことにござりましょう。<ruby>嬉<rp>(</rp><rt>うれ</rt><rp>)</rp></ruby>しい<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>も、<ruby>楽<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しい<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>も、また<ruby>辛<rp>(</rp><rt>つら</rt><rp>)</rp></ruby>い<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>や<ruby>苦<rp>(</rp><rt>くる</rt><rp>)</rp></ruby>しい<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>さえも、<ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>が<ruby>遊<rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>びみたいに、<ruby>夢中<rp>(</rp><rt>むちゅう</rt><rp>)</rp></ruby>になっていきたい。",
+		"chinese": "孩童在嬉戏时，会忘却时光的流逝，天真烂漫地看待眼前的一切。我们也因如此对待人生。无论是高兴之时、欣喜之时、甚至是痛苦难耐之时，也该如孩童嬉戏一般忘我地生存下去。",
+		"sound": "https://file.xtt.moe/local/quotes/q36.wav"
 	},
 	{
 		"key": 37,
-		"sentence": "目の下にくまができているぞ。",
-		"parse": "<ruby>目<rp>(</rp><rt>め</rt><rp>)</rp></ruby>の<ruby>下<rp>(</rp><rt>した</rt><rp>)</rp></ruby>にくまができているぞ。",
-		"chinese": "眼睛下面有黑眼圈了哦。"
+		"sentence": "優しいものは好きです。温かいものも好きです。だから人が好きです。",
+		"parse": "<ruby>優<rp>(</rp><rt>やさ</rt><rp>)</rp></ruby>しいものは<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きです。<ruby>温<rp>(</rp><rt>あたた</rt><rp>)</rp></ruby>かいものも<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きです。だから<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>が<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きです。",
+		"chinese": "我喜欢美好的东西，也喜欢温暖的东西，所以我喜欢人类。",
+		"sound": "https://file.xtt.moe/local/quotes/q37.wav"
 	},
 	{
 		"key": 38,
-		"sentence": "だって、僕も弱い人間だから。",
-		"parse": "だって、<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>も<ruby>弱<rp>(</rp><rt>よわ</rt><rp>)</rp></ruby>い<ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>だから。",
-		"chinese": "因为我也是弱小的人类。"
+		"sentence": "出会いの結末には必ず別れがあるということだ。",
+		"parse": "<ruby>出会<rp>(</rp><rt>であ</rt><rp>)</rp></ruby>いの<ruby>結末<rp>(</rp><rt>けつまつ</rt><rp>)</rp></ruby>には<ruby>必<rp>(</rp><rt>かなら</rt><rp>)</rp></ruby>ず<ruby>別<rp>(</rp><rt>わか</rt><rp>)</rp></ruby>れがあるということだ。",
+		"chinese": "相遇必以分离结束。",
+		"sound": "https://file.xtt.moe/local/quotes/q38.wav"
 	},
 	{
 		"key": 39,
 		"sentence": "青春っていうのは一本道じゃないんだ。二つに分かれたり、脇道も近道も行き止まりもある。でも、どの道を行っても、それが君の青春なんだ。",
 		"parse": "<ruby>青春<rp>(</rp><rt>せいしゅん</rt><rp>)</rp></ruby>っていうのは<ruby>一本道<rp>(</rp><rt>いっぼんみち</rt><rp>)</rp></ruby>じゃないんだ。<ruby>二<rp>(</rp><rt>ふた</rt><rp>)</rp></ruby>つに<ruby>分<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>かれたり、<ruby>脇道<rp>(</rp><rt>わきみち</rt><rp>)</rp></ruby>も<ruby>近道<rp>(</rp><rt>ちかみち</rt><rp>)</rp></ruby>も<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>き<ruby>止<rp>(</rp><rt>ど</rt><rp>)</rp></ruby>まりもある。でも、どの<ruby>道<rp>(</rp><rt>みち</rt><rp>)</rp></ruby>を<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>っても、それが<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>の<ruby>青春<rp>(</rp><rt>せいしゅん</rt><rp>)</rp></ruby>なんだ。",
-		"chinese": "青春，并不是一条直路啊。会有分岔路，也会有小路和近路，还会有走不通的死路。但无论走哪一条，那都是你的青春。"
+		"chinese": "青春，并不是一条直路啊。会有分岔路，也会有小路和近路，还会有走不通的死路。但无论走哪一条，那都是你的青春。",
+		"sound": "https://file.xtt.moe/local/quotes/q39.wav"
 	},
 	{
 		"key": 40,
 		"sentence": "江戸の夜道は暗くて、助け合わねば、とても歩いてはいけない。誰もが誰かを支え、誰かに支えられながら生きている。少なくとも、俺はきっと、一人では何もできない。",
 		"parse": "<ruby>江戸<rp>(</rp><rt>えど</rt><rp>)</rp></ruby>の<ruby>夜道<rp>(</rp><rt>よみち</rt><rp>)</rp></ruby>は<ruby>暗<rp>(</rp><rt>くら</rt><rp>)</rp></ruby>くて、<ruby>助<rp>(</rp><rt>たす</rt><rp>)</rp></ruby>け<ruby>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>わねば、とても<ruby>歩<rp>(</rp><rt>ある</rt><rp>)</rp></ruby>いてはいけない。<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>もが<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>かを<ruby>支<rp>(</rp><rt>ささ</rt><rp>)</rp></ruby>え<ruby>、誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>かに<ruby>支<rp>(</rp><rt>ささ</rt><rp>)</rp></ruby>えられながら<ruby>生<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きている。<ruby>少<rp>(</rp><rt>すく</rt><rp>)</rp></ruby>なくとも、<ruby>俺<rp>(</rp><rt>おれ</rt><rp>)</rp></ruby>はきっと、<ruby>一人<rp>(</rp><rt>ひとり</rt><rp>)</rp></ruby>では<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>もできない。",
-		"chinese": "江户的夜路很暗，如果不互相扶持，根本无法走下去。每个人都在帮助别人或在接受别人的帮助中生存。至少我是这样的，孤身一人的话我一定什么都做不了。"
+		"chinese": "江户的夜路很暗，如果不互相扶持，根本无法走下去。每个人都在帮助别人或在接受别人的帮助中生存。至少我是这样的，孤身一人的话我一定什么都做不了。",
+		"sound": "https://file.xtt.moe/local/quotes/q40.wav"
 	},
 	{
 		"key": 41,
 		"sentence": "まあ、過去のない人間なんておらんわな。",
 		"parse": "まあ、<ruby>過去<rp>(</rp><rt>かこ</rt><rp>)</rp></ruby>のない<ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>なんておらんわな。",
-		"chinese": "嘛，谁还没有过去啊。"
+		"chinese": "嘛，谁还没有过去啊。",
+		"sound": "https://file.xtt.moe/local/quotes/q41.wav"
 	},
 	{
 		"key": 42,
 		"sentence": "悲しみを胸に抱いたまま生きていくのは、決して悲しいことではない。そのひとがいないという寂しさを感じる瞬間は、そのひとのいない寂しさすら忘れてしまった瞬間よりも、本当は幸せなのかもしれない。",
 		"parse": "<ruby>悲<rp>(</rp><rt>かな</rt><rp>)</rp></ruby>しみを<ruby>胸<rp>(</rp><rt>むね</rt><rp>)</rp></ruby>に<ruby>抱<rp>(</rp><rt>いだ</rt><rp>)</rp></ruby>いたまま<ruby>生<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きていくのは、<ruby>決<rp>(</rp><rt>けっ</rt><rp>)</rp></ruby>して<ruby>悲<rp>(</rp><rt>かな</rt><rp>)</rp></ruby>しいことではない。そのひとがいないという<ruby>寂<rp>(</rp><rt>さび</rt><rp>)</rp></ruby>しさを<ruby>感<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>じる<ruby>瞬間<rp>(</rp><rt>しゅんかん</rt><rp>)</rp></ruby>は、そのひとのいない<ruby>寂<rp>(</rp><rt>さび</rt><rp>)</rp></ruby>しさすら<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れてしまった<ruby>瞬間<rp>(</rp><rt>しゅんかん</rt><rp>)</rp></ruby>よりも、<ruby>本当<rp>(</rp><rt>ほんとう</rt><rp>)</rp></ruby>は<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せなのかもしれない。",
-		"chinese": "心怀悲伤地活着，绝不是一件悲伤的事。比起忘记那个人已经不在的孤独感，可能一直记得会更加幸福吧。"
+		"chinese": "心怀悲伤地活着，绝不是一件悲伤的事。比起忘记那个人已经不在的孤独感，可能一直记得会更加幸福吧。",
+		"sound": "https://file.xtt.moe/local/quotes/q42.wav"
 	},
 	{
 		"key": 43,
 		"sentence": "ねえ、怖いのとか苦しいのとか、二人で分け合えばきっと大丈夫だから。",
 		"parse": "ねえ、<ruby>怖<rp>(</rp><rt>こわ</rt><rp>)</rp></ruby>いのとか<ruby>苦<rp>(</rp><rt>くる</rt><rp>)</rp></ruby>しいのとか、<ruby>二<rp>(</rp><rt>ふた</rt><rp>)</rp></ruby>りで<ruby>分<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>け<ruby>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>えばきっと<ruby>大丈夫<rp>(</rp><rt>だいじょうぶ</rt><rp>)</rp></ruby>だから。",
-		"chinese": "我说，那些可拍的，痛苦的事情，如果两个人一起分担的话，一定会过去的。"
+		"chinese": "我说，那些可拍的，痛苦的事情，如果两个人一起分担的话，一定会过去的。",
+		"sound": "https://file.xtt.moe/local/quotes/q43.wav"
 	},
 	{
 		"key": 44,
 		"sentence": "友達になるには、どうしたらいいんですか。",
 		"parse": "<ruby>友達<rp>(</rp><rt>ともだち</rt><rp>)</rp></ruby>になるには、どうしたらいいんですか。",
-		"chinese": "怎样才能和别人成为朋友呢？"
+		"chinese": "怎样才能和别人成为朋友呢？",
+		"sound": "https://file.xtt.moe/local/quotes/q44.wav"
 	},
 	{
 		"key": 45,
 		"sentence": "闇の中で暗くなっていたら、自分自身がどこにいるかわからなくなるだろう。だから、闇の中にいる時こそ、気合で明るくするんだよ。そしたら、周りも見えてくるんだよ。",
 		"parse": "<ruby>闇<rp>(</rp><rt>やみ</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>で<ruby>暗<rp>(</rp><rt>くら</rt><rp>)</rp></ruby>くなっていたら、<ruby>自分自身<rp>(</rp><rt>じぶんじしん</rt><rp>)</rp></ruby>がどこにいるかわからなくなるだろう。だから、<ruby>闇<rp>(</rp><rt>やみ</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>にいる<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>こそ、<ruby>気合<rp>(</rp><rt>きあ</rt><rp>)</rp></ruby>いで<ruby>明<rp>(</rp><rt>あか</rt><rp>)</rp></ruby>るくするんだよ。そしたら、<ruby>周<rp>(</rp><rt>まわ</rt><rp>)</rp></ruby>りも<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>えてくるんだよ。",
-		"chinese": "在墨色渐浓的黑暗中，人很容易迷失方向吧。所以，越是身处黑暗越要充满干劲，保持开朗。这样，周围的一切也会逐渐变得清晰起来。"
+		"chinese": "在墨色渐浓的黑暗中，人很容易迷失方向吧。所以，越是身处黑暗越要充满干劲，保持开朗。这样，周围的一切也会逐渐变得清晰起来。",
+		"sound": "https://file.xtt.moe/local/quotes/q45.wav"
 	},
 	{
 		"key": 46,
 		"sentence": "「勇気」って言葉は、身を奮い立たせる正義の言葉。人を殺す理由なんかに使っちゃだめですよ。",
 		"parse": "「<ruby>勇気<rp>(</rp><rt>ゆうき</rt><rp>)</rp></ruby>」って<ruby>言葉<rp>(</rp><rt>ことば</rt><rp>)</rp></ruby>は、<ruby>身<rp>(</rp><rt>み</rt><rp>)</rp></ruby>を<ruby>奮<rp>(</rp><rt>ふる</rt><rp>)</rp></ruby>い<ruby>立<rp>(</rp><rt>た</rt><rp>)</rp></ruby>たせる<ruby>正義<rp>(</rp><rt>せいぎ</rt><rp>)</rp></ruby>の<ruby>言葉<rp>(</rp><rt>ことば</rt><rp>)</rp></ruby>。<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>を<ruby>殺<rp>(</rp><rt>ころ</rt><rp>)</rp></ruby>す<ruby>理由<rp>(</rp><rt>りゆう</rt><rp>)</rp></ruby>なんかに<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>っちゃだめですよ。",
-		"chinese": "“勇气”一词，是用来形容挺身而出的争议之词，可不能用来当做什么杀人的理由。"
+		"chinese": "“勇气”一词，是用来形容挺身而出的争议之词，可不能用来当做什么杀人的理由。",
+		"sound": "https://file.xtt.moe/local/quotes/q46.wav"
 	},
 	{
 		"key": 47,
 		"sentence": "弱音を吐くのはいい。吐きたければいくらでも吐け、俺が聞いてやる。だが、諦めるようなことだけは言うな！",
 		"parse": "<ruby>弱音<rp>(</rp><rt>よわね</rt><rp>)</rp></ruby>を<ruby>吐<rp>(</rp><rt>は</rt><rp>)</rp></ruby>くのはいい。<ruby>吐<rp>(</rp><rt>は</rt><rp>)</rp></ruby>きたければいくらでも<ruby>吐<rp>(</rp><rt>は</rt><rp>)</rp></ruby>け、<ruby>俺<rp>(</rp><rt>おれ</rt><rp>)</rp></ruby>が<ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>いてやる。だが、<ruby>諦<rp>(</rp><rt>あきら</rt><rp>)</rp></ruby>めるようなことだけは<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>うな！",
-		"chinese": "说泄气话也没关系，无论想说多少我都会听。但是，绝不可以说放弃！"
+		"chinese": "说泄气话也没关系，无论想说多少我都会听。但是，绝不可以说放弃！",
+		"sound": "https://file.xtt.moe/local/quotes/q47.wav"
 	},
 	{
 		"key": 48,
 		"sentence": "あの絵は私にとって特別なんです。あの絵は私に忘れていた色を見せてくれました。灰色だった私の世界に一瞬光が差したんです。",
 		"parse": "あの<ruby>絵<rp>(</rp><rt>え</rt><rp>)</rp></ruby>は<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>にとって<ruby>特別<rp>(</rp><rt>とくべつ</rt><rp>)</rp></ruby>なんです。あの<ruby>絵<rp>(</rp><rt>え</rt><rp>)</rp></ruby>は<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>に<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れていた<ruby>色<rp>(</rp><rt>いろ</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>せてくれました。<ruby>灰色<rp>(</rp><rt>はいいろ</rt><rp>)</rp></ruby>だった<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>の<ruby>世界<rp>(</rp><rt>せかい</rt><rp>)</rp></ruby>に<ruby>一瞬<rp>(</rp><rt>いっしゅん</rt><rp>)</rp></ruby><ruby>光<rp>(</rp><rt>ひかり</rt><rp>)</rp></ruby>が<ruby>差<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>したんです。",
-		"chinese": "那幅画对我来说是特别的。它使我看到了遗忘的色彩，给我曾经灰暗的世界投下了一缕光芒。"
+		"chinese": "那幅画对我来说是特别的。它使我看到了遗忘的色彩，给我曾经灰暗的世界投下了一缕光芒。",
+		"sound": "https://file.xtt.moe/local/quotes/q48.wav"
 	},
 	{
 		"key": 49,
 		"sentence": "何があっても、生まれてきたこの時代を憎まないで！人に褒められなくたって構わない！いつでも笑っていられる強さを忘れないで。生き抜けば必ず楽しいことが、たくさん起こるから！",
 		"parse": "<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>があっても、<ruby>生<rp>(</rp><rt>う</rt><rp>)</rp></ruby>まれてきたこの<ruby>時代<rp>(</rp><rt>じだい</rt><rp>)</rp></ruby>を<ruby>憎<rp>(</rp><rt>にく</rt><rp>)</rp></ruby>まないで！<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>に<ruby>褒<rp>(</rp><rt>ほ</rt><rp>)</rp></ruby>められなくたって<ruby>構<rp>(</rp><rt>かま</rt><rp>)</rp></ruby>わない！いつでも<ruby>笑<rp>(</rp><rt>わら</rt><rp>)</rp></ruby>っていられる<ruby>強<rp>(</rp><rt>つよ</rt><rp>)</rp></ruby>さを<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れないで。<ruby>生<rp>(</rp><rt>い</rt><rp>)</rp></ruby>き<ruby>抜<rp>(</rp><rt>ぬ</rt><rp>)</rp></ruby>けば<ruby>必<rp>(</rp><rt>かなら</rt><rp>)</rp></ruby>ず<ruby>楽<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しいことが、たくさん<ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>こるから！",
-		"chinese": "不管发生什么，都不要憎恨你所生活的这个时代！就算没有人褒奖又何妨！任何时候都不要忘记笑容的强大力量。活下去，就一定会有很多值得高兴的事情发生。"
+		"chinese": "不管发生什么，都不要憎恨你所生活的这个时代！就算没有人褒奖又何妨！任何时候都不要忘记笑容的强大力量。活下去，就一定会有很多值得高兴的事情发生。",
+		"sound": "https://file.xtt.moe/local/quotes/q49.wav"
 	},
 	{
 		"key": 50,
 		"sentence": "幸せだから笑うんじゃないよ。笑うから幸せになるんじゃ。",
 		"parse": "<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せだから<ruby>笑<rp>(</rp><rt>わら</rt><rp>)</rp></ruby>うんじゃないよ。<ruby>笑<rp>(</rp><rt>わら</rt><rp>)</rp></ruby>うから<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せになるんじゃ。",
-		"chinese": "可不是因为幸福才笑的哦。是因为笑才能得到幸福。"
+		"chinese": "可不是因为幸福才笑的哦。是因为笑才能得到幸福。",
+		"sound": "https://file.xtt.moe/local/quotes/q50.wav"
 	},
 	{
 		"key": 51,
 		"sentence": "方言は言葉につけたアクセサリー。外したければ外せばいいけど、捨てちゃダメよ。それにはあなたがそこで育ったという大切なメッセージが刻み込まれているんだから。",
 		"parse": "<ruby>方言<rp>(</rp><rt>ほうげん</rt><rp>)</rp></ruby>は<ruby>言葉<rp>(</rp><rt>ことば</rt><rp>)</rp></ruby>につけたアクセサリー。<ruby>外<rp>(</rp><rt>はず</rt><rp>)</rp></ruby>したければ<ruby>外<rp>(</rp><rt>はず</rt><rp>)</rp></ruby>せばいいけど、<ruby>捨<rp>(</rp><rt>す</rt><rp>)</rp></ruby>てちゃダメよ。それにはあなたがそこで<ruby>育<rp>(</rp><rt>そだ</rt><rp>)</rp></ruby>ったという<ruby>大切<rp>(</rp><rt>たいせつ</rt><rp>)</rp></ruby>なメッセージが<ruby>刻<rp>(</rp><rt>きざ</rt><rp>)</rp></ruby>み<ruby>込<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>まれているんだから。",
-		"chinese": "方言是点缀在语言上的饰品，如果想取下的话可以取下来，但不要丢掉它，因为其中刻入了你曾在那里生长的重要信息。"
+		"chinese": "方言是点缀在语言上的饰品，如果想取下的话可以取下来，但不要丢掉它，因为其中刻入了你曾在那里生长的重要信息。",
+		"sound": "https://file.xtt.moe/local/quotes/q51.wav"
 	},
 	{
 		"key": 52,
 		"sentence": "全知全能など存在しない。なぜなら、人は一人一人その存在が奇跡だからだ。すべての人は、誰かの愛し、誰かに愛され、この世界は未来へ歩んでいる。オレは今ここにいる人間の力を信じる。",
 		"parse": "<ruby>全知全能<rp>(</rp><rt>ぜんちぜんのう</rt><rp>)</rp></ruby>など<ruby>存在<rp>(</rp><rt>そんざい</rt><rp>)</rp></ruby>しない。なぜなら、<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>は<ruby>一人一人<rp>(</rp><rt>ひとりひとり</rt><rp>)</rp></ruby>その<ruby>存在<rp>(</rp><rt>そんざい</rt><rp>)</rp></ruby>が<ruby>奇跡<rp>(</rp><rt>きせき</rt><rp>)</rp></ruby>だからだ。すべての<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>は、<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>かの<ruby>愛<rp>(</rp><rt>あい</rt><rp>)</rp></ruby>し、<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>かに<ruby>愛<rp>(</rp><rt>あい</rt><rp>)</rp></ruby>され、この<ruby>世界<rp>(</rp><rt>せかい</rt><rp>)</rp></ruby>は<ruby>未来<rp>(</rp><rt>みらい</rt><rp>)</rp></ruby>へ<ruby>歩<rp>(</rp><rt>あゆ</rt><rp>)</rp></ruby>んでいる。オレは<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>ここにいる<ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>の<ruby>力<rp>(</rp><rt>ちから</rt><rp>)</rp></ruby>を<ruby>信<rp>(</rp><rt>しん</rt><rp>)</rp></ruby>じる。",
-		"chinese": "没有什么万能的存在，因为每个人的存在都是奇迹。所有人都会爱人，并且为人所爱。这个世界在不断发展，我相信这里所有人的力量。"
+		"chinese": "没有什么万能的存在，因为每个人的存在都是奇迹。所有人都会爱人，并且为人所爱。这个世界在不断发展，我相信这里所有人的力量。",
+		"sound": "https://file.xtt.moe/local/quotes/q52.wav"
 	},
 	{
 		"key": 53,
 		"sentence": "誰か見ててくれたとか、好きって言ってくれたとか、そういうのって、思い出すたびに宝物みたいに自分を支えてくれるから。しんどい時、地味に効く薬。",
 		"parse": "<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>か<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>ててくれたとか、<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きって<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ってくれたとか、そういうのって、<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>い<ruby>出<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>すたびに<ruby>宝物<rp>(</rp><rt>たからもの</rt><rp>)</rp></ruby>みたいに<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>を<ruby>支<rp>(</rp><rt>ささ</rt><rp>)</rp></ruby>えてくれるから。しんどい<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>、<ruby>地味<rp>(</rp><rt>じみ</rt><rp>)</rp></ruby>に<ruby>効<rp>(</rp><rt>き</rt><rp>)</rp></ruby>く<ruby>薬<rp>(</rp><rt>くすり</rt><rp>)</rp></ruby>。",
-		"chinese": "被人关注，被人告白，这些记忆每次回想起来，都像珍宝一样支撑着我。所以在疲惫的时候，它们就是非常管用的良药。"
+		"chinese": "被人关注，被人告白，这些记忆每次回想起来，都像珍宝一样支撑着我。所以在疲惫的时候，它们就是非常管用的良药。",
+		"sound": "https://file.xtt.moe/local/quotes/q53.wav"
 	},
 	{
 		"key": 54,
 		"sentence": "傷付くかもしれない。でも、痛い思いも含めて、恋愛なんじゃないかな。",
 		"parse": "<ruby>傷付く<rp>(</rp><rt>きずつく</rt><rp>)</rp></ruby>かもしれない。でも、<ruby>痛<rp>(</rp><rt>いた</rt><rp>)</rp></ruby>い<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>いも<ruby>含<rp>(</rp><rt>ふく</rt><rp>)</rp></ruby>めて、<ruby>恋愛<rp>(</rp><rt>れんあい</rt><rp>)</rp></ruby>なんじゃないかな。",
-		"chinese": "也许会受伤，但即使是痛苦的记忆，也是爱情的一部分吧。"
+		"chinese": "也许会受伤，但即使是痛苦的记忆，也是爱情的一部分吧。",
+		"sound": "https://file.xtt.moe/local/quotes/q54.wav"
 	},
 	{
 		"key": 55,
 		"sentence": "失った物ばかり数えるな！ないものはない！確認せい、お前にまだ残っておるものは何じゃ！",
 		"parse": "<ruby>失<rp>(</rp><rt>うしな</rt><rp>)</rp></ruby>った<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>ばかり<ruby>数<rp>(</rp><rt>かぞ</rt><rp>)</rp></ruby>えるな！ないものはない！<ruby>確認<rp>(</rp><rt>かくにん</rt><rp>)</rp></ruby>せい、お<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>にまだ<ruby>残<rp>(</rp><rt>のこ</rt><rp>)</rp></ruby>っておるものは<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>じゃ！",
-		"chinese": "不要总是计较失去了什么！失去了的东西就是失去了！好好算一算，你还拥有些什么！"
+		"chinese": "不要总是计较失去了什么！失去了的东西就是失去了！好好算一算，你还拥有些什么！",
+		"sound": "https://file.xtt.moe/local/quotes/q55.wav"
 	},
 	{
 		"key": 56,
 		"sentence": "未来は一瞬一瞬変わっていく。だから先のことを悩むより、今を一生懸命生きればきっといいことあるさ。",
 		"parse": "<ruby>未来<rp>(</rp><rt>みらい</rt><rp>)</rp></ruby>は<ruby>一瞬<rp>(</rp><rt>いっしゅん</rt><rp>)</rp></ruby><ruby>一瞬<rp>(</rp><rt>いっしゅん</rt><rp>)</rp></ruby><ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>わっていく。だから<ruby>先<rp>(</rp><rt>さき</rt><rp>)</rp></ruby>のことを<ruby>悩<rp>(</rp><rt>なや</rt><rp>)</rp></ruby>むより、<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>を<ruby>一生懸命<rp>(</rp><rt>いっしょうけんめい</rt><rp>)</rp></ruby><ruby>生<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きればきっといいことあるさ。",
-		"chinese": "未来瞬息万变。所以，与其为前途担忧，不如努力过好现在，这样一定会有好事发生的。"
+		"chinese": "未来瞬息万变。所以，与其为前途担忧，不如努力过好现在，这样一定会有好事发生的。",
+		"sound": "https://file.xtt.moe/local/quotes/q56.wav"
 	},
 	{
 		"key": 57,
 		"sentence": "笑ってください。笑うのが、皆さんのいいところです。",
 		"parse": "<ruby>笑<rp>(</rp><rt>わら</rt><rp>)</rp></ruby>ってください。<ruby>笑<rp>(</rp><rt>わら</rt><rp>)</rp></ruby>うのが、<ruby>皆<rp>(</rp><rt>みな</rt><rp>)</rp></ruby>さんのいいところです。",
-		"chinese": "请笑一笑。笑，是人人皆备的优点。"
+		"chinese": "请笑一笑。笑，是人人皆备的优点。",
+		"sound": "https://file.xtt.moe/local/quotes/q57.wav"
 	},
 	{
 		"key": 58,
 		"sentence": "カレーは辛い。辛いから美味い。人生もまた同じ。",
 		"parse": "カレーは<ruby>辛<rp>(</rp><rt>から</rt><rp>)</rp></ruby>い。<ruby>辛<rp>(</rp><rt>から</rt><rp>)</rp></ruby>いから<ruby>美味<rp>(</rp><rt>うま</rt><rp>)</rp></ruby>い。<ruby>人生<rp>(</rp><rt>じんせい</rt><rp>)</rp></ruby>もまた<ruby>同<rp>(</rp><rt>おな</rt><rp>)</rp></ruby>じ。",
-		"chinese": "咖喱是辣的，因为辣所以好吃。人生何尝不是如此。"
+		"chinese": "咖喱是辣的，因为辣所以好吃。人生何尝不是如此。",
+		"sound": "https://file.xtt.moe/local/quotes/q58.wav"
 	},
 	{
 		"key": 59,
