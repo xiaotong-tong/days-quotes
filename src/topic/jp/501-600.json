@@ -684,5 +684,12 @@
 		"kana": "ちょうせきロック",
 		"explanation": "潮汐锁定",
 		"hasKanji": true
+	},
+	{
+		"key": 599,
+		"word": "星屑",
+		"kana": "ほしくず",
+		"explanation": "群星",
+		"hasKanji": true
 	}
 ]
