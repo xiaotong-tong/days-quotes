@@ -495,5 +495,12 @@
 		"parse": "<ruby>物事<rp>(</rp><rt>ものごと</rt><rp>)</rp></ruby>、<ruby>小事<rp>(</rp><rt>しょうじ</rt><rp>)</rp></ruby>より<ruby>大事<rp>(</rp><rt>だいじ</rt><rp>)</rp></ruby>は<ruby>発<rp>(</rp><rt>はっ</rt><rp>)</rp></ruby>するものなり。<ruby>油断<rp>(</rp><rt>ゆだん</rt><rp>)</rp></ruby>すべからず。",
 		"chinese": "任何大事的发生都始于小事，不可疏忽大意。",
 		"sound": "https://file.xtt.moe/local/quotes/q171.wav"
+	},
+	{
+		"key": 172,
+		"sentence": "誰かと長く一緒にいること、一緒にいてくれることが「当たり前」になることはありません。いつまでも大切に、特別にしないといけませんよ。",
+		"parse": "<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>かと<ruby>長<rp>(</rp><rt>なが</rt><rp>)</rp></ruby>く<ruby>一緒<rp>(</rp><rt>いっしょ</rt><rp>)</rp></ruby>にいること、<ruby>一緒<rp>(</rp><rt>いっしょ</rt><rp>)</rp></ruby>にいてくれることが「<ruby>当<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>たり<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>」になることはありません。いつまでも<ruby>大切<rp>(</rp><rt>たいせつ</rt><rp>)</rp></ruby>に、<ruby>特別<rp>(</rp><rt>とくべつ</rt><rp>)</rp></ruby>にしないといけませんよ。",
+		"chinese": "和谁长久地在一起，有谁陪伴在身边，这些都不应该变成“理所当然”，要永远珍惜和重视他人的陪伴。",
+		"sound": "https://file.xtt.moe/local/quotes/q172.wav"
 	}
 ]
