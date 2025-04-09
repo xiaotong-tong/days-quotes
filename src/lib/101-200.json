@@ -502,5 +502,117 @@
 		"parse": "<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>かと<ruby>長<rp>(</rp><rt>なが</rt><rp>)</rp></ruby>く<ruby>一緒<rp>(</rp><rt>いっしょ</rt><rp>)</rp></ruby>にいること、<ruby>一緒<rp>(</rp><rt>いっしょ</rt><rp>)</rp></ruby>にいてくれることが「<ruby>当<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>たり<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>」になることはありません。いつまでも<ruby>大切<rp>(</rp><rt>たいせつ</rt><rp>)</rp></ruby>に、<ruby>特別<rp>(</rp><rt>とくべつ</rt><rp>)</rp></ruby>にしないといけませんよ。",
 		"chinese": "和谁长久地在一起，有谁陪伴在身边，这些都不应该变成“理所当然”，要永远珍惜和重视他人的陪伴。",
 		"sound": "https://file.xtt.moe/local/quotes/q172.wav"
+	},
+	{
+		"key": 173,
+		"sentence": "自分を必要としている人が、この世界にいる。そう思えれば、怖いものはない。",
+		"parse": "<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>を<ruby>必要<rp>(</rp><rt>ひつよう</rt><rp>)</rp></ruby>としている<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>が、この<ruby>世界<rp>(</rp><rt>せかい</rt><rp>)</rp></ruby>にいる。そう<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>えれば、<ruby>怖<rp>(</rp><rt>こわ</rt><rp>)</rp></ruby>いものはない。",
+		"chinese": "这世上有人需要我，这么想着，就没什么可怕的了。",
+		"sound": "https://file.xtt.moe/local/quotes/q173.wav"
+	},
+	{
+		"key": 174,
+		"sentence": "君が笑えば、世界は君とともに笑う。君が泣けば、君は一人きりで泣くのだ。",
+		"parse": "<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>が<ruby>笑<rp>(</rp><rt>わら</rt><rp>)</rp></ruby>えば、<ruby>世界<rp>(</rp><rt>せかい</rt><rp>)</rp></ruby>は<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>とともに<ruby>笑<rp>(</rp><rt>わら</rt><rp>)</rp></ruby>う。<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>が<ruby>泣<rp>(</rp><rt>な</rt><rp>)</rp></ruby>けば、<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>は<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>にん</rt><rp>)</rp></ruby>きりで<ruby>泣<rp>(</rp><rt>な</rt><rp>)</rp></ruby>くのだ。",
+		"chinese": "你欢笑，这世界陪你一起欢笑；你哭泣，却只能独自黯然神伤。",
+		"sound": "https://file.xtt.moe/local/quotes/q174.wav"
+	},
+	{
+		"key": 175,
+		"sentence": "僕も君もとても若くて、恐れなんて知らなくて、すべてが永遠だと思っていた。",
+		"parse": "<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>も<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>もとても<ruby>若<rp>(</rp><rt>わか</rt><rp>)</rp></ruby>くて、<ruby>恐<rp>(</rp><rt>おそ</rt><rp>)</rp></ruby>れなんて<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>らなくて、すべてが<ruby>永遠<rp>(</rp><rt>えいえん</rt><rp>)</rp></ruby>だと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>っていた。",
+		"chinese": "那时的你我都太年轻，还不知什么是害怕，以为一切都会永恒不变。",
+		"sound": "https://file.xtt.moe/local/quotes/q175.wav"
+	},
+	{
+		"key": 176,
+		"sentence": "すぐ目の前にあっても、手に入れることにできないものがある。どんなに手を伸ばしても、決して触れることができないものがある。例え手に入れることができなかったとしても、求め続けた先に、光はあるんだろうか...",
+		"parse": "すぐ<ruby>目<rp>(</rp><rt>め</rt><rp>)</rp></ruby>の<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>にあっても、<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby>に<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れることにできないものがある。どんなに<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby>を<ruby>伸<rp>(</rp><rt>の</rt><rp>)</rp></ruby>ばしても、<ruby>決<rp>(</rp><rt>けっ</rt><rp>)</rp></ruby>して<ruby>触<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>れることができないものがある。<ruby>例<rp>(</rp><rt>たと</rt><rp>)</rp></ruby>え<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby>に<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れることができなかったとしても、<ruby>求<rp>(</rp><rt>もと</rt><rp>)</rp></ruby>め<ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>けた<ruby>先<rp>(</rp><rt>さき</rt><rp>)</rp></ruby>に、<ruby>光<rp>(</rp><rt>ひかり</rt><rp>)</rp></ruby>はあるんだろうか...",
+		"chinese": "有些东西即使就在眼前，终究还是无法拥有；有些东西再怎么伸长手臂，终究还是无法触及。但就算无法拥有，在不懈追求的尽头，依然有光芒存在吧……",
+		"sound": "https://file.xtt.moe/local/quotes/q176.wav"
+	},
+	{
+		"key": 177,
+		"sentence": "明るい夜空を失ってしまったら、闇ばかりの夜にたった一人、放り込まれてしまったら...あなたはそこで光を見つけることができるだろうか？その光をつかもうとするだろうか？それとも光なき世界に光を与えようとするだろうか？",
+		"parse": "<ruby>明<rp>(</rp><rt>あか</rt><rp>)</rp></ruby>るい<ruby>夜空<rp>(</rp><rt>よぞら</rt><rp>)</rp></ruby>を<ruby>失<rp>(</rp><rt>うしな</rt><rp>)</rp></ruby>ってしまったら、<ruby>闇<rp>(</rp><rt>やみ</rt><rp>)</rp></ruby>ばかりの<ruby>夜<rp>(</rp><rt>よる</rt><rp>)</rp></ruby>にたった<ruby>一人<rp>(</rp><rt>ひとり</rt><rp>)</rp></ruby>、<ruby>放<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>り<ruby>込<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>まれてしまったら...あなたはそこで<ruby>光<rp>(</rp><rt>ひかり</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>つけることができるだろうか？その<ruby>光<rp>(</rp><rt>ひかり</rt><rp>)</rp></ruby>をつかもうとするだろうか？それとも<ruby>光<rp>(</rp><rt>ひかり</rt><rp>)</rp></ruby>なき<ruby>世界<rp>(</rp><rt>せかい</rt><rp>)</rp></ruby>に<ruby>光<rp>(</rp><rt>ひかり</rt><rp>)</rp></ruby>を<ruby>与<rp>(</rp><rt>あた</rt><rp>)</rp></ruby>えようとするだろうか？",
+		"chinese": "如果失去了璀璨的夜空，如果把你投入黑暗笼罩下的夜……你能否在那里找到光明？你是否会努力寻找光明？还是说，你会给没有光的世界带去光明？",
+		"sound": "https://file.xtt.moe/local/quotes/q177.wav"
+	},
+	{
+		"key": 178,
+		"sentence": "病気は、どうして私を選んだのだろう。運命なんている言葉では、片づけられないよ。もうあの日に帰りたいなんて言いません。今の自分を認めて生きていきます。",
+		"parse": "<ruby>病気<rp>(</rp><rt>びょうき</rt><rp>)</rp></ruby>は、どうして<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>を<ruby>選<rp>(</rp><rt>えら</rt><rp>)</rp></ruby>んだのだろう。<ruby>運命<rp>(</rp><rt>うんめい</rt><rp>)</rp></ruby>なんている<ruby>言葉<rp>(</rp><rt>ことば</rt><rp>)</rp></ruby>では、<ruby>片<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>づけられないよ。もうあの<ruby>日<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>に<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>りたいなんて<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>いません。<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>の<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>を<ruby>認<rp>(</rp><rt>みと</rt><rp>)</rp></ruby>めて<ruby>生<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きていきます。",
+		"chinese": "病魔为什么选择了我？这不能简单地用“命运”这样的字眼来解释吧。我已经不再说什么想回到从前之类的话了，接受现在的自己，好好活下去。",
+		"sound": "https://file.xtt.moe/local/quotes/q178.wav"
+	},
+	{
+		"key": 179,
+		"sentence": "お前は偉いね、俺は寂しくても踏み出すのが怖くて、何とかしようなんて思わなかった...だからいっぱいいろんなものに気付けなかったのかもしれないな。",
+		"parse": "お<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>は<ruby>偉<rp>(</rp><rt>えら</rt><rp>)</rp></ruby>いね、<ruby>俺<rp>(</rp><rt>おれ</rt><rp>)</rp></ruby>は<ruby>寂<rp>(</rp><rt>さび</rt><rp>)</rp></ruby>しくても<ruby>踏<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>み<ruby>出<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>すのが<ruby>怖<rp>(</rp><rt>こわ</rt><rp>)</rp></ruby>くて、<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>とかしようなんて<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>わなかった...だからいっぱいいろんなものに<ruby>気付<rp>(</rp><rt>きつ</rt><rp>)</rp></ruby>けなかったのかもしれないな。",
+		"chinese": "你真了不起，我就算寂寞也很怕踏出第一步，更没想过要做些什么……因此我可能错过了很多东西。",
+		"sound": "https://file.xtt.moe/local/quotes/q179.wav"
+	},
+	{
+		"key": 180,
+		"sentence": "このずっと続く空の下、今どこにいますか。今日はだれと会い、どんな話をして、どこへ行きましたか。最後に私を思い出したのはいつですか。今、誰を愛していますか。",
+		"parse": "このずっと<ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>く<ruby>空<rp>(</rp><rt>そら</rt><rp>)</rp></ruby>の<ruby>下<rp>(</rp><rt>した</rt><rp>)</rp></ruby>、<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>どこにいますか。<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>はだれと<ruby>会<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>い、どんな<ruby>話<rp>(</rp><rt>はなし</rt><rp>)</rp></ruby>をして、どこへ<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きましたか。<ruby>最後<rp>(</rp><rt>さいご</rt><rp>)</rp></ruby>に<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>を<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>い<ruby>出<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>したのはいつですか。<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>、<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>を<ruby>愛<rp>(</rp><rt>あい</rt><rp>)</rp></ruby>していますか。",
+		"chinese": "在这广袤无垠的天空下，现在的你在哪里？今天遇见了谁，说了些什么，又去了哪些地方？最后一次想起我是什么时候？现在，你有爱着谁呢？",
+		"sound": "https://file.xtt.moe/local/quotes/q180.wav"
+	},
+	{
+		"key": 181,
+		"sentence": "小さな蝶の引き起こした嵐は、起こした蝶をも巻き込んで、時の波間に消えていくのではないだろうか？",
+		"parse": "<ruby>小<rp>(</rp><rt>ちい</rt><rp>)</rp></ruby>さな<ruby>蝶<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby>の<ruby>引<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>き<ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>こした<ruby>嵐<rp>(</rp><rt>あらし</rt><rp>)</rp></ruby>は、<ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>こした<ruby>蝶<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby>をも<ruby>巻<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>き<ruby>込<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>んで、<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>の<ruby>波間<rp>(</rp><rt>なみま</rt><rp>)</rp></ruby>に<ruby>消<rp>(</rp><rt>き</rt><rp>)</rp></ruby>えていくのではないだろうか？",
+		"chinese": "因蝴蝶振翅而引起的风暴，是否将蝴蝶自身也卷入其中，一起消逝在了时间的波澜里？",
+		"sound": "https://file.xtt.moe/local/quotes/q181.wav"
+	},
+	{
+		"key": 182,
+		"sentence": "別れは必ずやってくる、どんな時にも。だが俺たちは知っている。悲しい別れがあるように、旅立ちの別れが、未来への別れがあることを。そして俺たちは知っている、ただ一つ確かなのが別れが人を強くするということを。",
+		"parse": "<ruby>別<rp>(</rp><rt>わか</rt><rp>)</rp></ruby>れは<ruby>必<rp>(</rp><rt>かなら</rt><rp>)</rp></ruby>ずやってくる、どんな<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>にも。だが<ruby>俺<rp>(</rp><rt>おれ</rt><rp>)</rp></ruby>たちは<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>っている。<ruby>悲<rp>(</rp><rt>かな</rt><rp>)</rp></ruby>しい<ruby>別<rp>(</rp><rt>わか</rt><rp>)</rp></ruby>れがあるように、<ruby>旅立<rp>(</rp><rt>たびだ</rt><rp>)</rp></ruby>ちの<ruby>別<rp>(</rp><rt>わか</rt><rp>)</rp></ruby>れが、<ruby>未来<rp>(</rp><rt>みらい</rt><rp>)</rp></ruby>への<ruby>別<rp>(</rp><rt>わか</rt><rp>)</rp></ruby>れがあることを。そして<ruby>俺<rp>(</rp><rt>おれ</rt><rp>)</rp></ruby>たちは<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>っている、ただ<ruby>一<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>つ<ruby>確<rp>(</rp><rt>たし</rt><rp>)</rp></ruby>かなのが<ruby>別<rp>(</rp><rt>わか</rt><rp>)</rp></ruby>れが<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>を<ruby>強<rp>(</rp><rt>つよ</rt><rp>)</rp></ruby>くするということを。",
+		"chinese": "分别的时刻终将来到，或早或晚，但我们都知道它会来。就像有伤感的离别一样，还有远行的告别，以及与未来的作别。但有一样是肯定的，离别会使人变强。",
+		"sound": "https://file.xtt.moe/local/quotes/q182.wav"
+	},
+	{
+		"key": 183,
+		"sentence": "人は、人とかかわるから、孤独を感じるんだ。",
+		"parse": "<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>は、<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>とかかわるから、<ruby>孤独<rp>(</rp><rt>こどく</rt><rp>)</rp></ruby>を<ruby>感<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>じるんだ。",
+		"chinese": "人，因为要与人产生交集，所以会感到孤独。",
+		"sound": "https://file.xtt.moe/local/quotes/q183.wav"
+	},
+	{
+		"key": 184,
+		"sentence": "楽しかった後の悲しみは、悲しみの連続より悲しいんだよ。",
+		"parse": "<ruby>楽<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しかった<ruby>後<rp>(</rp><rt>あと</rt><rp>)</rp></ruby>の<ruby>悲<rp>(</rp><rt>かな</rt><rp>)</rp></ruby>しみは、<ruby>悲<rp>(</rp><rt>かな</rt><rp>)</rp></ruby>しみの<ruby>連続<rp>(</rp><rt>れんぞく</rt><rp>)</rp></ruby>より<ruby>悲<rp>(</rp><rt>かな</rt><rp>)</rp></ruby>しいんだよ。",
+		"chinese": "愉悦过后的悲伤，要比持续的悲伤更加痛苦。",
+		"sound": "https://file.xtt.moe/local/quotes/q184.wav"
+	},
+	{
+		"key": 185,
+		"sentence": "人生で最も悲しいことの一つは、人は覚えているということです。",
+		"parse": "<ruby>人生<rp>(</rp><rt>じんせい</rt><rp>)</rp></ruby>で<ruby>最<rp>(</rp><rt>もっと</rt><rp>)</rp></ruby>も<ruby>悲<rp>(</rp><rt>かな</rt><rp>)</rp></ruby>しいことの<ruby>一<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>つは、<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>は<ruby>覚<rp>(</rp><rt>おぼ</rt><rp>)</rp></ruby>えているということです。",
+		"chinese": "人生中最悲伤的事，就是那些我们记得的事。",
+		"sound": "https://file.xtt.moe/local/quotes/q185.wav"
+	},
+	{
+		"key": 186,
+		"sentence": "この人こそと思いあえる女性に会いたくて、今まで彷徨ってきましたが、いざそういう人に出会って、その方が自分には過ぎた女性だった時、障碍を乗り越えるだけの若さが、もう私にはない。末永くいつまでもと約束できる年じゃない。それからを期待できる年でもない。",
+		"parse": "この<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>こそと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>いあえる<ruby>女性<rp>(</rp><rt>じょせい</rt><rp>)</rp></ruby>に<ruby>会<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>いたくて、<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>まで<ruby>彷徨<rp>(</rp><rt>さまよ</rt><rp>)</rp></ruby>ってきましたが、いざそういう<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>に<ruby>出会<rp>(</rp><rt>であ</rt><rp>)</rp></ruby>って、その<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>が<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>には<ruby>過<rp>(</rp><rt>す</rt><rp>)</rp></ruby>ぎた<ruby>女性<rp>(</rp><rt>じょせい</rt><rp>)</rp></ruby>だった<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>、<ruby>障碍<rp>(</rp><rt>しょうがい</rt><rp>)</rp></ruby>を<ruby>乗<rp>(</rp><rt>の</rt><rp>)</rp></ruby>り<ruby>越<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>えるだけの<ruby>若<rp>(</rp><rt>わか</rt><rp>)</rp></ruby>さが、もう<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>にはない。<ruby>末永<rp>(</rp><rt>すえなが</rt><rp>)</rp></ruby>くいつまでもと<ruby>約束<rp>(</rp><rt>やくそく</rt><rp>)</rp></ruby>できる<ruby>年<rp>(</rp><rt>とし</rt><rp>)</rp></ruby>じゃない。それからを<ruby>期待<rp>(</rp><rt>きたい</rt><rp>)</rp></ruby>できる<ruby>年<rp>(</rp><rt>とし</rt><rp>)</rp></ruby>でもない。",
+		"chinese": "想要邂逅命中注定之人，所以徘徊至今，然而一旦与她相遇，却发现那是我高攀不上的人，而我却已没有了敢于排除阻碍的年轻气盛。已经不是能够相约到永远的年纪了，也不是还能让人抱有期待的年纪了。",
+		"sound": "https://file.xtt.moe/local/quotes/q186.wav"
+	},
+	{
+		"key": 187,
+		"sentence": "一人が寂しいと気づいた時、人はやさしくなれるの。",
+		"parse": "<ruby>一人<rp>(</rp><rt>ひとり</rt><rp>)</rp></ruby>が<ruby>寂<rp>(</rp><rt>さび</rt><rp>)</rp></ruby>しいと<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>づいた<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>、<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>はやさしくなれるの。",
+		"chinese": "在感到寂寞时，人就会变得温柔",
+		"sound": "https://file.xtt.moe/local/quotes/q187.wav"
+	},
+	{
+		"key": 188,
+		"sentence": "大人になることは近づいたり離れたりを繰り返して、お互いがあんまり傷つかずにすむ距離を見つけ出すってこと。",
+		"parse": "<ruby>大人<rp>(</rp><rt>おとな</rt><rp>)</rp></ruby>になることは<ruby>近<rp>(</rp><rt>ちか</rt><rp>)</rp></ruby>づいたり<ruby>離<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>れたりを<ruby>繰<rp>(</rp><rt>く</rt><rp>)</rp></ruby>り<ruby>返<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>して、お<ruby>互<rp>(</rp><rt>たが</rt><rp>)</rp></ruby>いがあんまり<ruby>傷<rp>(</rp><rt>きず</rt><rp>)</rp></ruby>つかずにすむ<ruby>距離<rp>(</rp><rt>きょり</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>つけ<ruby>出<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>すってこと。",
+		"chinese": "所谓长大成人，就是不断地聚了散、散了又聚，为了让彼此不受伤害而保持一个适当的距离。",
+		"sound": "https://file.xtt.moe/local/quotes/q188.wav"
 	}
 ]
