@@ -1,0 +1,16 @@
+[
+	{
+		"key": 601,
+		"word": "満月",
+		"kana": "まんげつ",
+		"explanation": "满月",
+		"hasKanji": true
+	},
+	{
+		"key": 602,
+		"word": "カレンダー",
+		"kana": "カレンダー",
+		"explanation": "日历",
+		"hasKanji": false
+	}
+]

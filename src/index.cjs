@@ -18,13 +18,17 @@ const topicOf101To200WithCn = require("./topic/cn/101-200.json");
 const topicOf201To300WithCn = require("./topic/cn/201-300.json");
 const topicOf301To400WithCn = require("./topic/cn/301-400.json");
 const topicOf401To500WithCn = require("./topic/cn/401-500.json");
+const topicOf501To600WithCn = require("./topic/cn/501-600.json");
+const topicOf601To700WithCn = require("./topic/cn/601-700.json");
 
 const topicAllWithCn = [].concat(
 	topicOf1To100WithCn,
 	topicOf101To200WithCn,
 	topicOf201To300WithCn,
 	topicOf301To400WithCn,
-	topicOf401To500WithCn
+	topicOf401To500WithCn,
+	topicOf501To600WithCn,
+	topicOf601To700WithCn
 );
 
 const topicOf1To100WithJp = require("./topic/jp/1-100.json");
@@ -32,13 +36,17 @@ const topicOf101To200WithJp = require("./topic/jp/101-200.json");
 const topicOf201To300WithJp = require("./topic/jp/201-300.json");
 const topicOf301To400WithJp = require("./topic/jp/301-400.json");
 const topicOf401To500WithJp = require("./topic/jp/401-500.json");
+const topicOf501To600WithJp = require("./topic/jp/501-600.json");
+const topicOf601To700WithJp = require("./topic/jp/601-700.json");
 
 const topicAllWithJp = [].concat(
 	topicOf1To100WithJp,
 	topicOf101To200WithJp,
 	topicOf201To300WithJp,
 	topicOf301To400WithJp,
-	topicOf401To500WithJp
+	topicOf401To500WithJp,
+	topicOf501To600WithJp,
+	topicOf601To700WithJp
 );
 
 // 三题故事

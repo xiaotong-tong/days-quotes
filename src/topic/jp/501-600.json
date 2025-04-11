@@ -691,5 +691,12 @@
 		"kana": "ほしくず",
 		"explanation": "群星",
 		"hasKanji": true
+	},
+	{
+		"key": 600,
+		"word": "夜桜",
+		"kana": "よざくら",
+		"explanation": "夜樱",
+		"hasKanji": true
 	}
 ]
