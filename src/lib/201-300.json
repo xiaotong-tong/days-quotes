@@ -19,5 +19,54 @@
 		"parse": "<ruby>我々<rp>(</rp><rt>われわれ</rt><rp>)</rp></ruby>の<ruby>大方<rp>(</rp><rt>おおかた</rt><rp>)</rp></ruby>の<ruby>苦悩<rp>(</rp><rt>くのう</rt><rp>)</rp></ruby>は、あり<ruby>得<rp>(</rp><rt>え</rt><rp>)</rp></ruby>べき<ruby>別<rp>(</rp><rt>べつ</rt><rp>)</rp></ruby>の<ruby>人生<rp>(</rp><rt>じんせい</rt><rp>)</rp></ruby>を<ruby>夢想<rp>(</rp><rt>むそう</rt><rp>)</rp></ruby>することから<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>まる。<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>の<ruby>可能<rp>(</rp><rt>かのう</rt><rp>)</rp></ruby><ruby>性<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>という<ruby>当<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>てにならないものに<ruby>望<rp>(</rp><rt>のぞ</rt><rp>)</rp></ruby>みを<ruby>託<rp>(</rp><rt>たく</rt><rp>)</rp></ruby>すことが<ruby>諸悪<rp>(</rp><rt>しょあく</rt><rp>)</rp></ruby>の<ruby>根源<rp>(</rp><rt>こんげん</rt><rp>)</rp></ruby>だ。<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>ここにある<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby><ruby>以外<rp>(</rp><rt>いがい</rt><rp>)</rp></ruby>、ほかの<ruby>何者<rp>(</rp><rt>なにもの</rt><rp>)</rp></ruby>にまなれない<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>を<ruby>認<rp>(</rp><rt>みと</rt><rp>)</rp></ruby>めなくてはいけない。",
 		"chinese": "我们大多数的烦恼都源于梦想拥有不同的人生。而将希望寄于自身可能性这种虚无缥缈的东西上，则是万恶之源。你必须承认，除了现在的你，你无法成为任何人。",
 		"sound": "/local/quotes/q203.wav"
+	},
+	{
+		"key": 204,
+		"sentence": "俺は、絶対落ち込まないのよ。落ち込む人っていうのは、自分のこと過大評価しすぎやねん。過大評価しているからうまくいかなくて落ち込むのよ。人間なんて、今日できたこと、やったことがすべてやねん。",
+		"parse": "<ruby>俺<rp>(</rp><rt>おれ</rt><rp>)</rp></ruby>は、<ruby>絶対<rp>(</rp><rt>ぜったい</rt><rp>)</rp></ruby><ruby>落<rp>(</rp><rt>お</rt><rp>)</rp></ruby>ち<ruby>込<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>まないのよ。<ruby>落<rp>(</rp><rt>お</rt><rp>)</rp></ruby>ち<ruby>込<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>む<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>っていうのは、<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>のこと<ruby>過大<rp>(</rp><rt>かだい</rt><rp>)</rp></ruby><ruby>評価<rp>(</rp><rt>ひょうか</rt><rp>)</rp></ruby>しすぎやねん。<ruby>過大<rp>(</rp><rt>かだい</rt><rp>)</rp></ruby><ruby>評価<rp>(</rp><rt>ひょうか</rt><rp>)</rp></ruby>しているからうまくいかなくて<ruby>落<rp>(</rp><rt>お</rt><rp>)</rp></ruby>ち<ruby>込<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>むのよ。<ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>なんて、<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>できたこと、やったことがすべてやねん。",
+		"chinese": "我是绝对不会沮丧的。人之所以沮丧，是因为对中间评价过高。因为自视甚高，所以遇到挫折就会沮丧。人啊，今天做到的事情就是全部。",
+		"sound": "/local/quotes/q204.wav"
+	},
+	{
+		"key": 205,
+		"sentence": "人間は、自分の苦労を数えることが好きで、自分の幸せは数えようとしないものだ。",
+		"parse": "<ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>は、<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>の<ruby>苦労<rp>(</rp><rt>くろう</rt><rp>)</rp></ruby>を<ruby>数<rp>(</rp><rt>かぞ</rt><rp>)</rp></ruby>えることが<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きで、<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>の<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せは<ruby>数<rp>(</rp><rt>かぞ</rt><rp>)</rp></ruby>えようとしないものだ。",
+		"chinese": "人，总喜欢计算自己的辛苦，却从不计算自己的幸福。",
+		"sound": "/local/quotes/q205.wav"
+	},
+	{
+		"key": 206,
+		"sentence": "人は自分よりも1ミリでも下の人間を探す悲しい生き物なのですね。",
+		"parse": "<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>は<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>よりも1ミリでも<ruby>下<rp>(</rp><rt>した</rt><rp>)</rp></ruby>の<ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>を<ruby>探<rp>(</rp><rt>さが</rt><rp>)</rp></ruby>す<ruby>悲<rp>(</rp><rt>かな</rt><rp>)</rp></ruby>しい<ruby>生<rp>(</rp><rt>い</rt><rp>)</rp></ruby>き<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>なのですね。",
+		"chinese": "人是会去寻找哪怕只比自己低一毫米的可悲生物。",
+		"sound": "/local/quotes/q206.wav"
+	},
+	{
+		"key": 207,
+		"sentence": "もし今日が人生最後の日だとしたら、今やろうとしていることは本当に自分のやりたいことだろうか？",
+		"parse": "もし<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>が<ruby>人生<rp>(</rp><rt>じんせい</rt><rp>)</rp></ruby><ruby>最後<rp>(</rp><rt>さいご</rt><rp>)</rp></ruby>の<ruby>日<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>だとしたら、<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>やろうとしていることは<ruby>本当<rp>(</rp><rt>ほんとう</rt><rp>)</rp></ruby>に<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>のやりたいことだろうか？",
+		"chinese": "如果今天是生命的最后一天，那些原本今天要做的事我还想去做吗？",
+		"sound": "/local/quotes/q207.wav"
+	},
+	{
+		"key": 208,
+		"sentence": "人間を動かす二つのてこは、恐怖と利益である。",
+		"parse": "<ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>を<ruby>動<rp>(</rp><rt>うご</rt><rp>)</rp></ruby>かす<ruby>二<rp>(</rp><rt>ふた</rt><rp>)</rp></ruby>つのてこは、<ruby>恐怖<rp>(</rp><rt>きょうふ</rt><rp>)</rp></ruby>と<ruby>利益<rp>(</rp><rt>りえき</rt><rp>)</rp></ruby>である。",
+		"chinese": "世界上有两根杠杆可以驱使人们行动，利益和恐惧。",
+		"sound": "/local/quotes/q208.wav"
+	},
+	{
+		"key": 209,
+		"sentence": "自然への畏怖をなくし、傲慢になった人類には必ずしっぺ返しが来る。",
+		"parse": "<ruby>自然<rp>(</rp><rt>しぜん</rt><rp>)</rp></ruby>への<ruby>畏怖<rp>(</rp><rt>いふ</rt><rp>)</rp></ruby>をなくし、<ruby>傲慢<rp>(</rp><rt>ごうまん</rt><rp>)</rp></ruby>になった<ruby>人類<rp>(</rp><rt>じんるい</rt><rp>)</rp></ruby>には<ruby>必<rp>(</rp><rt>かなら</rt><rp>)</rp></ruby>ずしっぺ<ruby>返<rp>(</rp><rt>がえ</rt><rp>)</rp></ruby>しが<ruby>来<rp>(</rp><rt>く</rt><rp>)</rp></ruby>る。",
+		"chinese": "没有了对自然的敬畏，变得傲慢的人类终将害人害己。",
+		"sound": "/local/quotes/q209.wav"
+	},
+	{
+		"key": 210,
+		"sentence": "頑張ったから認めてくれ、子供か。",
+		"parse": "<ruby>頑張<rp>(</rp><rt>がんば</rt><rp>)</rp></ruby>ったから<ruby>認<rp>(</rp><rt>みと</rt><rp>)</rp></ruby>めてくれ、<ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>か。",
+		"chinese": "我努力了，所以你要认同我。你以为你是小孩子吗？",
+		"sound": "/local/quotes/q210.wav"
 	}
 ]
